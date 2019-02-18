@@ -131,6 +131,16 @@ class LSTMEncoder(Seq2SeqEncoder):
         ___QUESTION-1-DESCRIBE-A-START___
         Describe what happens when self.bidirectional is set to True. 
         What is the difference between final_hidden_states and final_cell_states?
+        
+        When self.bidirectional is true, the LSTM is bidirectional and the original final_hidden_states 
+        and final_cell_states are of shape (num_layers * num_directions, batch, hidden_size), where num_directions 
+        is exactly 2. What the if-block here does is to, for each layer of LSTM (if several LSTMs are stacked), 
+        concatenate the vectors of the two directions into one vector. In other words, the new final_cell_states and 
+        final_hidden_states will be of shape (num_layers, batch, num_directions * hidden_size).
+        
+        final_hidden_states are the hidden states (h_t) from the last (from the forward view) cells of different layers while
+        the final_cell_states are the cell states (c_t) from the last (from the forward view) cells of different layers. 
+        
         '''
         if self.bidirectional:
             def combine_directions(outs):
