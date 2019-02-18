@@ -217,7 +217,7 @@ class AttentionLayer(nn.Module):
         for some matrix A.
          
         The batch matrix multiplication computes dot products between projected encoder hidden states and the target input vector
-        for every batch, resulting the attention scores. 
+        for every batch, which shows the similarities between the target vector and the hidden states.
         '''
         # encoder_out: (batch, time, output_dim)
         projected_encoder_out = self.src_projection(encoder_out).transpose(2, 1)
