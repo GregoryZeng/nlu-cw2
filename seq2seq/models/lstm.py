@@ -171,16 +171,29 @@ class AttentionLayer(nn.Module):
         # Get attention scores
         encoder_out = encoder_out.transpose(1, 0)
         attn_scores = self.score(tgt_input, encoder_out)
-
+        # (batch, 1, time)
         '''
         ___QUESTION-1-DESCRIBE-B-START___
-        Describe how the attention context vector is calculated. Why do we need to apply a mask to the attention scores?
+        Describe how the attention context vector is calculated. 
+        Why do we need to apply a mask to the attention scores?
+        
+        Given attention scores wrt different timestep t, 
+        a mask is first applied to set scores of certain positions to 0.
+        attn_score of shape (batch_size, 1, src_time_steps) is then fed into the softmax layer to normalize.
+        Attention context vector is then obtained by matrix multiplication of attn_weigts of shape
+         (batch_size, 1, src_time_steps)and encoder_out of shape (batch_size, src_time_steps, output_dim),
+         resulting a tensor of shape (batch, 1, output_dim)  
+         
+        The reason for applying a mask is that the input sequence might be padded with 0 
+        and thus the decoder should not attend to these padded subsequence (their attention scores
+        are then masked to -inf). 
         '''
         if src_mask is not None:
             src_mask = src_mask.unsqueeze(dim=1)
             attn_scores.masked_fill_(src_mask, float('-inf'))
         attn_weights = F.softmax(attn_scores, dim=-1)
         attn_context = torch.bmm(attn_weights, encoder_out).squeeze(dim=1)
+        # (batch, 1, time), (batch, time, output_dim) -> (batch, 1, output_dim)
         '''___QUESTION-1-DESCRIBE-B-END___'''
 
         return attn_context, attn_weights.squeeze(dim=1)
@@ -190,11 +203,21 @@ class AttentionLayer(nn.Module):
 
         '''
         ___QUESTION-1-DESCRIBE-C-START___
-        How are attention scores calculated? What role does matrix multiplication (i.e. torch.bmm()) play 
+        How are attention scores calculated? 
+        What role does matrix multiplication (i.e. torch.bmm()) play 
         in aligning encoder and decoder representations?
+        
+        Given a target vector t and encoder hidden state h, the attention scores is calculated by t^T A h 
+        for some matrix A.
+         
+        The batch matrix multiplication computes dot products between projected encoder hidden states and the target input vector
+        for every batch, resulting the attention scores. 
         '''
+        # encoder_out: (batch, time, output_dim)
         projected_encoder_out = self.src_projection(encoder_out).transpose(2, 1)
+        # (batch, time, input_dims) -> (batch, input_dims, time)
         attn_scores = torch.bmm(tgt_input.unsqueeze(dim=1), projected_encoder_out)
+        # (batch, 1, input_dims), (batch, input_dims, time) -> (batch, 1, time)
         '''___QUESTION-1-DESCRIBE-C-END___'''
 
         return attn_scores
