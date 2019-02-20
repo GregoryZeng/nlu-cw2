@@ -125,6 +125,11 @@ def main(args):
             '''
             ___QUESTION-1-DESCRIBE-F-START___
             Describe what the following lines of code do.
+            
+            First feed training samples into the model to obtain output, which is then used to compute a cross entropy loss.
+            Given the loss, we compute gradients wrt the loss by running backprop (the backward() method).
+            Gradient clipping is then conducted to prevent the gradients from getting too large.
+            Then we perform one-step update and then reset the gradients to 0.
             '''
             output, _ = model(sample['src_tokens'], sample['src_lengths'], sample['tgt_inputs'])
             loss = \

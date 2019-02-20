@@ -201,7 +201,8 @@ class AttentionLayer(nn.Module):
         attn_out = torch.tanh(self.context_plus_hidden_projection(context_plus_hidden))
 
         '''___QUESTION-1-DESCRIBE-B-END___'''
-
+        # first: next input_feed, transformation of [target hidden vector, context vector]
+        # second: softmax-normalized attention weights
         return attn_out, attn_weights.squeeze(dim=1)
 
     def score(self, tgt_input, encoder_out):
@@ -297,14 +298,25 @@ class LSTMDecoder(Seq2SeqDecoder):
         '''
         ___QUESTION-1-DESCRIBE-D-START___
         Describe how the decoder state is initialized. When is cached_state == None? What role does input_feed play?
+        
+        If the cached_state exists, the decoder states are initialized to the contents from it. Otherwise, they are 
+        initialized as zeros.
+        
+        The seq2seq model predicts one word at a time. The first time the seq2seq model, the decoder states (i.e. the 
+        previous hidden state and the previous cell state) are initialized as 0, which is the case the cached_state is None.
+        
+        input_feed (i.e. input feeding from [Luong 2015]) propagates information about attention vector and target vector 
+        of the previous timestep, which is helpful for modelling target words.
         '''
         cached_state = utils.get_incremental_state(self, incremental_state, 'cached_state')
         if cached_state is not None:
             tgt_hidden_states, tgt_cell_states, input_feed = cached_state
         else:
             tgt_hidden_states = [torch.zeros(tgt_inputs.size()[0], self.hidden_size) for i in range(len(self.layers))]
+            # tgt_inputs: (batch_size, time_steps)
             tgt_cell_states = [torch.zeros(tgt_inputs.size()[0], self.hidden_size) for i in range(len(self.layers))]
             input_feed = tgt_embeddings.data.new(batch_size, self.hidden_size).zero_()
+            # tgt_embedding: (time_steps, batch_size, num_features)
         '''___QUESTION-1-DESCRIBE-D-END___'''
 
         # Initialize attention output node
@@ -329,15 +341,28 @@ class LSTMDecoder(Seq2SeqDecoder):
 
             '''
             ___QUESTION-1-DESCRIBE-E-START___
-            How is attention integrated into the decoder? Why is the attention function given the previous 
-            target state as one of its inputs? What is the purpose of the dropout layer?
+            How is attention integrated into the decoder? 
+            Why is the attention function given the previous target state as one of its inputs? 
+            What is the purpose of the dropout layer?
+            
+            
+            After the hidden state vector h_t from the top layer of stacked LSTM is computed,
+            the decoder uses h_t and encoder hidden states to compute the attention vector (i.e. input feeding for next timestep).
+            
+            The attention function needs to measure the similarities between the current decoding state and every encoder hidden state 
+            to obtain the attention weights (and vector). The previous target state encodes information about the current decoding state.
+            
+            The dropout layer randomly sets some positions to 0, which would potentially prevent overfitting. 
+            In the case of decoding, the dropout could prevent the next decoding state from relying too much on some certain states of 
+            attention vector.
+            
             '''
             if self.attention is None:
                 input_feed = tgt_hidden_states[-1]
             else:
                 input_feed, step_attn_weights = self.attention(tgt_hidden_states[-1], src_out, src_mask)
                 attn_weights[:, j, :] = step_attn_weights
-
+                # attn_weight: (batch_size, tgt_time_step, src_time_step)
                 if self.use_lexical_model:
                     # __QUESTION: Compute and collect LEXICAL MODEL context vectors here
                     # TODO: --------------------------------------------------------------------- CUT
