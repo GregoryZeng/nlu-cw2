@@ -1,9 +1,10 @@
 import os
 import argparse
 import pandas as pd
-import seaborn as sns
 import matplotlib as mpl
+mpl.use("TkAgg")
 import matplotlib.pyplot as plt
+import seaborn as sns
 
 import torch
 from torch.serialization import default_restore_location
@@ -30,7 +31,7 @@ def get_args():
 
 def main(args):
     """ Main function. Visualizes attention weight arrays as nifty heat-maps. """
-    mpl.rc('font', family='VL Gothic')
+    mpl.rc('font', family='AppleGothic')
 
     torch.manual_seed(42)
     state_dict = torch.load(args.checkpoint_path, map_location=lambda s, l: default_restore_location(s, 'cpu'))
@@ -84,6 +85,7 @@ def main(args):
         os.makedirs(args.vis_dir)
 
     for record_id, record in enumerate(attn_records):
+        # print('aaaaa')
         # Unpack
         sample, attn_map = record
         src_ids = utils.strip_pad(sample['src_tokens'].data, tgt_dict.pad_idx)
@@ -92,19 +94,23 @@ def main(args):
         src_str = src_dict.string(src_ids).split(' ') + ['<EOS>']
         tgt_str = tgt_dict.string(tgt_ids).split(' ') + ['<EOS>']
 
+        # print('bbbbb')
         # Generate heat-maps
         attn_map = attn_map.squeeze(dim=0).transpose(1, 0).detach().numpy()
 
         attn_df = pd.DataFrame(attn_map,
                                index=src_str,
                                columns=tgt_str)
-
+        # print('ccccc')
+        print(attn_df)
         sns.heatmap(attn_df, cmap='Blues', linewidths=0.25, vmin=0.0, vmax=1.0, xticklabels=True, yticklabels=True,
                     fmt='.3f')
+        # print('dddd')
         plt.yticks(rotation=0)
         plot_path = os.path.join(args.vis_dir, 'sentence_{:d}.png'.format(record_id))
         plt.savefig(plot_path, dpi='figure', pad_inches=1, bbox_inches='tight')
         plt.clf()
+
 
     print('Done! Visualized attention maps have been saved to the \'{:s}\' directory!'.format(args.vis_dir))
 
