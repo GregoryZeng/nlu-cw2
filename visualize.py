@@ -102,7 +102,7 @@ def main(args):
                                index=src_str,
                                columns=tgt_str)
         # print('ccccc')
-        print(attn_df)
+        # print(attn_df)
         sns.heatmap(attn_df, cmap='Blues', linewidths=0.25, vmin=0.0, vmax=1.0, xticklabels=True, yticklabels=True,
                     fmt='.3f')
         # print('dddd')

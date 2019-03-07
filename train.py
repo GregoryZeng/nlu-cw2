@@ -122,7 +122,7 @@ def main(args):
                 continue
             model.train()
             
-            print(sample['src_tokens'].device, sample['src_lengths'].device, sample['tgt_inputs'].device)
+            # print(sample['src_tokens'].device, sample['src_lengths'].device, sample['tgt_inputs'].device)
             '''
             ___QUESTION-1-DESCRIBE-F-START___
             Describe what the following lines of code do.
