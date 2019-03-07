@@ -34,7 +34,9 @@ def main(args):
     # Load arguments from checkpoint
     torch.manual_seed(args.seed)
     state_dict = torch.load(args.checkpoint_path, map_location=lambda s, l: default_restore_location(s, 'cpu'))
+    if_cuda = args.cuda
     args = argparse.Namespace(**{**vars(args), **vars(state_dict['args'])})
+    args.cuda = if_cuda
     utils.init_logging(args)
 
     # Load dictionaries
@@ -62,12 +64,17 @@ def main(args):
     logging.info('Loaded a model from checkpoint {:s}'.format(args.checkpoint_path))
     progress_bar = tqdm(test_loader, desc='| Generation', leave=False)
 
+    
+    #print(args.cuda)
     # Iterate over the test set
     all_hyps = {}
     for i, sample in enumerate(progress_bar):
-        if args.cuda == True:
+        
+        if args.cuda == 'True':
             sample = utils.move_to_cuda(sample)
-
+           # print('66666')
+        #print(args.cuda,type(args.cuda))	
+        #print(sample['src_tokens'].device)
         with torch.no_grad():
             # Compute the encoder output
             encoder_out = model.encoder(sample['src_tokens'], sample['src_lengths'])
