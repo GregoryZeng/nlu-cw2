@@ -321,7 +321,7 @@ class LSTMDecoder(Seq2SeqDecoder):
             # tgt_cell_states = [torch.zeros(tgt_inputs.size()[0], self.hidden_size) for i in range(len(self.layers))]
             tgt_cell_states = [src_embeddings.new_full((tgt_inputs.size()[0], self.hidden_size),fill_value=0)
                                for _ in range(len(self.layers))]
-            print(tgt_hidden_states[0].device, tgt_cell_states[0].device)
+            # print(tgt_hidden_states[0].device, tgt_cell_states[0].device)
             input_feed = tgt_embeddings.data.new(batch_size, self.hidden_size).zero_()
             # tgt_embedding: (time_steps, batch_size, num_features)
         '''___QUESTION-1-DESCRIBE-D-END___'''
