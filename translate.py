@@ -65,6 +65,9 @@ def main(args):
     # Iterate over the test set
     all_hyps = {}
     for i, sample in enumerate(progress_bar):
+        if args.cuda == True:
+            sample = utils.move_to_cuda(sample)
+
         with torch.no_grad():
             # Compute the encoder output
             encoder_out = model.encoder(sample['src_tokens'], sample['src_lengths'])
