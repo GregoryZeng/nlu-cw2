@@ -1,0 +1,3500 @@
+この 路地 は 通り抜け でき ま せ ん 。
+this is a dead @-@ end alley .
+i can &apos;t go this morning .
+i can &apos;t went to this matter .
+BLEU = 0.00, 16.7/0.0/0.0/0.0 (BP=0.846, ratio=0.857, hyp_len=6, ref_len=7)
+BLEU = 0.00, 14.3/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=7, ref_len=7)
+
+ええ 、 届 い た の を お 知 らせ する の を 忘れ て しま っ て す み ま せ ん 。
+yes , sorry , i forgot to acknowledge it .
+i &apos;m sorry to have a few friends to ask your own way .
+i don &apos;t have to have lost the reached of myself .
+BLEU = 0.00, 23.1/0.0/0.0/0.0 (BP=1.000, ratio=1.444, hyp_len=13, ref_len=9)
+BLEU = 0.00, 18.2/0.0/0.0/0.0 (BP=1.000, ratio=1.222, hyp_len=11, ref_len=9)
+
+彼 は ドイツ 生まれ の 人 だ 。
+he is a german by origin .
+he is a man of great ability .
+he is a born of germany .
+BLEU = 0.00, 42.9/33.3/20.0/0.0 (BP=1.000, ratio=1.167, hyp_len=7, ref_len=6)
+BLEU = 0.00, 50.0/40.0/25.0/0.0 (BP=1.000, ratio=1.000, hyp_len=6, ref_len=6)
+
+我々 は ロビン フッド の 伝説 を 良く 知 っ て い る 。
+we are familiar with the legend of robin hood .
+we know the most of the best of the city .
+we know the observe of our own school .
+BLEU = 0.00, 30.0/0.0/0.0/0.0 (BP=1.000, ratio=1.111, hyp_len=10, ref_len=9)
+BLEU = 0.00, 37.5/0.0/0.0/0.0 (BP=0.882, ratio=0.889, hyp_len=8, ref_len=9)
+
+トランク に は 鍵 が かけ られ て い ま す か 。
+is your trunk locked ?
+is there a key in the evening ?
+can i have a key in the evening ?
+BLEU = 0.00, 14.3/0.0/0.0/0.0 (BP=1.000, ratio=1.750, hyp_len=7, ref_len=4)
+BLEU = 0.00, 0.0/0.0/0.0/0.0 (BP=1.000, ratio=2.000, hyp_len=8, ref_len=4)
+
+それ は 冗談 の つもり で い っ た だけ だ よ 。
+i just meant it as a joke .
+it &apos;s a time for the joke .
+it &apos;s only no time to do .
+BLEU = 0.00, 42.9/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=7, ref_len=7)
+BLEU = 0.00, 14.3/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=7, ref_len=7)
+
+その 部屋 は 居心地 の 良 い 感じ が し た 。
+the room had a nice cozy feel .
+the room was good .
+the room was a good good .
+BLEU = 0.00, 50.0/33.3/0.0/0.0 (BP=0.472, ratio=0.571, hyp_len=4, ref_len=7)
+BLEU = 0.00, 50.0/20.0/0.0/0.0 (BP=0.846, ratio=0.857, hyp_len=6, ref_len=7)
+
+パソコン が 使え る の は 彼女 だけ で す 。
+she alone is able to use the personal computer .
+i &apos;m sure to play the weather .
+it is only her only to hear .
+BLEU = 0.00, 28.6/0.0/0.0/0.0 (BP=0.751, ratio=0.778, hyp_len=7, ref_len=9)
+BLEU = 0.00, 28.6/0.0/0.0/0.0 (BP=0.751, ratio=0.778, hyp_len=7, ref_len=9)
+
+彼 ら は 共同 声明 に 同意 し た 。
+they agreed on a joint statement .
+they were on the way to the door .
+they reluctantly agreed to the river .
+BLEU = 0.00, 25.0/0.0/0.0/0.0 (BP=1.000, ratio=1.333, hyp_len=8, ref_len=6)
+BLEU = 0.00, 33.3/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=6, ref_len=6)
+
+彼 は 彼女 を バス に 助け あげ た 。
+he handed her up into the bus .
+he help her at the bus .
+he gave her to bus .
+BLEU = 0.00, 66.7/20.0/0.0/0.0 (BP=0.846, ratio=0.857, hyp_len=6, ref_len=7)
+BLEU = 0.00, 60.0/0.0/0.0/0.0 (BP=0.670, ratio=0.714, hyp_len=5, ref_len=7)
+
+彼 に どんな 欠点 が あ る に し て も 、 卑劣 な ところ は な い 。
+whatever faults he may have , meanness is not one of them .
+i don &apos;t know how to do with him .
+it is not having anything he will be a good time to do .
+BLEU = 0.00, 0.0/0.0/0.0/0.0 (BP=0.717, ratio=0.750, hyp_len=9, ref_len=12)
+BLEU = 0.00, 23.1/8.3/0.0/0.0 (BP=1.000, ratio=1.083, hyp_len=13, ref_len=12)
+
+「 こんな 朝 早く から 開館 し て る ん で す か ？ 」 「 私 は 顔 パス よ 」
+&quot; will they be open this early in the morning ? &quot; &quot; they &apos;ll let me in on sight . &quot;
+&quot; is it here to the last week ? &quot; &quot; &quot; &quot; &quot; &quot; i &apos;m a week . &quot;
+&quot; is i &apos;m going to this morning ? &quot; &quot; i &apos;m afraid i &apos;m good . &quot;
+BLEU = 0.00, 33.3/15.0/5.3/0.0 (BP=0.953, ratio=0.955, hyp_len=21, ref_len=22)
+BLEU = 13.83, 42.1/22.2/11.8/6.2 (BP=0.854, ratio=0.864, hyp_len=19, ref_len=22)
+
+人間 も 極度 に 寒 い 温度 に 対 し て は 、 防御 装置 を 備え て い る 。
+man , too , has been given protective devices against extreme temperatures .
+the man is at the best who are cold .
+the human umbrella has a good many years and light .
+BLEU = 0.00, 11.1/0.0/0.0/0.0 (BP=0.717, ratio=0.750, hyp_len=9, ref_len=12)
+BLEU = 0.00, 10.0/0.0/0.0/0.0 (BP=0.819, ratio=0.833, hyp_len=10, ref_len=12)
+
+私 は タバコ を 吸 う の を やめ た 。
+i stopped smoking .
+i showed my smoking .
+i quit smoking .
+BLEU = 0.00, 50.0/0.0/0.0/0.0 (BP=1.000, ratio=1.333, hyp_len=4, ref_len=3)
+BLEU = 0.00, 66.7/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=3, ref_len=3)
+
+彼 は かっと な っ て 私 を 殴 っ た 。
+he struck me in a passion .
+he put me a few .
+he turned me to fits .
+BLEU = 0.00, 60.0/0.0/0.0/0.0 (BP=0.819, ratio=0.833, hyp_len=5, ref_len=6)
+BLEU = 0.00, 40.0/0.0/0.0/0.0 (BP=0.819, ratio=0.833, hyp_len=5, ref_len=6)
+
+彼 は ロープ を 引っ張 っ た 。
+he pulled the rope .
+he took a new novel .
+he lost his rope .
+BLEU = 0.00, 20.0/0.0/0.0/0.0 (BP=1.000, ratio=1.250, hyp_len=5, ref_len=4)
+BLEU = 0.00, 50.0/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=4, ref_len=4)
+
+どう し て あやま っ て 彼 の 許し を こ わ な い ん だ 。
+why not apologize and ask for his pardon ?
+it is impossible that he should be a great deal of his own .
+i don &apos;t have to stay him for what he is .
+BLEU = 0.00, 7.7/0.0/0.0/0.0 (BP=1.000, ratio=1.625, hyp_len=13, ref_len=8)
+BLEU = 0.00, 9.1/0.0/0.0/0.0 (BP=1.000, ratio=1.375, hyp_len=11, ref_len=8)
+
+私 は 彼 ら は 来る と 思 う 。
+i suppose they are coming .
+i think he will come .
+i think they are likely .
+BLEU = 0.00, 20.0/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=5, ref_len=5)
+BLEU = 0.00, 60.0/25.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=5, ref_len=5)
+
+丘 の 上 に 建 っ て い る 家 は とても 古 い 。
+the house which stands on the hill is very old .
+the house is very old , and i &apos;m very old .
+the house is very old .
+BLEU = 0.00, 45.5/30.0/11.1/0.0 (BP=1.000, ratio=1.100, hyp_len=11, ref_len=10)
+BLEU = 0.00, 100.0/75.0/33.3/0.0 (BP=0.368, ratio=0.500, hyp_len=5, ref_len=10)
+
+私 は 早 く 着 き すぎ た 。
+i arrived there too early .
+i got a early time .
+i got a horse of early .
+BLEU = 0.00, 40.0/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=5, ref_len=5)
+BLEU = 0.00, 33.3/0.0/0.0/0.0 (BP=1.000, ratio=1.200, hyp_len=6, ref_len=5)
+
+私 は 彼 の 親切 に こたえ た い 。
+i would like to repay him for his kindness .
+i want to get his kind to his kind of kind .
+i want to study up with his kind .
+BLEU = 0.00, 27.3/0.0/0.0/0.0 (BP=1.000, ratio=1.222, hyp_len=11, ref_len=9)
+BLEU = 0.00, 37.5/0.0/0.0/0.0 (BP=0.882, ratio=0.889, hyp_len=8, ref_len=9)
+
+屋根 は 強風 に 飛ば さ れ た 。
+the roof was torn off by the gale .
+the snow was made in the air .
+the roof was a big tree .
+BLEU = 0.00, 42.9/0.0/0.0/0.0 (BP=0.867, ratio=0.875, hyp_len=7, ref_len=8)
+BLEU = 0.00, 50.0/40.0/25.0/0.0 (BP=0.717, ratio=0.750, hyp_len=6, ref_len=8)
+
+霧 の 中 から 突然 船 が 現れ た 。
+a boat suddenly appeared out of the mist .
+the ship of the game , the ship got to the one .
+the ship of the fog appeared off .
+BLEU = 0.00, 16.7/9.1/0.0/0.0 (BP=1.000, ratio=1.500, hyp_len=12, ref_len=8)
+BLEU = 0.00, 42.9/16.7/0.0/0.0 (BP=0.867, ratio=0.875, hyp_len=7, ref_len=8)
+
+車 が 衝突 し た とき シート ベルト を し て い た ら 、 彼 は 今 で も 生き て い る だ ろ う 。
+he would still be alive if he had been wearing his seat belt when the car crashed .
+when i was a car , he will live now .
+when i was the car , he will live in .
+BLEU = 0.00, 30.0/0.0/0.0/0.0 (BP=0.497, ratio=0.588, hyp_len=10, ref_len=17)
+BLEU = 0.00, 40.0/11.1/0.0/0.0 (BP=0.497, ratio=0.588, hyp_len=10, ref_len=17)
+
+あなた が 結婚 し 子供 を 持 っ た ら 、 言葉 より 実践 と い う こと を 悟 る で しょ う 。
+when you get married and have kids , you &apos;ll realize that actions speak louder than words .
+if you have a child , you will be a child .
+if you have any marriage , i would like to have a word more than you .
+BLEU = 0.00, 36.4/10.0/0.0/0.0 (BP=0.580, ratio=0.647, hyp_len=11, ref_len=17)
+BLEU = 0.00, 31.2/0.0/0.0/0.0 (BP=0.939, ratio=0.941, hyp_len=16, ref_len=17)
+
+それ は 遺憾 な ところ が 多 い 。
+it leaves nothing much to be desired .
+it is many easy that is .
+it is often to be a large places .
+BLEU = 0.00, 16.7/0.0/0.0/0.0 (BP=0.846, ratio=0.857, hyp_len=6, ref_len=7)
+BLEU = 0.00, 37.5/14.3/0.0/0.0 (BP=1.000, ratio=1.143, hyp_len=8, ref_len=7)
+
+その 装置 が 作動 し て い る 間 は 暖房 を 止め る こと は でき な い 。
+you can &apos;t turn the heat off as long as the system is operating .
+the cat can &apos;t be able to swim in the garden .
+i can &apos;t do the matter that the author will be held .
+BLEU = 0.00, 36.4/10.0/0.0/0.0 (BP=0.761, ratio=0.786, hyp_len=11, ref_len=14)
+BLEU = 0.00, 33.3/9.1/0.0/0.0 (BP=0.846, ratio=0.857, hyp_len=12, ref_len=14)
+
+ピクニック は 雨 の ため に 中止 に な っ た 。
+the picnic was called off because of rain .
+the picnic has gone to rain .
+the picnic ended on the rain .
+BLEU = 0.00, 50.0/20.0/0.0/0.0 (BP=0.717, ratio=0.750, hyp_len=6, ref_len=8)
+BLEU = 0.00, 50.0/20.0/0.0/0.0 (BP=0.717, ratio=0.750, hyp_len=6, ref_len=8)
+
+彼 は 週末 に よく 家 を 空け る 。
+he often stays away from home on the weekend .
+he often comes to the house .
+he often comes home .
+BLEU = 0.00, 50.0/20.0/0.0/0.0 (BP=0.607, ratio=0.667, hyp_len=6, ref_len=9)
+BLEU = 0.00, 75.0/33.3/0.0/0.0 (BP=0.287, ratio=0.444, hyp_len=4, ref_len=9)
+
+その シェパード は 、 びっこ を ひ き ながら 道 を 歩 い て い た 。
+the german shepherd was limping down the street .
+the old man was walked in the face of the door .
+the old man walked the road of the road .
+BLEU = 0.00, 27.3/0.0/0.0/0.0 (BP=1.000, ratio=1.375, hyp_len=11, ref_len=8)
+BLEU = 0.00, 22.2/0.0/0.0/0.0 (BP=1.000, ratio=1.125, hyp_len=9, ref_len=8)
+
+ボブ は 読 み きれ な い ほど たくさん の 本 を 持 っ て い る 。
+bob has too many books to read .
+bob has a lot of books .
+bob has a good book of books .
+BLEU = 0.00, 50.0/20.0/0.0/0.0 (BP=0.846, ratio=0.857, hyp_len=6, ref_len=7)
+BLEU = 0.00, 42.9/16.7/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=7, ref_len=7)
+
+板 に くぎ を 打ち込 ん だ 。
+he hammered nails into the plank .
+i &apos;m going to the full of the way .
+i got a little against the log .
+BLEU = 0.00, 11.1/0.0/0.0/0.0 (BP=1.000, ratio=1.500, hyp_len=9, ref_len=6)
+BLEU = 0.00, 14.3/0.0/0.0/0.0 (BP=1.000, ratio=1.167, hyp_len=7, ref_len=6)
+
+宿題 は もう 終わ っ た の で す か 。
+have you finished your homework already ?
+what is you finished your homework ?
+did you have already finished your homework ?
+BLEU = 50.81, 66.7/60.0/50.0/33.3 (BP=1.000, ratio=1.000, hyp_len=6, ref_len=6)
+BLEU = 0.00, 85.7/33.3/20.0/0.0 (BP=1.000, ratio=1.167, hyp_len=7, ref_len=6)
+
+まず その 辺 で す 。
+that &apos;s about it .
+the problem is the best of the bad .
+the old man is the same .
+BLEU = 0.00, 0.0/0.0/0.0/0.0 (BP=1.000, ratio=2.000, hyp_len=8, ref_len=4)
+BLEU = 0.00, 0.0/0.0/0.0/0.0 (BP=1.000, ratio=1.500, hyp_len=6, ref_len=4)
+
+夢 は 、 世界 一周 旅行 。
+my dream is to take a round @-@ the @-@ world trip .
+the world of a world the world .
+the dream is full of world .
+BLEU = 0.00, 42.9/0.0/0.0/0.0 (BP=0.490, ratio=0.583, hyp_len=7, ref_len=12)
+BLEU = 0.00, 66.7/20.0/0.0/0.0 (BP=0.368, ratio=0.500, hyp_len=6, ref_len=12)
+
+今夜 は 家 に つれ て い っ て く れ 。
+please take me home tonight .
+it &apos;s all right tonight .
+i &apos;m going to home tonight .
+BLEU = 0.00, 20.0/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=5, ref_len=5)
+BLEU = 0.00, 33.3/20.0/0.0/0.0 (BP=1.000, ratio=1.200, hyp_len=6, ref_len=5)
+
+２ 日間 ベッド に い な く て は な ら な かっ た 。
+i have had to stay in bed for two days .
+i had to have any more to have two .
+i had no cause of two two .
+BLEU = 0.00, 55.6/12.5/0.0/0.0 (BP=0.895, ratio=0.900, hyp_len=9, ref_len=10)
+BLEU = 0.00, 42.9/0.0/0.0/0.0 (BP=0.651, ratio=0.700, hyp_len=7, ref_len=10)
+
+消防 士 は あっ と い う 間 に 火 を 消 し た 。
+the firemen had the fire out in no time .
+the old man made a fire in the world of a small time .
+the old lawyer disappeared a fire in the world .
+BLEU = 0.00, 38.5/0.0/0.0/0.0 (BP=1.000, ratio=1.444, hyp_len=13, ref_len=9)
+BLEU = 0.00, 44.4/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=9, ref_len=9)
+
+あなた の 傘 を 借り て い い で す か 。
+can i borrow your umbrella ?
+may i borrow your umbrella ?
+what is your umbrella ?
+BLEU = 66.87, 80.0/75.0/66.7/50.0 (BP=1.000, ratio=1.000, hyp_len=5, ref_len=5)
+BLEU = 0.00, 50.0/33.3/0.0/0.0 (BP=0.779, ratio=0.800, hyp_len=4, ref_len=5)
+
+明日 雨降り なら 私 は 家 に い ま す 。
+i will stay home if it rains tomorrow .
+i &apos;m going to house tomorrow .
+i &apos;m home tomorrow .
+BLEU = 0.00, 33.3/0.0/0.0/0.0 (BP=0.717, ratio=0.750, hyp_len=6, ref_len=8)
+BLEU = 0.00, 75.0/0.0/0.0/0.0 (BP=0.368, ratio=0.500, hyp_len=4, ref_len=8)
+
+彼女 が 最後 に ゴール し た 人 で す 。
+she was the last to cross the finishing line .
+i like her to help her .
+i have a person to ask .
+BLEU = 0.00, 16.7/0.0/0.0/0.0 (BP=0.607, ratio=0.667, hyp_len=6, ref_len=9)
+BLEU = 0.00, 16.7/0.0/0.0/0.0 (BP=0.607, ratio=0.667, hyp_len=6, ref_len=9)
+
+写真 ほど 鮮明 な もの は な い 。
+nothing is more vivid than a picture .
+nothing is not as a as as as as as as as it .
+nothing is so much as as as as as as as as as as as as they are not as a picture .
+BLEU = 0.00, 23.1/8.3/0.0/0.0 (BP=1.000, ratio=1.857, hyp_len=13, ref_len=7)
+BLEU = 0.00, 18.2/9.5/0.0/0.0 (BP=1.000, ratio=3.143, hyp_len=22, ref_len=7)
+
+減税 は しばしば 経済 を 刺激 する 重要 な 財政 政策 手段 と し て 使 わ れ る 。
+tax cuts are often used as a major fiscal tool to stimulate the economy .
+the old man will be held in order to put the economy without a small car .
+the old man is used to send the economy of the economy .
+BLEU = 0.00, 25.0/6.7/0.0/0.0 (BP=1.000, ratio=1.143, hyp_len=16, ref_len=14)
+BLEU = 0.00, 33.3/9.1/0.0/0.0 (BP=0.846, ratio=0.857, hyp_len=12, ref_len=14)
+
+橋 が 圧力 で 落ち た 。
+the bridge crashed under the pressure .
+the bridge was caught in the last time .
+the bridge fell down in the middle .
+BLEU = 0.00, 37.5/14.3/0.0/0.0 (BP=1.000, ratio=1.333, hyp_len=8, ref_len=6)
+BLEU = 0.00, 42.9/16.7/0.0/0.0 (BP=1.000, ratio=1.167, hyp_len=7, ref_len=6)
+
+私 は その 事実 を 十分 よく 知 っ て い る 。
+i know the facts well enough .
+i know the fact enough .
+i know the fact .
+BLEU = 0.00, 80.0/50.0/33.3/0.0 (BP=0.819, ratio=0.833, hyp_len=5, ref_len=6)
+BLEU = 0.00, 75.0/66.7/50.0/0.0 (BP=0.607, ratio=0.667, hyp_len=4, ref_len=6)
+
+彼 の 後 を 継 ぐ だけ の 能力 の あ る 人物 を 見つけ る の は 容易 で は な い だ ろ う 。
+it won &apos;t be easy to find someone capable of taking his place .
+it is not easy to make a man of him to be a man of him .
+i don &apos;t like to found the more of his customers .
+BLEU = 0.00, 31.2/6.7/0.0/0.0 (BP=1.000, ratio=1.231, hyp_len=16, ref_len=13)
+BLEU = 0.00, 36.4/0.0/0.0/0.0 (BP=0.834, ratio=0.846, hyp_len=11, ref_len=13)
+
+私 は 一 番 列車 に 間に合 う よう に 急 い だ 。
+i hurried in order to catch the first train .
+i &apos;m going to get a train in the train .
+i hurry to the train to be a train .
+BLEU = 0.00, 50.0/0.0/0.0/0.0 (BP=1.000, ratio=1.111, hyp_len=10, ref_len=9)
+BLEU = 0.00, 44.4/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=9, ref_len=9)
+
+私 は もはや 彼 の なまけ を 我慢 出来 な い 。
+i cannot put up with his idleness any longer .
+i can &apos;t stand his mind .
+i can &apos;t put him in the country .
+BLEU = 0.00, 33.3/0.0/0.0/0.0 (BP=0.607, ratio=0.667, hyp_len=6, ref_len=9)
+BLEU = 0.00, 25.0/0.0/0.0/0.0 (BP=0.882, ratio=0.889, hyp_len=8, ref_len=9)
+
+彼女 は 叔母 に 似 て い る 。
+she resembles her aunt .
+she is as well as her aunt .
+she takes after his aunt .
+BLEU = 0.00, 42.9/16.7/0.0/0.0 (BP=1.000, ratio=1.750, hyp_len=7, ref_len=4)
+BLEU = 0.00, 40.0/0.0/0.0/0.0 (BP=1.000, ratio=1.250, hyp_len=5, ref_len=4)
+
+彼 は い い 給料 を もら っ て い る 。
+he earns a good salary .
+he has a good old car .
+he has a good salary salary .
+BLEU = 0.00, 50.0/20.0/0.0/0.0 (BP=1.000, ratio=1.200, hyp_len=6, ref_len=5)
+BLEU = 0.00, 66.7/40.0/25.0/0.0 (BP=1.000, ratio=1.200, hyp_len=6, ref_len=5)
+
+歌 を 歌 っ て い る 少年 は 私 の 弟 で す 。
+the boy singing a song is my brother .
+the boy is my brother and my brother .
+the boy singing singing is my brother .
+BLEU = 0.00, 62.5/42.9/16.7/0.0 (BP=1.000, ratio=1.000, hyp_len=8, ref_len=8)
+BLEU = 0.00, 85.7/66.7/40.0/0.0 (BP=0.867, ratio=0.875, hyp_len=7, ref_len=8)
+
+彼女 は ベッド の 上 に うつ伏せ に 倒れ て い た 。
+she was lying face down on the bed .
+she was caught in the her voice .
+she fell down on the bed .
+BLEU = 0.00, 42.9/16.7/0.0/0.0 (BP=0.867, ratio=0.875, hyp_len=7, ref_len=8)
+BLEU = 38.50, 83.3/60.0/50.0/33.3 (BP=0.717, ratio=0.750, hyp_len=6, ref_len=8)
+
+急 い で する 事 が あ る 。
+i have an urgent matter to attend to .
+i have a hurry .
+there is a hurry to hurry .
+BLEU = 0.00, 50.0/33.3/0.0/0.0 (BP=0.368, ratio=0.500, hyp_len=4, ref_len=8)
+BLEU = 0.00, 16.7/0.0/0.0/0.0 (BP=0.717, ratio=0.750, hyp_len=6, ref_len=8)
+
+私 は 、 ストライキ の ため に 、 旅行 を 中止 し な けれ ば な ら な かっ た 。
+i had to cancel my trip on account of the strike .
+i had to put up my trip in the room .
+i had to put my trip to the strike .
+BLEU = 0.00, 60.0/33.3/12.5/0.0 (BP=0.905, ratio=0.909, hyp_len=10, ref_len=11)
+BLEU = 0.00, 77.8/50.0/14.3/0.0 (BP=0.801, ratio=0.818, hyp_len=9, ref_len=11)
+
+だれ で も が み な 正直 と は 限 ら な い 。
+everyone is not honest .
+nobody has no sense of nothing .
+nobody is not to have a good honest .
+BLEU = 0.00, 0.0/0.0/0.0/0.0 (BP=1.000, ratio=1.500, hyp_len=6, ref_len=4)
+BLEU = 0.00, 37.5/14.3/0.0/0.0 (BP=1.000, ratio=2.000, hyp_len=8, ref_len=4)
+
+もし 私 が 君 の 立場 なら 、 彼 を 手伝 っ て や る だ ろ う に 。
+if i were in your place , i would lend him a hand .
+i &apos;ll help you as long as i will help you .
+if i was a situation , i will help him .
+BLEU = 0.00, 18.2/0.0/0.0/0.0 (BP=0.834, ratio=0.846, hyp_len=11, ref_len=13)
+BLEU = 0.00, 60.0/22.2/0.0/0.0 (BP=0.741, ratio=0.769, hyp_len=10, ref_len=13)
+
+早起き の 習慣 を 養 う よう に し なさ い 。
+you should cultivate the habit of getting up early .
+take care to your new habit .
+look to the habit of the early .
+BLEU = 0.00, 16.7/0.0/0.0/0.0 (BP=0.607, ratio=0.667, hyp_len=6, ref_len=9)
+BLEU = 0.00, 57.1/33.3/20.0/0.0 (BP=0.751, ratio=0.778, hyp_len=7, ref_len=9)
+
+君 に 会 っ た こと を 私 は 決して 忘れ ま せ ん 。
+i will never forget seeing you .
+i don &apos;t forget to see you to see you .
+i never forget you to see you .
+BLEU = 0.00, 30.0/0.0/0.0/0.0 (BP=1.000, ratio=1.667, hyp_len=10, ref_len=6)
+BLEU = 0.00, 57.1/16.7/0.0/0.0 (BP=1.000, ratio=1.167, hyp_len=7, ref_len=6)
+
+カナダ へ 行 っ た こと が あ り ま す か 。
+have you ever been to canada ?
+have you ever been to the movies ?
+have you ever been to canada ?
+BLEU = 61.48, 71.4/66.7/60.0/50.0 (BP=1.000, ratio=1.167, hyp_len=7, ref_len=6)
+BLEU = 100.00, 100.0/100.0/100.0/100.0 (BP=1.000, ratio=1.000, hyp_len=6, ref_len=6)
+
+バス の 前 の ほう は す い て い た 。
+the front of the bus was not crowded .
+it was a long before we were in the bus .
+the bus was looked at the bus .
+BLEU = 0.00, 30.0/11.1/0.0/0.0 (BP=1.000, ratio=1.250, hyp_len=10, ref_len=8)
+BLEU = 0.00, 57.1/33.3/20.0/0.0 (BP=0.867, ratio=0.875, hyp_len=7, ref_len=8)
+
+彼 は 出かけ た 先々 で 歓迎 さ れ た 。
+he was welcomed wherever he went .
+he was made up of the went .
+he was join by a go in the went .
+BLEU = 0.00, 42.9/16.7/0.0/0.0 (BP=1.000, ratio=1.167, hyp_len=7, ref_len=6)
+BLEU = 0.00, 33.3/12.5/0.0/0.0 (BP=1.000, ratio=1.500, hyp_len=9, ref_len=6)
+
+彼 は 自分 が 何 を 話 し て い る か を 時々 忘れ て しま う 。
+he sometimes forgets what he was talking about .
+he has already on his own way .
+he has been to have something to speak .
+BLEU = 0.00, 14.3/0.0/0.0/0.0 (BP=0.867, ratio=0.875, hyp_len=7, ref_len=8)
+BLEU = 0.00, 12.5/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=8, ref_len=8)
+
+彼女 は その 仕事 を する 気分 で は な い 。
+she is in no humor for task .
+she is not to do the work .
+she is not to feeling the work .
+BLEU = 0.00, 28.6/16.7/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=7, ref_len=7)
+BLEU = 0.00, 28.6/16.7/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=7, ref_len=7)
+
+私 は 野球 が 好き だ 。
+i like baseball .
+i like baseball .
+i like baseball baseball .
+BLEU = 0.00, 100.0/100.0/100.0/0.0 (BP=1.000, ratio=1.000, hyp_len=3, ref_len=3)
+BLEU = 0.00, 75.0/66.7/50.0/0.0 (BP=1.000, ratio=1.333, hyp_len=4, ref_len=3)
+
+その 名 の 人 は 学籍 簿 に 載 っ て ま せ ん 。
+no person by that name is listed in the register of the school .
+the man is too small to the original .
+the name of the name is carrying in the middle .
+BLEU = 0.00, 37.5/0.0/0.0/0.0 (BP=0.535, ratio=0.615, hyp_len=8, ref_len=13)
+BLEU = 0.00, 60.0/33.3/0.0/0.0 (BP=0.741, ratio=0.769, hyp_len=10, ref_len=13)
+
+収穫 が もっと 悪 く な れ ば 、 飢饉 が 起こ る か も 知れ な い 。
+if the harvest gets any worse , there could be a famine .
+if it should rain more , i can &apos;t get out of .
+i am not more to call in the wrong harvest .
+BLEU = 0.00, 16.7/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=12, ref_len=12)
+BLEU = 0.00, 20.0/0.0/0.0/0.0 (BP=0.819, ratio=0.833, hyp_len=10, ref_len=12)
+
+父 は 私 が 彼 に 対 し て 失礼 な 言動 を と っ た とき 、 怒り で 顔 が 真っ赤 に な っ た 。
+father went red with anger when i behaved rudely towards him .
+my father was looking forward to get him when i was a good time .
+my father was at the most beautiful when i was a beautiful .
+BLEU = 0.00, 28.6/7.7/0.0/0.0 (BP=1.000, ratio=1.273, hyp_len=14, ref_len=11)
+BLEU = 0.00, 25.0/9.1/0.0/0.0 (BP=1.000, ratio=1.091, hyp_len=12, ref_len=11)
+
+彼 は 山 の 頂上 に 立 っ て い ま し た 。
+he was standing at the top of the mountain .
+he was standing at the mountain .
+he was standing to the mountain .
+BLEU = 51.00, 100.0/100.0/75.0/66.7 (BP=0.607, ratio=0.667, hyp_len=6, ref_len=9)
+BLEU = 0.00, 83.3/60.0/25.0/0.0 (BP=0.607, ratio=0.667, hyp_len=6, ref_len=9)
+
+私 たち みんな 自転 車 に 乗 る の が 好き で す 。
+we all like cycling .
+we like to be a bicycle .
+i like to have a good bicycle .
+BLEU = 0.00, 33.3/0.0/0.0/0.0 (BP=1.000, ratio=1.500, hyp_len=6, ref_len=4)
+BLEU = 0.00, 14.3/0.0/0.0/0.0 (BP=1.000, ratio=1.750, hyp_len=7, ref_len=4)
+
+赤ん坊 は よく 転 ぶ 。
+babies often fall down .
+the baby is often a good idea .
+the baby is often big .
+BLEU = 0.00, 14.3/0.0/0.0/0.0 (BP=1.000, ratio=1.750, hyp_len=7, ref_len=4)
+BLEU = 0.00, 20.0/0.0/0.0/0.0 (BP=1.000, ratio=1.250, hyp_len=5, ref_len=4)
+
+その 質問 は 難し すぎ て 答え られ な かっ た 。
+the question was too difficult to answer .
+the question was not gone .
+the question was too difficult .
+BLEU = 0.00, 60.0/50.0/33.3/0.0 (BP=0.670, ratio=0.714, hyp_len=5, ref_len=7)
+BLEU = 67.03, 100.0/100.0/100.0/100.0 (BP=0.670, ratio=0.714, hyp_len=5, ref_len=7)
+
+彼女 は 教師 の よう に 見え る 。
+she looks like a teacher .
+she looks her her mind .
+she looks like a teacher .
+BLEU = 0.00, 40.0/25.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=5, ref_len=5)
+BLEU = 100.00, 100.0/100.0/100.0/100.0 (BP=1.000, ratio=1.000, hyp_len=5, ref_len=5)
+
+ジョーダン さん は 「 授業 に 出 て い な かっ た の で す か 」 と たずね た 。
+&quot; weren &apos;t you there ? &quot; asked mr jordan .
+the mr mr mr mr has been sick , &quot; i was sorry .
+the world was killed to her class .
+BLEU = 0.00, 15.4/0.0/0.0/0.0 (BP=1.000, ratio=1.300, hyp_len=13, ref_len=10)
+BLEU = 0.00, 0.0/0.0/0.0/0.0 (BP=0.651, ratio=0.700, hyp_len=7, ref_len=10)
+
+「 ほか に 何 か 要 り ま す か 」 「 それ だけ で 結構 で す 」
+&quot; anything else ? &quot; &quot; no , that &apos;s all . &quot;
+&quot; what do you say &quot; . &quot;
+
+BLEU = 0.00, 50.0/14.3/0.0/0.0 (BP=0.535, ratio=0.615, hyp_len=8, ref_len=13)
+BLEU = 0, 0/0/0/0 (BP=0, ratio=0, hyp_len=0, ref_len=0)
+
+気 苦労 が 彼 の 体 に 響 い た 。
+worry affected his health .
+his opinion was good at his own life .
+the more of the things was a over .
+BLEU = 0.00, 12.5/0.0/0.0/0.0 (BP=1.000, ratio=2.000, hyp_len=8, ref_len=4)
+BLEU = 0.00, 0.0/0.0/0.0/0.0 (BP=1.000, ratio=2.000, hyp_len=8, ref_len=4)
+
+彼 は それ を 詳し く 説明 し だ し た 。
+he explained it at length .
+he was called in a lot of money .
+he explained it to be account of his money .
+BLEU = 0.00, 12.5/0.0/0.0/0.0 (BP=1.000, ratio=1.600, hyp_len=8, ref_len=5)
+BLEU = 0.00, 33.3/25.0/14.3/0.0 (BP=1.000, ratio=1.800, hyp_len=9, ref_len=5)
+
+「 元気 を 出 し なさ い 」 と 彼女 は 私 に 言 い ま し た 。
+&quot; cheer up , &quot; she said to me .
+&quot; please tell me for a fine time .
+&quot; leave you , &quot; she said .
+BLEU = 0.00, 25.0/0.0/0.0/0.0 (BP=0.882, ratio=0.889, hyp_len=8, ref_len=9)
+BLEU = 32.67, 71.4/50.0/40.0/25.0 (BP=0.751, ratio=0.778, hyp_len=7, ref_len=9)
+
+本当 を 言 う と 、 コンピューター に は 詳し く な い の で す 。
+i &apos;m not really familiar with computers .
+it is not more difficult to say that you will truth .
+i don &apos;t have to have a good idea , so i don &apos;t have to be a computer .
+BLEU = 0.00, 9.1/0.0/0.0/0.0 (BP=1.000, ratio=1.571, hyp_len=11, ref_len=7)
+BLEU = 0.00, 5.3/0.0/0.0/0.0 (BP=1.000, ratio=2.714, hyp_len=19, ref_len=7)
+
+ワイン を もっと 冷や し た い 。
+i want to chill the wine more .
+i want to have more wine .
+i want to have more wine .
+BLEU = 0.00, 83.3/40.0/25.0/0.0 (BP=0.846, ratio=0.857, hyp_len=6, ref_len=7)
+BLEU = 0.00, 83.3/40.0/25.0/0.0 (BP=0.846, ratio=0.857, hyp_len=6, ref_len=7)
+
+彼女 は 機嫌 が 悪 い と い う の も 、 いつ も 地下 鉄 に 乗 り 遅れ 仕事 場 まで 歩 く 羽目 に な っ た から だ 。
+she is in a temper , because she missed her usual train in the subway and had to walk to work .
+she is always up to get a bad job , but he came to the work .
+she is always up to the work of the bad mood in the face of the bad mood .
+BLEU = 0.00, 50.0/6.7/0.0/0.0 (BP=0.732, ratio=0.762, hyp_len=16, ref_len=21)
+BLEU = 0.00, 33.3/11.8/0.0/0.0 (BP=0.846, ratio=0.857, hyp_len=18, ref_len=21)
+
+夕方 から 雨 だ って い っ て い た よ 。
+it said rain from this evening .
+it was a rain time .
+it was rain rain .
+BLEU = 0.00, 40.0/0.0/0.0/0.0 (BP=0.819, ratio=0.833, hyp_len=5, ref_len=6)
+BLEU = 0.00, 50.0/0.0/0.0/0.0 (BP=0.607, ratio=0.667, hyp_len=4, ref_len=6)
+
+あす の 朝 まで に は 一面 の 銀 世界 に な っ て い る だ ろ う 。
+by tomorrow morning all the world will have been covered with snow .
+it will be a world for the next world for a tomorrow morning .
+the tomorrow in the morning , the other will be world by the world .
+BLEU = 0.00, 38.5/8.3/0.0/0.0 (BP=1.000, ratio=1.083, hyp_len=13, ref_len=12)
+BLEU = 0.00, 42.9/7.7/0.0/0.0 (BP=1.000, ratio=1.167, hyp_len=14, ref_len=12)
+
+知 っ て い れ ば 教え て あげ た ん だ けど 。
+had i known it , i would have told you .
+i &apos;ve got a tell you if you know .
+i &apos;ve never seen to know .
+BLEU = 0.00, 22.2/0.0/0.0/0.0 (BP=0.895, ratio=0.900, hyp_len=9, ref_len=10)
+BLEU = 0.00, 16.7/0.0/0.0/0.0 (BP=0.513, ratio=0.600, hyp_len=6, ref_len=10)
+
+無知 は 幸福 。
+ignorance is bliss .
+you are good at the same mistake .
+i &apos;m happy .
+BLEU = 0.00, 0.0/0.0/0.0/0.0 (BP=1.000, ratio=2.333, hyp_len=7, ref_len=3)
+BLEU = 0.00, 0.0/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=3, ref_len=3)
+
+せっかく 弁護 士 の 資格 が あ る の に もったい な い 。
+what a waste of your lawyer qualifications !
+there is no one in the new country .
+there is no difficulty in the face .
+BLEU = 0.00, 0.0/0.0/0.0/0.0 (BP=1.000, ratio=1.143, hyp_len=8, ref_len=7)
+BLEU = 0.00, 0.0/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=7, ref_len=7)
+
+少な い 収入 を でき る 限り いか し た い 。
+make the best of your small income .
+i &apos;d like to get a lot of income in a few income .
+i want to get up with a small income .
+BLEU = 0.00, 15.4/0.0/0.0/0.0 (BP=1.000, ratio=1.857, hyp_len=13, ref_len=7)
+BLEU = 0.00, 22.2/12.5/0.0/0.0 (BP=1.000, ratio=1.286, hyp_len=9, ref_len=7)
+
+いつ か あなた を 訪問 し て も い い で す か 。
+may i call on you some day ?
+may i visit your mind ?
+may i visit you to visit your making ?
+BLEU = 0.00, 40.0/25.0/0.0/0.0 (BP=0.670, ratio=0.714, hyp_len=5, ref_len=7)
+BLEU = 0.00, 37.5/14.3/0.0/0.0 (BP=1.000, ratio=1.143, hyp_len=8, ref_len=7)
+
+私 は ここ に とどま る べ き か ロンドン へ 行 く べ き か 分か ら な かっ た 。
+i didn &apos;t know whether to stay here or go to london .
+i didn &apos;t know if i should go here .
+i had to tell the point to stay here .
+BLEU = 23.67, 66.7/37.5/28.6/16.7 (BP=0.717, ratio=0.750, hyp_len=9, ref_len=12)
+BLEU = 0.00, 55.6/25.0/14.3/0.0 (BP=0.717, ratio=0.750, hyp_len=9, ref_len=12)
+
+ダン は よく お 母 さん に しか ら れ る 。
+dan is often scolded by his mother .
+the old man is more than mother .
+the old man is more than mother .
+BLEU = 0.00, 28.6/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=7, ref_len=7)
+BLEU = 0.00, 28.6/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=7, ref_len=7)
+
+ジョージ は とても 話 好き だ 。
+george is quite talkative .
+the sun is very difficult .
+george is very fond of very much .
+BLEU = 0.00, 20.0/0.0/0.0/0.0 (BP=1.000, ratio=1.250, hyp_len=5, ref_len=4)
+BLEU = 0.00, 28.6/16.7/0.0/0.0 (BP=1.000, ratio=1.750, hyp_len=7, ref_len=4)
+
+システム が 作動 し な い 場合 が あ る 。
+there are cases where the system doesn &apos;t go .
+the number of the bill is not a good .
+there is a good cases , but there is a rest .
+BLEU = 0.00, 11.1/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=9, ref_len=9)
+BLEU = 0.00, 18.2/0.0/0.0/0.0 (BP=1.000, ratio=1.222, hyp_len=11, ref_len=9)
+
+彼女 は 毎週 １ 回 映画 を 見 に 行 く 。
+she goes to the movies once a week .
+she goes to the movies a small country .
+she goes to see a movie in a minute .
+BLEU = 54.11, 75.0/57.1/50.0/40.0 (BP=1.000, ratio=1.000, hyp_len=8, ref_len=8)
+BLEU = 0.00, 44.4/25.0/14.3/0.0 (BP=1.000, ratio=1.125, hyp_len=9, ref_len=8)
+
+彼 は とって も やさし い よ 。
+he is fine and gentle .
+he is a good person .
+he is a good means .
+BLEU = 0.00, 40.0/25.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=5, ref_len=5)
+BLEU = 0.00, 40.0/25.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=5, ref_len=5)
+
+私 は ほとんど １８０ センチ で す 。
+i am almost 180 centimeters tall .
+i &apos;m a little more than a little .
+i &apos;m almost almost .
+BLEU = 0.00, 12.5/0.0/0.0/0.0 (BP=1.000, ratio=1.333, hyp_len=8, ref_len=6)
+BLEU = 0.00, 50.0/0.0/0.0/0.0 (BP=0.607, ratio=0.667, hyp_len=4, ref_len=6)
+
+彼 は 母親 に 似 て い る 。
+he resembles his mother .
+he is a good mother .
+he takes after her mother .
+BLEU = 0.00, 40.0/0.0/0.0/0.0 (BP=1.000, ratio=1.250, hyp_len=5, ref_len=4)
+BLEU = 0.00, 40.0/0.0/0.0/0.0 (BP=1.000, ratio=1.250, hyp_len=5, ref_len=4)
+
+東京 は だんぜん 日本 で 一番 大き い 都市 で す 。
+tokyo is by far the largest city in japan .
+tokyo is a best of japan .
+tokyo is the best cities in japan .
+BLEU = 0.00, 50.0/20.0/0.0/0.0 (BP=0.607, ratio=0.667, hyp_len=6, ref_len=9)
+BLEU = 0.00, 71.4/33.3/0.0/0.0 (BP=0.751, ratio=0.778, hyp_len=7, ref_len=9)
+
+出世 し た い の なら 、 努力 を おそれ て は な ら な い 。
+if you wish to get on in the world , you must not shrink from effort .
+i don &apos;t want to have a effort in the effort .
+i don &apos;t like to help effort .
+BLEU = 0.00, 36.4/10.0/0.0/0.0 (BP=0.635, ratio=0.688, hyp_len=11, ref_len=16)
+BLEU = 0.00, 28.6/0.0/0.0/0.0 (BP=0.276, ratio=0.438, hyp_len=7, ref_len=16)
+
+「 まだ 浅 い ね 。 足 とど く 」 「 結構 遠浅 だ な 。 よ つば も まだ 足 つ く だ ろ 」
+&quot; it &apos;s still shallow , eh . my feet still touch the bottom . &quot; &quot; it &apos;s quite a shallow beach . yotsuba , you can still touch the bottom can &apos;t you ? &quot;
+
+&quot; , &quot; i &apos;m going to the leg . &quot; &quot; i &apos;ll get it to me . &quot;
+BLEU = 0, 0/0/0/0 (BP=0, ratio=0, hyp_len=0, ref_len=0)
+BLEU = 0.00, 45.0/10.5/5.6/0.0 (BP=0.427, ratio=0.541, hyp_len=20, ref_len=37)
+
+私 の お じい ちゃん は 私 が 大学 に 行 く こと を 望 ん で い る 。
+my grandfather hopes that i will enter college .
+my hand is to go to college .
+my cup of my tea is eager to college .
+BLEU = 0.00, 28.6/0.0/0.0/0.0 (BP=0.867, ratio=0.875, hyp_len=7, ref_len=8)
+BLEU = 0.00, 22.2/0.0/0.0/0.0 (BP=1.000, ratio=1.125, hyp_len=9, ref_len=8)
+
+ラスベガス が い る と 時間 が 経 つ の を 忘れ る 。
+it &apos;s easy to lose track of time when you are in las vegas .
+i have a lot of money in the wrong time .
+it is forget that time we forget to be a time .
+BLEU = 0.00, 30.0/0.0/0.0/0.0 (BP=0.670, ratio=0.714, hyp_len=10, ref_len=14)
+BLEU = 0.00, 27.3/0.0/0.0/0.0 (BP=0.761, ratio=0.786, hyp_len=11, ref_len=14)
+
+彼 は 非常 な 剣幕 で 私 を にらみ付け た 。
+he glared at me fiercely .
+he me me in a great great person .
+he has a very good @-@ chance in his don .
+BLEU = 0.00, 25.0/0.0/0.0/0.0 (BP=1.000, ratio=1.600, hyp_len=8, ref_len=5)
+BLEU = 0.00, 10.0/0.0/0.0/0.0 (BP=1.000, ratio=2.000, hyp_len=10, ref_len=5)
+
+間 の 垣根 が 恋 を いっそう 燃え立 た せ る 。
+a fence between makes love more keen .
+the two of the company have a large deal of the future .
+the between between between between between between between the work .
+BLEU = 0.00, 8.3/0.0/0.0/0.0 (BP=1.000, ratio=1.714, hyp_len=12, ref_len=7)
+BLEU = 0.00, 10.0/0.0/0.0/0.0 (BP=1.000, ratio=1.429, hyp_len=10, ref_len=7)
+
+キャロライン は すべて の お 金 を 洋服 に 使 う ほど 愚か で は な い 。
+caroline knows better than to spend all her money on clothes .
+the old man is not to get a lot of money in the middle of all money .
+the old man is not to be a good school money to the middle of all money .
+BLEU = 0.00, 17.6/0.0/0.0/0.0 (BP=1.000, ratio=1.545, hyp_len=17, ref_len=11)
+BLEU = 0.00, 17.6/0.0/0.0/0.0 (BP=1.000, ratio=1.545, hyp_len=17, ref_len=11)
+
+彼 は 駐日 アメリカ 大使 に 命 じ られ た ばかり で す 。
+he has just been appointed the u.s. ambassador to japan .
+he is a used man to be in the future .
+he was bursting to be a great world .
+BLEU = 0.00, 30.0/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=10, ref_len=10)
+BLEU = 0.00, 25.0/0.0/0.0/0.0 (BP=0.779, ratio=0.800, hyp_len=8, ref_len=10)
+
+彼女 なら 当然 選 び そう な 人 と 彼女 は 結婚 し た 。
+she married to the kind of man you would expect her to pick .
+she was married , but she married .
+she got up her wedding with her .
+BLEU = 0.00, 28.6/16.7/0.0/0.0 (BP=0.424, ratio=0.538, hyp_len=7, ref_len=13)
+BLEU = 0.00, 28.6/0.0/0.0/0.0 (BP=0.424, ratio=0.538, hyp_len=7, ref_len=13)
+
+昨日 通り で 友人 に 会 っ た 。
+i met my friend on the street .
+i met the friend yesterday .
+i met a friend in the street .
+BLEU = 0.00, 80.0/25.0/0.0/0.0 (BP=0.670, ratio=0.714, hyp_len=5, ref_len=7)
+BLEU = 0.00, 71.4/33.3/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=7, ref_len=7)
+
+お 酒 を 飲 む と 影響 が 出 る もの だ 。
+liquor will have an effect on a person .
+i &apos;m looking forward to drink your drink .
+i have a good job .
+BLEU = 0.00, 0.0/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=8, ref_len=8)
+BLEU = 0.00, 40.0/0.0/0.0/0.0 (BP=0.549, ratio=0.625, hyp_len=5, ref_len=8)
+
+君 を 信頼 し て い る 。
+i believe in you .
+i am looking for you .
+you are looking to your speech .
+BLEU = 0.00, 40.0/0.0/0.0/0.0 (BP=1.000, ratio=1.250, hyp_len=5, ref_len=4)
+BLEU = 0.00, 16.7/0.0/0.0/0.0 (BP=1.000, ratio=1.500, hyp_len=6, ref_len=4)
+
+我々 の 列車 は 時速 ２００ キロ で 走 っ た 。
+our train went at 200 kilometers an hour .
+our train ran to the middle of the world .
+our train ran in the middle of the english .
+BLEU = 0.00, 22.2/12.5/0.0/0.0 (BP=1.000, ratio=1.125, hyp_len=9, ref_len=8)
+BLEU = 0.00, 22.2/12.5/0.0/0.0 (BP=1.000, ratio=1.125, hyp_len=9, ref_len=8)
+
+私 たち は 泣 い て い る の 。
+we are crying .
+we are cry for our .
+we are crying .
+BLEU = 0.00, 40.0/25.0/0.0/0.0 (BP=1.000, ratio=1.667, hyp_len=5, ref_len=3)
+BLEU = 0.00, 100.0/100.0/100.0/0.0 (BP=1.000, ratio=1.000, hyp_len=3, ref_len=3)
+
+彼女 は 息 を 飲 ん だ 。
+she caught her breath .
+she was on her air .
+she drinks on breath .
+BLEU = 0.00, 40.0/0.0/0.0/0.0 (BP=1.000, ratio=1.250, hyp_len=5, ref_len=4)
+BLEU = 0.00, 50.0/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=4, ref_len=4)
+
+君 たち は 大人 に な る まで タバコ を 吸 っ て は いけ な い 。
+you must not smoke till you grow up .
+you must not smoke until you can &apos;t .
+you must not smoke to the adults .
+BLEU = 36.56, 62.5/42.9/33.3/20.0 (BP=1.000, ratio=1.000, hyp_len=8, ref_len=8)
+BLEU = 35.64, 57.1/50.0/40.0/25.0 (BP=0.867, ratio=0.875, hyp_len=7, ref_len=8)
+
+彼 は たばこ を 一 日 一 本 に 減ら し て い っ た 。
+he tapered off to one cigarette a day .
+he was given a day in a day .
+he made a lot of day to a day .
+BLEU = 0.00, 37.5/14.3/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=8, ref_len=8)
+BLEU = 0.00, 44.4/12.5/0.0/0.0 (BP=1.000, ratio=1.125, hyp_len=9, ref_len=8)
+
+貴殿 の 娘 さん は 麻薬 漬け で す 。
+your daughter &apos;s on drugs .
+the good mr mr mr mr mr mr mr mr jones is a good .
+the judge in the middle of the water is a good @-@ rest .
+BLEU = 0.00, 0.0/0.0/0.0/0.0 (BP=1.000, ratio=2.800, hyp_len=14, ref_len=5)
+BLEU = 0.00, 0.0/0.0/0.0/0.0 (BP=1.000, ratio=2.600, hyp_len=13, ref_len=5)
+
+彼女 を その 任務 に 就け よう 。
+let &apos;s put her in charge of that .
+let &apos;s take the bill to the hospital .
+let &apos;s take her to the right .
+BLEU = 0.00, 25.0/14.3/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=8, ref_len=8)
+BLEU = 0.00, 42.9/16.7/0.0/0.0 (BP=0.867, ratio=0.875, hyp_len=7, ref_len=8)
+
+ある 旅行 会社 が 我々 の 旅行 の 手配 を 全部 し て くれ た 。
+a travel agent arranged everything for our trip .
+the children were made up of our trip .
+one of the trip , the trip of our trip gave us .
+BLEU = 0.00, 25.0/14.3/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=8, ref_len=8)
+BLEU = 0.00, 16.7/9.1/0.0/0.0 (BP=1.000, ratio=1.500, hyp_len=12, ref_len=8)
+
+彼女 が 息子 を 自慢 する の も もっとも だ 。
+she may well be proud of her son .
+she is proud of her son .
+she is a good idea of her son .
+BLEU = 38.50, 83.3/60.0/50.0/33.3 (BP=0.717, ratio=0.750, hyp_len=6, ref_len=8)
+BLEU = 0.00, 50.0/28.6/16.7/0.0 (BP=1.000, ratio=1.000, hyp_len=8, ref_len=8)
+
+痛み が 右脚 に 走 り ま す 。
+the pain shoots into my right leg .
+the weather is running on the table .
+the pain is run on the original .
+BLEU = 0.00, 14.3/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=7, ref_len=7)
+BLEU = 0.00, 28.6/16.7/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=7, ref_len=7)
+
+参加 者 の リスト は 次 の とおり で す 。
+the list of participants is as follows .
+the problem is a big station .
+the part of the part is a good .
+BLEU = 0.00, 33.3/0.0/0.0/0.0 (BP=0.846, ratio=0.857, hyp_len=6, ref_len=7)
+BLEU = 0.00, 37.5/0.0/0.0/0.0 (BP=1.000, ratio=1.143, hyp_len=8, ref_len=7)
+
+彼女 は 休日 に な る と よく 買い物 に 行 き ま す 。
+she will often go shopping on holidays .
+she goes shopping to be shopping .
+she often go shopping with me .
+BLEU = 0.00, 33.3/0.0/0.0/0.0 (BP=0.846, ratio=0.857, hyp_len=6, ref_len=7)
+BLEU = 0.00, 66.7/40.0/25.0/0.0 (BP=0.846, ratio=0.857, hyp_len=6, ref_len=7)
+
+昨日 の 午後 は ずっと 、 私 の 部屋 を 掃除 する の に 費や し た 。
+i spent all yesterday afternoon cleaning my room .
+the house made a room to do .
+yesterday , i &apos;ve been to my room yesterday .
+BLEU = 0.00, 14.3/0.0/0.0/0.0 (BP=0.867, ratio=0.875, hyp_len=7, ref_len=8)
+BLEU = 0.00, 44.4/12.5/0.0/0.0 (BP=1.000, ratio=1.125, hyp_len=9, ref_len=8)
+
+その 機械 は いつ も どこ か 故障 ばかり し て い る 。
+something is always going wrong with the machine .
+the machine is always finding fault .
+the machine is always finding fault with his wrong .
+BLEU = 0.00, 66.7/40.0/0.0/0.0 (BP=0.717, ratio=0.750, hyp_len=6, ref_len=8)
+BLEU = 0.00, 66.7/25.0/0.0/0.0 (BP=1.000, ratio=1.125, hyp_len=9, ref_len=8)
+
+焼き肉 の 火 加減 を 見 なさ い 。
+please check if the meat is being roasted at the right heat .
+look at the right of the table .
+look at the fire in the put of the window .
+BLEU = 0.00, 57.1/33.3/20.0/0.0 (BP=0.490, ratio=0.583, hyp_len=7, ref_len=12)
+BLEU = 0.00, 30.0/11.1/0.0/0.0 (BP=0.819, ratio=0.833, hyp_len=10, ref_len=12)
+
+彼女 に 結婚 し て くれ な い か と 言 っ たら 彼女 は 承知 し て くれ た 。
+i asked her to marry me and she accepted .
+she was not married , she was married .
+she told her to marry her marriage .
+BLEU = 0.00, 12.5/0.0/0.0/0.0 (BP=0.882, ratio=0.889, hyp_len=8, ref_len=9)
+BLEU = 0.00, 57.1/33.3/20.0/0.0 (BP=0.751, ratio=0.778, hyp_len=7, ref_len=9)
+
+本当 の こと を おっしゃ っ て いただけ ま せ ん か 。
+would you be kind enough to tell me the truth ?
+can you tell me how to do ?
+can you please take the truth ?
+BLEU = 0.00, 57.1/16.7/0.0/0.0 (BP=0.651, ratio=0.700, hyp_len=7, ref_len=10)
+BLEU = 0.00, 50.0/20.0/0.0/0.0 (BP=0.513, ratio=0.600, hyp_len=6, ref_len=10)
+
+彼 の 父 は 今朝 息 を 引き取 り ま し た 。
+his father breathed his last this morning .
+his father was looking at this morning .
+his father has been letters this morning .
+BLEU = 0.00, 57.1/33.3/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=7, ref_len=7)
+BLEU = 0.00, 57.1/33.3/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=7, ref_len=7)
+
+彼女 は 自殺 を し よう と し た 。
+she tried to commit suicide .
+she tried to put the air .
+she tried to go to the himself .
+BLEU = 0.00, 50.0/40.0/25.0/0.0 (BP=1.000, ratio=1.200, hyp_len=6, ref_len=5)
+BLEU = 0.00, 42.9/33.3/20.0/0.0 (BP=1.000, ratio=1.400, hyp_len=7, ref_len=5)
+
+彼 は 森 で 迷 っ た 。
+he lost his way in the woods .
+he was a man in the woods .
+he lost his woods in the woods .
+BLEU = 0.00, 57.1/33.3/20.0/0.0 (BP=1.000, ratio=1.000, hyp_len=7, ref_len=7)
+BLEU = 0.00, 85.7/66.7/40.0/0.0 (BP=1.000, ratio=1.000, hyp_len=7, ref_len=7)
+
+妻 が 電話 し て き た ら 、 私 は 重要 な 会議 中 で 出 られ な い と 言 っ て くださ い 。
+if my wife calls , just tell her i &apos;m in an important meeting and cannot be disturbed .
+if i were my wife , i don &apos;t like my way in the meeting .
+if my wife call me , i don &apos;t know .
+BLEU = 0.00, 46.7/7.1/0.0/0.0 (BP=0.819, ratio=0.833, hyp_len=15, ref_len=18)
+BLEU = 0.00, 50.0/22.2/12.5/0.0 (BP=0.449, ratio=0.556, hyp_len=10, ref_len=18)
+
+私 たち は 健康 に 有害 な 食品 を 知 ら ず に 食べ て い る 事 が よく あ る 。
+we often eat foods which are harmful to our health without knowing it .
+we have a good time for health to know the country .
+we often hear the light to do the physical of the health .
+BLEU = 0.00, 27.3/0.0/0.0/0.0 (BP=0.834, ratio=0.846, hyp_len=11, ref_len=13)
+BLEU = 0.00, 33.3/9.1/0.0/0.0 (BP=0.920, ratio=0.923, hyp_len=12, ref_len=13)
+
+料理 の レパートリー は 限 ら れ て る の 。
+i don &apos;t know how to cook too many things .
+the food is free to be in cooking .
+the food is made of cooking .
+BLEU = 0.00, 12.5/0.0/0.0/0.0 (BP=0.779, ratio=0.800, hyp_len=8, ref_len=10)
+BLEU = 0.00, 0.0/0.0/0.0/0.0 (BP=0.513, ratio=0.600, hyp_len=6, ref_len=10)
+
+この 本 は 何 の 項目 に 入 り ま す か 。
+what heading does this book come under ?
+how about the book ?
+what is this book ?
+BLEU = 0.00, 25.0/0.0/0.0/0.0 (BP=0.472, ratio=0.571, hyp_len=4, ref_len=7)
+BLEU = 0.00, 75.0/33.3/0.0/0.0 (BP=0.472, ratio=0.571, hyp_len=4, ref_len=7)
+
+彼 は パリ 出会 っ た 女性 と 結婚 する 決心 を し た 。
+he finally made up his mind to marry the girl he had met in paris .
+he made up the eye and he got married .
+he made up the woman to get up with paris .
+BLEU = 0.00, 55.6/12.5/0.0/0.0 (BP=0.513, ratio=0.600, hyp_len=9, ref_len=15)
+BLEU = 0.00, 60.0/11.1/0.0/0.0 (BP=0.607, ratio=0.667, hyp_len=10, ref_len=15)
+
+彼 は 彼女 に うるさ く 質問 し て 困 ら せ た 。
+he bothered her with questions .
+he was a late for her .
+he made up the table with her questions .
+BLEU = 0.00, 33.3/0.0/0.0/0.0 (BP=1.000, ratio=1.200, hyp_len=6, ref_len=5)
+BLEU = 0.00, 50.0/0.0/0.0/0.0 (BP=1.000, ratio=1.600, hyp_len=8, ref_len=5)
+
+最寄り の 地下 鉄 へ 行 く 道 を 教え て くれ ま せ ん か 。
+can you direct me to the nearest subway station ?
+will you tell me the way to the museum ?
+would you please tell me the way to the nearest .
+BLEU = 0.00, 44.4/12.5/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=9, ref_len=9)
+BLEU = 0.00, 50.0/22.2/12.5/0.0 (BP=1.000, ratio=1.111, hyp_len=10, ref_len=9)
+
+彼 は 結局 は 一流 の 小説 家 で あ っ た 。
+after all is said and done , he was a first @-@ rate novelist .
+he was a novel in his speech .
+he was a house of great novelist .
+BLEU = 0.00, 42.9/33.3/20.0/0.0 (BP=0.368, ratio=0.500, hyp_len=7, ref_len=14)
+BLEU = 0.00, 57.1/33.3/20.0/0.0 (BP=0.368, ratio=0.500, hyp_len=7, ref_len=14)
+
+運転 者 は 交通 規則 を 守 ら ね ば な ら な い 。
+drivers must observe the traffic rules .
+the driver must keep their traffic through .
+the driver must observe a traffic rules .
+BLEU = 0.00, 42.9/0.0/0.0/0.0 (BP=1.000, ratio=1.167, hyp_len=7, ref_len=6)
+BLEU = 0.00, 71.4/33.3/0.0/0.0 (BP=1.000, ratio=1.167, hyp_len=7, ref_len=6)
+
+彼 は 政治 家 と い う より も むしろ 商人 だ 。
+he is not so much a politician as a merchant .
+he is a famous person to be a politician .
+he is a pretty merchant .
+BLEU = 0.00, 55.6/25.0/0.0/0.0 (BP=0.895, ratio=0.900, hyp_len=9, ref_len=10)
+BLEU = 0.00, 80.0/25.0/0.0/0.0 (BP=0.368, ratio=0.500, hyp_len=5, ref_len=10)
+
+彼 は 私 の 提案 に 同意 し た 。
+he acceded to my proposal .
+he was on my proposal .
+he reluctantly agreed to my proposal .
+BLEU = 0.00, 60.0/25.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=5, ref_len=5)
+BLEU = 0.00, 66.7/40.0/25.0/0.0 (BP=1.000, ratio=1.200, hyp_len=6, ref_len=5)
+
+自分 の 考え を 僕 に 押しつけ る な 。
+don &apos;t press your opinion on me .
+don &apos;t make my idea .
+don &apos;t give me a idea of his idea .
+BLEU = 0.00, 40.0/25.0/0.0/0.0 (BP=0.670, ratio=0.714, hyp_len=5, ref_len=7)
+BLEU = 0.00, 33.3/12.5/0.0/0.0 (BP=1.000, ratio=1.286, hyp_len=9, ref_len=7)
+
+彼 は テニス を し た 。
+he played tennis .
+he play tennis .
+he made tennis .
+BLEU = 0.00, 66.7/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=3, ref_len=3)
+BLEU = 0.00, 66.7/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=3, ref_len=3)
+
+薄汚 い 生まれ た 故郷 の 街 に 戻 っ て き た 。
+back into the hole where i was born .
+i came to get out of the town .
+i came to my hometown .
+BLEU = 0.00, 25.0/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=8, ref_len=8)
+BLEU = 0.00, 20.0/0.0/0.0/0.0 (BP=0.549, ratio=0.625, hyp_len=5, ref_len=8)
+
+車 は ガードレール に 衝突 し た 。
+the car ran into a guardrail .
+the car was a big time .
+the car fell down on the original .
+BLEU = 0.00, 50.0/20.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=6, ref_len=6)
+BLEU = 0.00, 28.6/16.7/0.0/0.0 (BP=1.000, ratio=1.167, hyp_len=7, ref_len=6)
+
+注意 し て い て も 事故 は いろいろ 起き て い ま す から ね 。
+there are enough accidents without asking for one .
+both of the accident is different from what he is .
+it &apos;s a few day to be a few .
+BLEU = 0.00, 0.0/0.0/0.0/0.0 (BP=1.000, ratio=1.250, hyp_len=10, ref_len=8)
+BLEU = 0.00, 0.0/0.0/0.0/0.0 (BP=1.000, ratio=1.125, hyp_len=9, ref_len=8)
+
+彼 の 教え子 の 中 で その 試験 に 合格 し た 者 は い な かっ た 。
+neither of his students passed the exam .
+his left was not to pass the exam in his examination .
+there was no exam in the exam .
+BLEU = 0.00, 27.3/10.0/0.0/0.0 (BP=1.000, ratio=1.571, hyp_len=11, ref_len=7)
+BLEU = 0.00, 28.6/16.7/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=7, ref_len=7)
+
+私 の テープ レコーダー は 君 の アンプ に も つなげ られ る 。
+my tape recorder is compatible with your amplifier .
+my dream is in your shoes .
+my cheeks is to be in your own condition .
+BLEU = 0.00, 50.0/0.0/0.0/0.0 (BP=0.717, ratio=0.750, hyp_len=6, ref_len=8)
+BLEU = 0.00, 33.3/0.0/0.0/0.0 (BP=1.000, ratio=1.125, hyp_len=9, ref_len=8)
+
+彼 は 列車 事故 で けが を し た 。
+he was injured in a railway accident .
+he made a lot of the train .
+he made a injured in the train .
+BLEU = 0.00, 28.6/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=7, ref_len=7)
+BLEU = 0.00, 57.1/16.7/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=7, ref_len=7)
+
+バッター は 空振り の 三振 を し た 。
+the batter struck out swinging .
+the old man made a big answer .
+the old man was a big condition .
+BLEU = 0.00, 14.3/0.0/0.0/0.0 (BP=1.000, ratio=1.400, hyp_len=7, ref_len=5)
+BLEU = 0.00, 14.3/0.0/0.0/0.0 (BP=1.000, ratio=1.400, hyp_len=7, ref_len=5)
+
+死 は 万 人 に 来る べ き もの 、 すべて 人 は 死 す べ き もの な り 。
+death is certain to all , all shall die .
+you should not come to study abroad .
+death should be held to say , but to death .
+BLEU = 0.00, 14.3/0.0/0.0/0.0 (BP=0.751, ratio=0.778, hyp_len=7, ref_len=9)
+BLEU = 0.00, 30.0/0.0/0.0/0.0 (BP=1.000, ratio=1.111, hyp_len=10, ref_len=9)
+
+今日 は 楽し かっ た 。
+i really enjoyed myself tonight .
+i had a good time today .
+i was enjoy , today .
+BLEU = 0.00, 16.7/0.0/0.0/0.0 (BP=1.000, ratio=1.200, hyp_len=6, ref_len=5)
+BLEU = 0.00, 20.0/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=5, ref_len=5)
+
+彼 が 来 た とき は 私 は その 手紙 を 書 き 終え て い た 。
+i had written the letter when he came .
+i had the letter by him when i was come .
+when he came to come , i was finished the letter .
+BLEU = 0.00, 50.0/22.2/0.0/0.0 (BP=1.000, ratio=1.250, hyp_len=10, ref_len=8)
+BLEU = 0.00, 54.5/30.0/11.1/0.0 (BP=1.000, ratio=1.375, hyp_len=11, ref_len=8)
+
+そして 、 ようやく その 警官 は 腕 を 下げ た 。
+then , at last , the policeman lowered his arm .
+the policeman took a music , the policeman took a arm .
+the policeman turn up the arm .
+BLEU = 0.00, 36.4/20.0/11.1/0.0 (BP=1.000, ratio=1.100, hyp_len=11, ref_len=10)
+BLEU = 0.00, 50.0/20.0/0.0/0.0 (BP=0.513, ratio=0.600, hyp_len=6, ref_len=10)
+
+我々 は 何 も 食べ ず に 何 時間 も 働 き 続け た 。
+we kept on working for hours without eating anything .
+we went in the better than any hours .
+we have been to work for nothing .
+BLEU = 0.00, 25.0/0.0/0.0/0.0 (BP=0.882, ratio=0.889, hyp_len=8, ref_len=9)
+BLEU = 0.00, 28.6/0.0/0.0/0.0 (BP=0.751, ratio=0.778, hyp_len=7, ref_len=9)
+
+私 達 は 、 自ら の 問題 に つ い て 話し合 っ た 。
+we talked over our problems .
+we were about about the problem .
+we discuss the best problem .
+BLEU = 0.00, 16.7/0.0/0.0/0.0 (BP=1.000, ratio=1.200, hyp_len=6, ref_len=5)
+BLEU = 0.00, 20.0/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=5, ref_len=5)
+
+私 たち は とても 活発 な 討論 を し た 。
+we had a very vigorous debate .
+we were very ready .
+we got very hard .
+BLEU = 0.00, 50.0/0.0/0.0/0.0 (BP=0.607, ratio=0.667, hyp_len=4, ref_len=6)
+BLEU = 0.00, 50.0/0.0/0.0/0.0 (BP=0.607, ratio=0.667, hyp_len=4, ref_len=6)
+
+秋 より 春 の ほう が 好き だ 。
+i prefer spring to fall .
+i like to have a lot of people .
+i like a spring more than autumn .
+BLEU = 0.00, 25.0/0.0/0.0/0.0 (BP=1.000, ratio=1.600, hyp_len=8, ref_len=5)
+BLEU = 0.00, 28.6/0.0/0.0/0.0 (BP=1.000, ratio=1.400, hyp_len=7, ref_len=5)
+
+ここ から ホテル まで 徒歩 で 行 く に は 遠 すぎ ま す 。 タクシー に お 乗 り なさ い 。
+it is too far to go on foot from here to the hotel . better take a taxi .
+get out the hotel , to get on the way to the hotel .
+get up from here , please .
+BLEU = 0.00, 38.5/16.7/9.1/0.0 (BP=0.681, ratio=0.722, hyp_len=13, ref_len=18)
+BLEU = 0.00, 33.3/20.0/0.0/0.0 (BP=0.135, ratio=0.333, hyp_len=6, ref_len=18)
+
+みんな いつ も トニー を ほめ る 。
+everyone always speaks well of tony .
+everybody always always live in making things .
+i am always praised of my tony .
+BLEU = 0.00, 14.3/0.0/0.0/0.0 (BP=1.000, ratio=1.167, hyp_len=7, ref_len=6)
+BLEU = 0.00, 42.9/0.0/0.0/0.0 (BP=1.000, ratio=1.167, hyp_len=7, ref_len=6)
+
+後者 の 能力 は すべて 遺伝 に よ っ て 私 達 に 伝え られ る 。 つまり 、 親 から 受け つ ぐ 遺伝 子 を 通 し て 私 たち は そう し た 能力 を 受け取 る の で あ る 。
+all of these abilities are passed on to us by genetic transmission ; we receive them by way of the genes that we inherit from our parents .
+the good part of the children , we have a few friends to be able to have a part .
+
+BLEU = 0.00, 21.1/5.6/0.0/0.0 (BP=0.656, ratio=0.704, hyp_len=19, ref_len=27)
+BLEU = 0, 0/0/0/0 (BP=0, ratio=0, hyp_len=0, ref_len=0)
+
+言い換え れ ば 、 私 は 彼 と 働 き た く な い 。
+in other words , i don &apos;t like to work with him .
+i don &apos;t want to work with him , but i don &apos;t want him .
+i don &apos;t want to work at him , but i don &apos;t work him .
+BLEU = 24.60, 53.3/35.7/23.1/8.3 (BP=1.000, ratio=1.250, hyp_len=15, ref_len=12)
+BLEU = 0.00, 46.7/21.4/7.7/0.0 (BP=1.000, ratio=1.250, hyp_len=15, ref_len=12)
+
+マイク は なん と か その スーツケース を 一人 で 運 ん だ 。
+mike managed to carry the suitcase by himself .
+mike has been read for the matter .
+mike carried the big alone .
+BLEU = 0.00, 28.6/0.0/0.0/0.0 (BP=0.867, ratio=0.875, hyp_len=7, ref_len=8)
+BLEU = 0.00, 40.0/0.0/0.0/0.0 (BP=0.549, ratio=0.625, hyp_len=5, ref_len=8)
+
+私 たち は スミス さん が サイン し た 領収 書 が 必要 で す 。
+we need the receipt mr smith signed .
+we need the write of the same mistake .
+we need to have a good written of smith .
+BLEU = 0.00, 37.5/28.6/16.7/0.0 (BP=1.000, ratio=1.143, hyp_len=8, ref_len=7)
+BLEU = 0.00, 33.3/12.5/0.0/0.0 (BP=1.000, ratio=1.286, hyp_len=9, ref_len=7)
+
+彼 等 は トランプ を し な い か と 私 を 誘 っ て くれ た 。
+they invited me to play cards .
+they were not to do with him .
+they were looking forward to hearing with him .
+BLEU = 0.00, 28.6/0.0/0.0/0.0 (BP=1.000, ratio=1.167, hyp_len=7, ref_len=6)
+BLEU = 0.00, 25.0/0.0/0.0/0.0 (BP=1.000, ratio=1.333, hyp_len=8, ref_len=6)
+
+私 たち が 必要 と する 情報 は 必ず しも 手 に 入 ら な い 。
+the sort of information we need is not always available .
+we are not always always up to do with it .
+we can get into a short time to need to need .
+BLEU = 0.00, 30.0/11.1/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=10, ref_len=10)
+BLEU = 0.00, 18.2/0.0/0.0/0.0 (BP=1.000, ratio=1.100, hyp_len=11, ref_len=10)
+
+老 婦人 が 渡 る の を 助け た 。
+i helped an old lady across .
+the old lady help me .
+i help the old lady in the old lady .
+BLEU = 0.00, 40.0/25.0/0.0/0.0 (BP=0.819, ratio=0.833, hyp_len=5, ref_len=6)
+BLEU = 0.00, 33.3/12.5/0.0/0.0 (BP=1.000, ratio=1.500, hyp_len=9, ref_len=6)
+
+何 か 、 全部 、 こじつけ って 感じ が する ん だ けど ・ ・ ・ 。
+somehow , all those reasons sound rather far fetched .
+what a person you are !
+what , i &apos;m sorry to do with you .
+BLEU = 0.00, 0.0/0.0/0.0/0.0 (BP=0.449, ratio=0.556, hyp_len=5, ref_len=9)
+BLEU = 0.00, 11.1/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=9, ref_len=9)
+
+彼 に 財産 管理 を 任せ た 。
+i entrusted my property to him .
+i had a hole for him .
+i had a good looking for him .
+BLEU = 0.00, 33.3/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=6, ref_len=6)
+BLEU = 0.00, 28.6/0.0/0.0/0.0 (BP=1.000, ratio=1.167, hyp_len=7, ref_len=6)
+
+旅行 を 計画 する 場合 は 、 家族 全員 の 希望 を 考慮 す べ き だ 。
+we must take into account the wishes of all the family in planning a trip .
+the plan should be on the back of the family .
+you should have been to the family of the family .
+BLEU = 0.00, 40.0/11.1/0.0/0.0 (BP=0.607, ratio=0.667, hyp_len=10, ref_len=15)
+BLEU = 0.00, 40.0/11.1/0.0/0.0 (BP=0.607, ratio=0.667, hyp_len=10, ref_len=15)
+
+彼 は 中一 の 時 学校 に 来 な く な っ た 。
+he dropped out when he was in the 7th grade .
+he came to go to school .
+he came to come back at the back .
+BLEU = 0.00, 16.7/0.0/0.0/0.0 (BP=0.513, ratio=0.600, hyp_len=6, ref_len=10)
+BLEU = 0.00, 25.0/0.0/0.0/0.0 (BP=0.779, ratio=0.800, hyp_len=8, ref_len=10)
+
+クリスマス は 新し い おもちゃ を うりだ す い い 機会 だ 。
+christmas is a good time to market new toys .
+she is a new offer to put a new novel .
+christmas is chance to have a new toy .
+BLEU = 0.00, 40.0/11.1/0.0/0.0 (BP=1.000, ratio=1.111, hyp_len=10, ref_len=9)
+BLEU = 0.00, 62.5/14.3/0.0/0.0 (BP=0.882, ratio=0.889, hyp_len=8, ref_len=9)
+
+私 は 午前 中 ずっと 手紙 を 書 い て い ま し た 。
+i have been writing letters all morning .
+i had been written the letter in the morning .
+i was written by the post of the morning .
+BLEU = 0.00, 33.3/0.0/0.0/0.0 (BP=1.000, ratio=1.286, hyp_len=9, ref_len=7)
+BLEU = 0.00, 22.2/0.0/0.0/0.0 (BP=1.000, ratio=1.286, hyp_len=9, ref_len=7)
+
+その ホテル は 山 の ふもと に あ り ま す 。
+the hotel is at the foot of a mountain .
+the hotel is in the mountain of the mountain .
+the hotel is a foot of the mountain .
+BLEU = 0.00, 66.7/25.0/14.3/0.0 (BP=1.000, ratio=1.000, hyp_len=9, ref_len=9)
+BLEU = 0.00, 100.0/42.9/16.7/0.0 (BP=0.882, ratio=0.889, hyp_len=8, ref_len=9)
+
+明日 は 彼 の ところ に 泊ま る つもり だ 。
+i &apos;m putting up with him tomorrow .
+tomorrow will be a lot of him .
+tomorrow is going to be a time in his place .
+BLEU = 0.00, 28.6/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=7, ref_len=7)
+BLEU = 0.00, 10.0/0.0/0.0/0.0 (BP=1.000, ratio=1.429, hyp_len=10, ref_len=7)
+
+今 から ２５ 年 後 に は 、 就業 者 ２人 に つ き 退職 者 １人 の 割合 に な る だ ろ う 。
+twenty @-@ five years from now there will be one retired person for each two working .
+after two years , we will be able to get on the two of the two countries .
+after a year , you will be able to get out of the food .
+BLEU = 0.00, 23.5/6.2/0.0/0.0 (BP=1.000, ratio=1.062, hyp_len=17, ref_len=16)
+BLEU = 0.00, 14.3/7.7/0.0/0.0 (BP=0.867, ratio=0.875, hyp_len=14, ref_len=16)
+
+彼女 は 幸せ で あ っ た よう だ 。
+she seems to have been happy .
+she seems to have been in happy .
+she seems to be happy .
+BLEU = 64.35, 85.7/66.7/60.0/50.0 (BP=1.000, ratio=1.167, hyp_len=7, ref_len=6)
+BLEU = 0.00, 80.0/50.0/33.3/0.0 (BP=0.819, ratio=0.833, hyp_len=5, ref_len=6)
+
+日本 の 主要 作物 は 米 で あ る 。
+the main crop of japan is rice .
+japanese countries are in the rice .
+japanese &apos;s exchange is rice .
+BLEU = 0.00, 33.3/0.0/0.0/0.0 (BP=0.846, ratio=0.857, hyp_len=6, ref_len=7)
+BLEU = 0.00, 40.0/25.0/0.0/0.0 (BP=0.670, ratio=0.714, hyp_len=5, ref_len=7)
+
+患者 と 名 の つく すべて の 人 。
+everyone , whether an actual or potential patient .
+the man is all the most of the people .
+what a patient to the name ?
+BLEU = 0.00, 0.0/0.0/0.0/0.0 (BP=1.000, ratio=1.125, hyp_len=9, ref_len=8)
+BLEU = 0.00, 16.7/0.0/0.0/0.0 (BP=0.717, ratio=0.750, hyp_len=6, ref_len=8)
+
+私 は 誰 な の だ ろ う か 。
+who am i ?
+how about do you want to ?
+what will i do ?
+BLEU = 0.00, 0.0/0.0/0.0/0.0 (BP=1.000, ratio=2.000, hyp_len=6, ref_len=3)
+BLEU = 0.00, 25.0/0.0/0.0/0.0 (BP=1.000, ratio=1.333, hyp_len=4, ref_len=3)
+
+いつ も の 場所 で 待 っ て い ま す 。
+i &apos;ll be waiting for you at the usual place .
+i always wait on the way of your house .
+i always wait in the place of my mind .
+BLEU = 0.00, 22.2/0.0/0.0/0.0 (BP=0.895, ratio=0.900, hyp_len=9, ref_len=10)
+BLEU = 0.00, 33.3/0.0/0.0/0.0 (BP=0.895, ratio=0.900, hyp_len=9, ref_len=10)
+
+その 村 と 我々 の 町 は 橋 で つなが っ て い ま す 。
+the village is connected with our town by a bridge .
+our town is singing in the bridge .
+the village of our city is across the bridge .
+BLEU = 0.00, 71.4/16.7/0.0/0.0 (BP=0.651, ratio=0.700, hyp_len=7, ref_len=10)
+BLEU = 0.00, 55.6/12.5/0.0/0.0 (BP=0.895, ratio=0.900, hyp_len=9, ref_len=10)
+
+十 八 禁 な の で 要 注意 ！
+warning - 18 + only .
+let &apos;s get in the right of the weather .
+what is the case !
+BLEU = 0.00, 0.0/0.0/0.0/0.0 (BP=1.000, ratio=1.800, hyp_len=9, ref_len=5)
+BLEU = 0.00, 0.0/0.0/0.0/0.0 (BP=0.779, ratio=0.800, hyp_len=4, ref_len=5)
+
+私 は 明日 アメリカ へ 出発 する 予定 で す 。
+i am leaving for the united states tomorrow .
+i &apos;m going to america tomorrow .
+i &apos;m going to america tomorrow .
+BLEU = 0.00, 33.3/0.0/0.0/0.0 (BP=0.717, ratio=0.750, hyp_len=6, ref_len=8)
+BLEU = 0.00, 33.3/0.0/0.0/0.0 (BP=0.717, ratio=0.750, hyp_len=6, ref_len=8)
+
+ギリシャ 語 は 覚え にく い 。
+greek is difficult to learn .
+the teacher is alive .
+the language is hard .
+BLEU = 0.00, 25.0/0.0/0.0/0.0 (BP=0.779, ratio=0.800, hyp_len=4, ref_len=5)
+BLEU = 0.00, 25.0/0.0/0.0/0.0 (BP=0.779, ratio=0.800, hyp_len=4, ref_len=5)
+
+私 は 音楽 の 勉強 に オーストリア へ 行 き た い 。
+i would like to go to austria in order to study music .
+i want to go to music .
+i want to go to the study music .
+BLEU = 0.00, 83.3/40.0/25.0/0.0 (BP=0.368, ratio=0.500, hyp_len=6, ref_len=12)
+BLEU = 0.00, 75.0/42.9/16.7/0.0 (BP=0.607, ratio=0.667, hyp_len=8, ref_len=12)
+
+ボーナス を もら っ た 。
+i received my bonus .
+i had a good time at the .
+i had had mr a little .
+BLEU = 0.00, 14.3/0.0/0.0/0.0 (BP=1.000, ratio=1.750, hyp_len=7, ref_len=4)
+BLEU = 0.00, 16.7/0.0/0.0/0.0 (BP=1.000, ratio=1.500, hyp_len=6, ref_len=4)
+
+私 は 私 の ジョーク を 聞 い て 笑 う 時 の 彼女 が 好き だ 。
+i like the way she laughs at my jokes .
+i like her to hear my my family .
+i like her at the same time to hear my flight .
+BLEU = 0.00, 37.5/14.3/0.0/0.0 (BP=0.882, ratio=0.889, hyp_len=8, ref_len=9)
+BLEU = 0.00, 45.5/10.0/0.0/0.0 (BP=1.000, ratio=1.222, hyp_len=11, ref_len=9)
+
+自分 の 名前 が 後ろ から 呼 ば れ る の が きこえ た 。
+i heard my name called from behind me .
+my name was a big time .
+i got a names of my name .
+BLEU = 0.00, 33.3/20.0/0.0/0.0 (BP=0.717, ratio=0.750, hyp_len=6, ref_len=8)
+BLEU = 0.00, 42.9/16.7/0.0/0.0 (BP=0.867, ratio=0.875, hyp_len=7, ref_len=8)
+
+彼女 は 審美 眼 を 持 っ て い る 。
+she has an eye for the beautiful .
+she has a good boy .
+she has a good weak .
+BLEU = 0.00, 40.0/25.0/0.0/0.0 (BP=0.670, ratio=0.714, hyp_len=5, ref_len=7)
+BLEU = 0.00, 40.0/25.0/0.0/0.0 (BP=0.670, ratio=0.714, hyp_len=5, ref_len=7)
+
+その 大きな 醜 い 木 が その 家 の 美観 を 損ね て い る 。
+the big ugly tree destroys the beauty of the house .
+the good tree is the best of the house .
+the big tree is the old tree of the house .
+BLEU = 0.00, 66.7/25.0/14.3/0.0 (BP=0.895, ratio=0.900, hyp_len=9, ref_len=10)
+BLEU = 0.00, 70.0/33.3/12.5/0.0 (BP=1.000, ratio=1.000, hyp_len=10, ref_len=10)
+
+彼女 は １ 週間 前 に 病気 に な っ た 。
+she fell ill a week ago .
+she came to her before a week before she was a week .
+she has been sick in a week before a week .
+BLEU = 0.00, 25.0/9.1/0.0/0.0 (BP=1.000, ratio=2.000, hyp_len=12, ref_len=6)
+BLEU = 0.00, 30.0/11.1/0.0/0.0 (BP=1.000, ratio=1.667, hyp_len=10, ref_len=6)
+
+彼 は ざっくばらん な 人柄 な の で 話 し やす い 。
+he is a frank person and easy to talk to .
+he is said to speak in a small person .
+he is subject to be a good way of mind .
+BLEU = 0.00, 55.6/12.5/0.0/0.0 (BP=0.895, ratio=0.900, hyp_len=9, ref_len=10)
+BLEU = 0.00, 40.0/11.1/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=10, ref_len=10)
+
+庭 は 柵 で 小道 と 仕切 ら れ て い る 。
+the garden is railed off from the path .
+the garden is made in the middle of the garden .
+the garden is on the same of the garden .
+BLEU = 0.00, 40.0/22.2/12.5/0.0 (BP=1.000, ratio=1.250, hyp_len=10, ref_len=8)
+BLEU = 0.00, 44.4/25.0/14.3/0.0 (BP=1.000, ratio=1.125, hyp_len=9, ref_len=8)
+
+君 の 写真 が 欲し い の で す が 。
+i would like your picture .
+i want you to picture your picture .
+i want you to do .
+BLEU = 0.00, 42.9/16.7/0.0/0.0 (BP=1.000, ratio=1.400, hyp_len=7, ref_len=5)
+BLEU = 0.00, 20.0/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=5, ref_len=5)
+
+彼 が 仕事 を 辞め る の も もっとも だ 。
+he has every reason to quit his job .
+he is a good idea .
+he is a good job .
+BLEU = 0.00, 20.0/0.0/0.0/0.0 (BP=0.549, ratio=0.625, hyp_len=5, ref_len=8)
+BLEU = 0.00, 40.0/0.0/0.0/0.0 (BP=0.549, ratio=0.625, hyp_len=5, ref_len=8)
+
+その 本 を もと あ っ た 所 へ 置 き なさ い 。
+put the book where you found it .
+come to the book at the book .
+put the book , please .
+BLEU = 0.00, 28.6/16.7/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=7, ref_len=7)
+BLEU = 0.00, 60.0/50.0/33.3/0.0 (BP=0.670, ratio=0.714, hyp_len=5, ref_len=7)
+
+この 写真 を 見 る と 、 私 は 必ず 子供 の ころ を 思い出 す 。
+i never see this picture without being reminded of my childhood .
+i &apos;m looking at this picture . i have a child .
+i can hear the more for a child to watch this picture .
+BLEU = 0.00, 27.3/10.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=11, ref_len=11)
+BLEU = 0.00, 25.0/9.1/0.0/0.0 (BP=1.000, ratio=1.091, hyp_len=12, ref_len=11)
+
+横浜 駅 へ 行 く の に は この 道 で い い の で す か 。
+is this the right way to yokohama station ?
+where is this best morning to the station ?
+what is the right to the station ?
+BLEU = 0.00, 62.5/14.3/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=8, ref_len=8)
+BLEU = 0.00, 71.4/16.7/0.0/0.0 (BP=0.867, ratio=0.875, hyp_len=7, ref_len=8)
+
+彼 は スキー を し て い る とき に 、 転 ん で 腕 を 折 っ た 。
+he fell and broke his arm while he was skiing .
+he turned his arm when he was a night .
+he directed his arm when he was skiing .
+BLEU = 0.00, 55.6/25.0/0.0/0.0 (BP=0.895, ratio=0.900, hyp_len=9, ref_len=10)
+BLEU = 0.00, 75.0/42.9/16.7/0.0 (BP=0.779, ratio=0.800, hyp_len=8, ref_len=10)
+
+彼女 は 新車 を 見せ て くれ た 。
+she gave me a look at her new car .
+she made a a new car .
+she showed her car .
+BLEU = 0.00, 66.7/20.0/0.0/0.0 (BP=0.607, ratio=0.667, hyp_len=6, ref_len=9)
+BLEU = 0.00, 75.0/0.0/0.0/0.0 (BP=0.287, ratio=0.444, hyp_len=4, ref_len=9)
+
+マスタード を 別 に 持 っ て き て くださ い 。
+i &apos;d like to have mustard on the side .
+please have a good time to another .
+bring me to another .
+BLEU = 0.00, 28.6/0.0/0.0/0.0 (BP=0.751, ratio=0.778, hyp_len=7, ref_len=9)
+BLEU = 0.00, 25.0/0.0/0.0/0.0 (BP=0.287, ratio=0.444, hyp_len=4, ref_len=9)
+
+何 が 起こ ろ う と も 、 その 覚悟 は でき て い ま す 。
+come what may , i &apos;m ready for it .
+what to do , the same is .
+what a matter what may be happen , the same year is !
+BLEU = 0.00, 28.6/0.0/0.0/0.0 (BP=0.751, ratio=0.778, hyp_len=7, ref_len=9)
+BLEU = 0.00, 25.0/9.1/0.0/0.0 (BP=1.000, ratio=1.333, hyp_len=12, ref_len=9)
+
+彼 は 北海道 に い た こと が あ る 。
+he has been in hokkaido before .
+he has been to be a good idea .
+he has been hokkaido to hokkaido .
+BLEU = 0.00, 37.5/28.6/16.7/0.0 (BP=1.000, ratio=1.333, hyp_len=8, ref_len=6)
+BLEU = 0.00, 66.7/40.0/25.0/0.0 (BP=1.000, ratio=1.000, hyp_len=6, ref_len=6)
+
+彼 の 顔つき や 態度 に は 軽蔑 の 気持ち が 表れ て い た 。
+his face and attitude showed the scorn he felt .
+the phone was was on his face .
+the look in the look was like his feelings .
+BLEU = 0.00, 42.9/16.7/0.0/0.0 (BP=0.751, ratio=0.778, hyp_len=7, ref_len=9)
+BLEU = 0.00, 22.2/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=9, ref_len=9)
+
+ビル 以外 は みな 間に合 っ た 。
+except for bill , they were all in time .
+bill has come in time .
+the bill was in time .
+BLEU = 0.00, 60.0/25.0/0.0/0.0 (BP=0.449, ratio=0.556, hyp_len=5, ref_len=9)
+BLEU = 0.00, 60.0/25.0/0.0/0.0 (BP=0.449, ratio=0.556, hyp_len=5, ref_len=9)
+
+たいてい の 親 は 自分 の 子供 の 将来 が 気 に な る もの で す 。
+parents are usually concerned about their children &apos;s future .
+the most children are looking in the future .
+most else are not worry about his children .
+BLEU = 0.00, 37.5/0.0/0.0/0.0 (BP=0.882, ratio=0.889, hyp_len=8, ref_len=9)
+BLEU = 0.00, 37.5/0.0/0.0/0.0 (BP=0.882, ratio=0.889, hyp_len=8, ref_len=9)
+
+そんな 事 でき な い の あなた 知 っ て で しょ う 。
+you know i can &apos;t .
+i &apos;ll be a thing you .
+i can &apos;t know what to do such a thing .
+BLEU = 0.00, 33.3/0.0/0.0/0.0 (BP=1.000, ratio=1.200, hyp_len=6, ref_len=5)
+BLEU = 0.00, 40.0/22.2/12.5/0.0 (BP=1.000, ratio=2.000, hyp_len=10, ref_len=5)
+
+ある 日 の こと 、 警察 が 娼婦 の 集団 を 手入れ し た 。 少女 も その 集団 の 一員 だっ た 。
+one day , the police raided a whole group of prostitutes , and the girl was among them .
+the police was made up of the most of the same &apos;s day .
+in a day , the police was the most girl , but the police girl was the same girl .
+BLEU = 0.00, 46.2/8.3/0.0/0.0 (BP=0.681, ratio=0.722, hyp_len=13, ref_len=18)
+BLEU = 16.68, 47.4/22.2/11.8/6.2 (BP=1.000, ratio=1.056, hyp_len=19, ref_len=18)
+
+どちら の ご 出身 で す か ？
+where do you come from ?
+what &apos;s the kind of may ?
+what &apos;s your help ?
+BLEU = 0.00, 0.0/0.0/0.0/0.0 (BP=1.000, ratio=1.200, hyp_len=6, ref_len=5)
+BLEU = 0.00, 0.0/0.0/0.0/0.0 (BP=0.779, ratio=0.800, hyp_len=4, ref_len=5)
+
+それ で 形勢 が 変わ っ た 。
+that altered the aspect of the case .
+it was a blow to the .
+it was true that it was true .
+BLEU = 0.00, 16.7/0.0/0.0/0.0 (BP=0.846, ratio=0.857, hyp_len=6, ref_len=7)
+BLEU = 0.00, 14.3/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=7, ref_len=7)
+
+私 は 背中 が 少し 痛 い 。
+i &apos;ve got a bit of an ache in my back .
+i have a little pain in my .
+i have a little pain .
+BLEU = 0.00, 57.1/16.7/0.0/0.0 (BP=0.565, ratio=0.636, hyp_len=7, ref_len=11)
+BLEU = 0.00, 40.0/0.0/0.0/0.0 (BP=0.301, ratio=0.455, hyp_len=5, ref_len=11)
+
+父 の 成功 は 私 に 何 の 価値 も 無 い 。
+my father &apos;s success counts for nothing to me .
+my father is not to do with me .
+my father doesn &apos;t have to be something of my value .
+BLEU = 0.00, 50.0/14.3/0.0/0.0 (BP=0.882, ratio=0.889, hyp_len=8, ref_len=9)
+BLEU = 0.00, 27.3/10.0/0.0/0.0 (BP=1.000, ratio=1.222, hyp_len=11, ref_len=9)
+
+私 は 空港 の 写真 を 持 っ て い ま す 。
+i have a picture of an airport .
+i have a picture of my own picture .
+i have a lot of picture .
+BLEU = 51.70, 62.5/57.1/50.0/40.0 (BP=1.000, ratio=1.143, hyp_len=8, ref_len=7)
+BLEU = 0.00, 83.3/40.0/25.0/0.0 (BP=0.846, ratio=0.857, hyp_len=6, ref_len=7)
+
+君 は 何 を する つもり な の 。
+what do you intend to do ?
+you can &apos;t make something to do .
+you will have to do what you do .
+BLEU = 0.00, 42.9/16.7/0.0/0.0 (BP=1.000, ratio=1.167, hyp_len=7, ref_len=6)
+BLEU = 0.00, 62.5/14.3/0.0/0.0 (BP=1.000, ratio=1.333, hyp_len=8, ref_len=6)
+
+これ と あれ は 同じ 長 さ で す 。
+this is as long as that .
+this is the same year .
+this is the same long as that .
+BLEU = 0.00, 40.0/25.0/0.0/0.0 (BP=0.819, ratio=0.833, hyp_len=5, ref_len=6)
+BLEU = 0.00, 71.4/50.0/20.0/0.0 (BP=1.000, ratio=1.167, hyp_len=7, ref_len=6)
+
+私 は 更 に ５０ ページ 読 ん だ 。
+i read fifty pages further .
+i read the read of a tree .
+i read fifty at the same .
+BLEU = 0.00, 28.6/16.7/0.0/0.0 (BP=1.000, ratio=1.400, hyp_len=7, ref_len=5)
+BLEU = 0.00, 50.0/40.0/25.0/0.0 (BP=1.000, ratio=1.200, hyp_len=6, ref_len=5)
+
+その 語 の 綴り を 間違 っ て 、 彼 は コンテスト に 失格 し た 。
+his misspelling of that word eliminated him from the contest .
+he was looking at the face of the face of the word .
+he told his contest , and he was contest to contest .
+BLEU = 0.00, 25.0/0.0/0.0/0.0 (BP=1.000, ratio=1.200, hyp_len=12, ref_len=10)
+BLEU = 0.00, 18.2/0.0/0.0/0.0 (BP=1.000, ratio=1.100, hyp_len=11, ref_len=10)
+
+数学 は 私 が 最も 勉強 し た く な い 教科 で す 。
+math is the last subject that i want to study .
+my flower is not so much as to study .
+i don &apos;t want to study in the fail .
+BLEU = 0.00, 33.3/12.5/0.0/0.0 (BP=0.895, ratio=0.900, hyp_len=9, ref_len=10)
+BLEU = 0.00, 55.6/25.0/14.3/0.0 (BP=0.895, ratio=0.900, hyp_len=9, ref_len=10)
+
+彼 は 賢明 に 行動 し た 。
+he has acted wisely .
+he asked a word to a long .
+he action a speech to his can .
+BLEU = 0.00, 14.3/0.0/0.0/0.0 (BP=1.000, ratio=1.750, hyp_len=7, ref_len=4)
+BLEU = 0.00, 14.3/0.0/0.0/0.0 (BP=1.000, ratio=1.750, hyp_len=7, ref_len=4)
+
+私 は 彼 を あっ と 言 わ せ て や り た い 。
+i want to surprise him .
+i want to do him with him .
+i want to have been him to say .
+BLEU = 0.00, 57.1/33.3/20.0/0.0 (BP=1.000, ratio=1.400, hyp_len=7, ref_len=5)
+BLEU = 0.00, 50.0/28.6/16.7/0.0 (BP=1.000, ratio=1.600, hyp_len=8, ref_len=5)
+
+冷た い 食事 は 、 避け て くださ い 。
+you shouldn &apos;t eat anything cold .
+please come in the table .
+please help yourself to the party .
+BLEU = 0.00, 0.0/0.0/0.0/0.0 (BP=0.819, ratio=0.833, hyp_len=5, ref_len=6)
+BLEU = 0.00, 0.0/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=6, ref_len=6)
+
+彼 は それ を 笑 わ ず に い られ な かっ た 。
+he couldn &apos;t help laughing at it .
+he could not help laughing .
+he was so much that he could not help him .
+BLEU = 0.00, 60.0/25.0/0.0/0.0 (BP=0.670, ratio=0.714, hyp_len=5, ref_len=7)
+BLEU = 0.00, 20.0/0.0/0.0/0.0 (BP=1.000, ratio=1.429, hyp_len=10, ref_len=7)
+
+グズグズ し て な い で さっさと 行動 しろ ！
+quit lazing around and get moving !
+i &apos;m not going to get out of my mind .
+i &apos;m sorry to be a action !
+BLEU = 0.00, 10.0/0.0/0.0/0.0 (BP=1.000, ratio=1.667, hyp_len=10, ref_len=6)
+BLEU = 0.00, 0.0/0.0/0.0/0.0 (BP=1.000, ratio=1.167, hyp_len=7, ref_len=6)
+
+日本 企業 は 全て の 大陸 に 工場 を 設立 し て い る し 、 日本 の 銀行 は 世界 の 主要 な 経済 計画 の 大国 財政 的 な 援助 を し て い る 。
+japanese companies have set up factories on every continent , and japanese banks help finance many of the world &apos;s major economic programs .
+japanese japanese are looking forward to the plan in everything &apos;s the plan .
+the japanese are always into his own way to japanese economy , the bank &apos;s economy is a good side of the world .
+BLEU = 0.00, 30.8/0.0/0.0/0.0 (BP=0.463, ratio=0.565, hyp_len=13, ref_len=23)
+BLEU = 0.00, 30.4/9.1/4.8/0.0 (BP=1.000, ratio=1.000, hyp_len=23, ref_len=23)
+
+やっと 帰 っ て き た ぞ ！
+at last , we were home !
+let &apos;s get back at the moment .
+i &apos;ll come back !
+BLEU = 0.00, 14.3/0.0/0.0/0.0 (BP=1.000, ratio=1.167, hyp_len=7, ref_len=6)
+BLEU = 0.00, 0.0/0.0/0.0/0.0 (BP=0.607, ratio=0.667, hyp_len=4, ref_len=6)
+
+春 に は すべて の もの が 明る く 見え る 。
+in spring everything looks bright .
+there are all the &apos;m in the weather .
+the spring of all and all are very thing .
+BLEU = 0.00, 12.5/0.0/0.0/0.0 (BP=1.000, ratio=1.600, hyp_len=8, ref_len=5)
+BLEU = 0.00, 11.1/0.0/0.0/0.0 (BP=1.000, ratio=1.800, hyp_len=9, ref_len=5)
+
+美由紀 は カメラ を 持 っ て い る 、 しかし 彼女 は それ が 好き で な い 。
+miyuki has a camera , but she doesn &apos;t like it .
+but the love is , she don &apos;t like to do it .
+the old man is not to have a camera , but she is not it .
+BLEU = 0.00, 50.0/9.1/0.0/0.0 (BP=1.000, ratio=1.091, hyp_len=12, ref_len=11)
+BLEU = 25.75, 40.0/28.6/23.1/16.7 (BP=1.000, ratio=1.364, hyp_len=15, ref_len=11)
+
+ここ から 一番 近 い 薬局 は どこ で す か 。
+where &apos;s the nearest pharmacy ?
+where &apos;s the near here ?
+where is the nearest thing here ?
+BLEU = 0.00, 60.0/50.0/33.3/0.0 (BP=1.000, ratio=1.000, hyp_len=5, ref_len=5)
+BLEU = 0.00, 50.0/20.0/0.0/0.0 (BP=1.000, ratio=1.200, hyp_len=6, ref_len=5)
+
+それ は 的外れ だ 。
+that &apos;s beside the point .
+it is a easy to be .
+it &apos;s a good evening .
+BLEU = 0.00, 0.0/0.0/0.0/0.0 (BP=1.000, ratio=1.200, hyp_len=6, ref_len=5)
+BLEU = 0.00, 20.0/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=5, ref_len=5)
+
+バス を どの くらい お 待 ち で す か 。
+how long have you been waiting for the bus ?
+how long did you wait ?
+how long are you waiting ?
+BLEU = 0.00, 60.0/25.0/0.0/0.0 (BP=0.449, ratio=0.556, hyp_len=5, ref_len=9)
+BLEU = 0.00, 80.0/25.0/0.0/0.0 (BP=0.449, ratio=0.556, hyp_len=5, ref_len=9)
+
+彼 は 突然 わっと 泣 き 出 し た 。
+he burst into tears .
+he has gone up .
+he has a cup of crying .
+BLEU = 0.00, 25.0/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=4, ref_len=4)
+BLEU = 0.00, 16.7/0.0/0.0/0.0 (BP=1.000, ratio=1.500, hyp_len=6, ref_len=4)
+
+トーマス は 事故 の ため に 仕事 を やり遂げ られ な かっ た 。
+thomas could not carry out his task on account of an accident .
+the old man was so work to the job .
+the old man was not in the work for the accident .
+BLEU = 0.00, 0.0/0.0/0.0/0.0 (BP=0.717, ratio=0.750, hyp_len=9, ref_len=12)
+BLEU = 0.00, 18.2/0.0/0.0/0.0 (BP=0.913, ratio=0.917, hyp_len=11, ref_len=12)
+
+彼 は 我々 から 離れ て 立 っ た 。
+he stood apart from us .
+he was out of us .
+he was in the milk .
+BLEU = 0.00, 40.0/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=5, ref_len=5)
+BLEU = 0.00, 20.0/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=5, ref_len=5)
+
+彼 は 時々 出張 する こと は 別 と し て あまり 旅 を し な い 。
+he doesn &apos;t travel much apart from occasional business trips .
+he cannot be very much of him .
+he doesn &apos;t know much to the back of not .
+BLEU = 0.00, 28.6/0.0/0.0/0.0 (BP=0.651, ratio=0.700, hyp_len=7, ref_len=10)
+BLEU = 0.00, 40.0/22.2/12.5/0.0 (BP=1.000, ratio=1.000, hyp_len=10, ref_len=10)
+
+彼 は 体 を 心配 し て い る 様子 だっ た 。
+he seemed worried about his health .
+he was always made up with his health .
+he was worried that he was worry about the me .
+BLEU = 0.00, 37.5/14.3/0.0/0.0 (BP=1.000, ratio=1.333, hyp_len=8, ref_len=6)
+BLEU = 0.00, 30.0/0.0/0.0/0.0 (BP=1.000, ratio=1.667, hyp_len=10, ref_len=6)
+
+彼女 は 胸 を どきどき さ せ て 、 その 手紙 を 読 ん だ 。
+she read the letter with her heart beating fast .
+she read the letter and she was read .
+she read the letter at the end of her chest .
+BLEU = 30.51, 50.0/42.9/33.3/20.0 (BP=0.882, ratio=0.889, hyp_len=8, ref_len=9)
+BLEU = 27.78, 50.0/33.3/25.0/14.3 (BP=1.000, ratio=1.111, hyp_len=10, ref_len=9)
+
+私 も 伊藤 さん に お 目 に かか れ て 光栄 で す 。
+i &apos;m glad to meet you , too , mr ito .
+i am a good teacher for a mr teacher .
+i &apos;m going to the world .
+BLEU = 0.00, 22.2/0.0/0.0/0.0 (BP=0.801, ratio=0.818, hyp_len=9, ref_len=11)
+BLEU = 0.00, 50.0/20.0/0.0/0.0 (BP=0.435, ratio=0.545, hyp_len=6, ref_len=11)
+
+彼 は こっそり ささや い た 。
+he whispered slyly to me .
+he was a famous person .
+he was a big big .
+BLEU = 0.00, 20.0/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=5, ref_len=5)
+BLEU = 0.00, 20.0/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=5, ref_len=5)
+
+あなた は 正し い こと が でき る と 信 じ て い ま す 。
+i have faith in your ability to do the right thing .
+you can believe that you can do .
+you can believe you can do .
+BLEU = 0.00, 14.3/0.0/0.0/0.0 (BP=0.565, ratio=0.636, hyp_len=7, ref_len=11)
+BLEU = 0.00, 16.7/0.0/0.0/0.0 (BP=0.435, ratio=0.545, hyp_len=6, ref_len=11)
+
+私 は 君 たち 兄弟 が テレビ に 出 て い て ビックリ し た 。
+i was surprised at you and your brother appearing on tv .
+i was at the tv at the tv .
+i was out of the television .
+BLEU = 0.00, 50.0/14.3/0.0/0.0 (BP=0.687, ratio=0.727, hyp_len=8, ref_len=11)
+BLEU = 0.00, 33.3/20.0/0.0/0.0 (BP=0.435, ratio=0.545, hyp_len=6, ref_len=11)
+
+ちょっと 失礼 し て よ い で しょ う か 。
+will you excuse me for just a moment ?
+may i have a little for a little ?
+will you please call me ?
+BLEU = 0.00, 25.0/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=8, ref_len=8)
+BLEU = 0.00, 60.0/25.0/0.0/0.0 (BP=0.549, ratio=0.625, hyp_len=5, ref_len=8)
+
+どうぞ 話 を 続け て 下さ い 。
+go ahead with your story .
+please take care of speaking .
+please take me to speak .
+BLEU = 0.00, 0.0/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=5, ref_len=5)
+BLEU = 0.00, 0.0/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=5, ref_len=5)
+
+彼 ら は 幼児 の 死亡 率 の 低 さ は 医学 の 進歩 の ゆえ と 考え た 。
+they attributed the low death rate of infants to the progress of medicine .
+they thought of a good deal of the best of the way .
+they thought to a good &apos;s .
+BLEU = 0.00, 41.7/0.0/0.0/0.0 (BP=0.920, ratio=0.923, hyp_len=12, ref_len=13)
+BLEU = 0.00, 33.3/0.0/0.0/0.0 (BP=0.311, ratio=0.462, hyp_len=6, ref_len=13)
+
+深酒 は 体 に よ く な い 。
+excessive drinking is destructive of our health .
+the old man is not good at all .
+the old man is not good at a month .
+BLEU = 0.00, 12.5/0.0/0.0/0.0 (BP=1.000, ratio=1.143, hyp_len=8, ref_len=7)
+BLEU = 0.00, 11.1/0.0/0.0/0.0 (BP=1.000, ratio=1.286, hyp_len=9, ref_len=7)
+
+彼 は 米 文学 に 精通 し て い る 。
+he is at home in american literature .
+he is a great deal of a week .
+he is a good chance .
+BLEU = 0.00, 25.0/14.3/0.0/0.0 (BP=1.000, ratio=1.143, hyp_len=8, ref_len=7)
+BLEU = 0.00, 40.0/25.0/0.0/0.0 (BP=0.670, ratio=0.714, hyp_len=5, ref_len=7)
+
+人々 は 陰 で 彼 を 嘲笑 し た もの だっ た 。
+people used to laugh at him behind his back .
+people were did he was in the time in the weather .
+the people were characteristic to his behind .
+BLEU = 0.00, 9.1/0.0/0.0/0.0 (BP=1.000, ratio=1.222, hyp_len=11, ref_len=9)
+BLEU = 0.00, 57.1/0.0/0.0/0.0 (BP=0.751, ratio=0.778, hyp_len=7, ref_len=9)
+
+彼 ら は 権限 を 剥奪 さ れ た 。
+the men have been shorn of their power .
+they were a horse .
+they were caught on the original .
+BLEU = 0.00, 0.0/0.0/0.0/0.0 (BP=0.368, ratio=0.500, hyp_len=4, ref_len=8)
+BLEU = 0.00, 16.7/0.0/0.0/0.0 (BP=0.717, ratio=0.750, hyp_len=6, ref_len=8)
+
+私 は 口 が きけ な かっ た 。
+my tongue failed me .
+i was not to buy .
+i had no few .
+BLEU = 0.00, 0.0/0.0/0.0/0.0 (BP=1.000, ratio=1.250, hyp_len=5, ref_len=4)
+BLEU = 0.00, 0.0/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=4, ref_len=4)
+
+君 は 僕 の こと を 言 っ て い る の か 。
+are you referring to me ?
+what do you say of me ?
+what is you talking with me ?
+BLEU = 0.00, 33.3/0.0/0.0/0.0 (BP=1.000, ratio=1.200, hyp_len=6, ref_len=5)
+BLEU = 0.00, 33.3/0.0/0.0/0.0 (BP=1.000, ratio=1.200, hyp_len=6, ref_len=5)
+
+彼女 が 部屋 に は い っ た とき 、 ささやき が 聞こえ た 。
+there was a murmur when she entered the room .
+she was when she was a .
+i heard her in when she was the room .
+BLEU = 0.00, 66.7/40.0/0.0/0.0 (BP=0.607, ratio=0.667, hyp_len=6, ref_len=9)
+BLEU = 0.00, 55.6/25.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=9, ref_len=9)
+
+これ は 世界 の どの 橋 より も 長 い 。
+this is longer than any other bridge in the world .
+this is a long time for the world .
+this is more long than world .
+BLEU = 0.00, 50.0/28.6/0.0/0.0 (BP=0.779, ratio=0.800, hyp_len=8, ref_len=10)
+BLEU = 0.00, 66.7/20.0/0.0/0.0 (BP=0.513, ratio=0.600, hyp_len=6, ref_len=10)
+
+我々 は お 互い に 意見 が 一致 し た 。
+we agreed among ourselves .
+we were ready to have a cup of money .
+we were agreed with each other .
+BLEU = 0.00, 11.1/0.0/0.0/0.0 (BP=1.000, ratio=2.250, hyp_len=9, ref_len=4)
+BLEU = 0.00, 33.3/0.0/0.0/0.0 (BP=1.000, ratio=1.500, hyp_len=6, ref_len=4)
+
+どっち が どっち な の か 分か ら な い 。
+i don &apos;t know which is which .
+i don &apos;t know what to do .
+i don &apos;t know the evening .
+BLEU = 41.11, 57.1/50.0/40.0/25.0 (BP=1.000, ratio=1.000, hyp_len=7, ref_len=7)
+BLEU = 43.01, 66.7/60.0/50.0/33.3 (BP=0.846, ratio=0.857, hyp_len=6, ref_len=7)
+
+パティー は 利口 な 学生 だ 。
+patty is a smart student .
+the old students are a good student .
+the old student is a clever student .
+BLEU = 0.00, 28.6/0.0/0.0/0.0 (BP=1.000, ratio=1.400, hyp_len=7, ref_len=5)
+BLEU = 0.00, 42.9/16.7/0.0/0.0 (BP=1.000, ratio=1.400, hyp_len=7, ref_len=5)
+
+クリスティー の 推理 小説 は 断然 面白 い 。
+christi &apos;s mysteries are most decidedly interesting .
+the novel is very good to the middle of the city .
+the novel is can in the middle of the city .
+BLEU = 0.00, 0.0/0.0/0.0/0.0 (BP=1.000, ratio=1.571, hyp_len=11, ref_len=7)
+BLEU = 0.00, 0.0/0.0/0.0/0.0 (BP=1.000, ratio=1.429, hyp_len=10, ref_len=7)
+
+昨年 は 雨 が 多 かっ た 。
+we had much rain last year .
+the rain was many last year .
+there was a rain last year .
+BLEU = 0.00, 50.0/20.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=6, ref_len=6)
+BLEU = 0.00, 50.0/40.0/25.0/0.0 (BP=1.000, ratio=1.000, hyp_len=6, ref_len=6)
+
+ゆうべ 地震 を かん じ ま し た か 。
+did you feel the earth shake last night ?
+did you make a new plan ?
+did you have a lot of the air ?
+BLEU = 0.00, 33.3/20.0/0.0/0.0 (BP=0.717, ratio=0.750, hyp_len=6, ref_len=8)
+BLEU = 0.00, 37.5/14.3/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=8, ref_len=8)
+
+気持ち は よく 分か る よ 。
+i really feel for you .
+the feelings will often be true .
+feelings is a good friends .
+BLEU = 0.00, 0.0/0.0/0.0/0.0 (BP=1.000, ratio=1.200, hyp_len=6, ref_len=5)
+BLEU = 0.00, 0.0/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=5, ref_len=5)
+
+彼 は 背 が 高 すぎ て 、 この 部屋 で は まっすぐ に 立て な い 。
+he is too tall to stand straight in this room .
+he is too tall for the room .
+he is too tall and a little room .
+BLEU = 28.32, 71.4/50.0/40.0/25.0 (BP=0.651, ratio=0.700, hyp_len=7, ref_len=10)
+BLEU = 28.47, 62.5/42.9/33.3/20.0 (BP=0.779, ratio=0.800, hyp_len=8, ref_len=10)
+
+啓介 さん は 、 この お 屋敷 で 、 ずっと お 勉強 し て い る ん で す 。 いわゆる ホーム スクーリング と い う 形 で す ね 。
+keisuke has always studied in this mansion . that style known as &apos; home schooling &apos; , right ?
+the mr mr mr mr jones is a good teacher , and i &apos;m sorry .
+mr speaking , you are going to have been studying in this place , and you &apos;re going to get out of this .
+BLEU = 0.00, 6.7/0.0/0.0/0.0 (BP=0.819, ratio=0.833, hyp_len=15, ref_len=18)
+BLEU = 0.00, 13.0/4.5/0.0/0.0 (BP=1.000, ratio=1.278, hyp_len=23, ref_len=18)
+
+猟犬 は 熊 を 必死 に な っ て 追いかけ て い た 。
+the hound was in full chase of the bear .
+the old man was full of the table .
+the old man was the across his high opinion .
+BLEU = 0.00, 62.5/14.3/0.0/0.0 (BP=0.882, ratio=0.889, hyp_len=8, ref_len=9)
+BLEU = 0.00, 33.3/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=9, ref_len=9)
+
+人 は 互い の 家 を 詳し く 調べ る の が 大好き だ 。
+people love to inspect each other &apos;s houses .
+people are to have enough to live for each other .
+the man is very fond of each each other .
+BLEU = 0.00, 40.0/11.1/0.0/0.0 (BP=1.000, ratio=1.250, hyp_len=10, ref_len=8)
+BLEU = 0.00, 22.2/12.5/0.0/0.0 (BP=1.000, ratio=1.125, hyp_len=9, ref_len=8)
+
+私 は 成績 を 上げ る よう 努力 し た 。
+i made efforts to improve my grades .
+i tried to have made up my mind .
+i tried to have a big effort to yelled .
+BLEU = 0.00, 50.0/0.0/0.0/0.0 (BP=1.000, ratio=1.143, hyp_len=8, ref_len=7)
+BLEU = 0.00, 22.2/0.0/0.0/0.0 (BP=1.000, ratio=1.286, hyp_len=9, ref_len=7)
+
+彼 は 自分 の 悪評 を 一笑 に 付 し た 。
+he laughed off his own bad reputation .
+he was a man of his own own .
+he was pleased to his own way .
+BLEU = 0.00, 37.5/14.3/0.0/0.0 (BP=1.000, ratio=1.143, hyp_len=8, ref_len=7)
+BLEU = 0.00, 42.9/16.7/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=7, ref_len=7)
+
+彼 は 私 に 長 い 物語 を 話 し て くれ た 。
+he told me a long story .
+he told me a long time .
+he told me a long story .
+BLEU = 75.98, 83.3/80.0/75.0/66.7 (BP=1.000, ratio=1.000, hyp_len=6, ref_len=6)
+BLEU = 100.00, 100.0/100.0/100.0/100.0 (BP=1.000, ratio=1.000, hyp_len=6, ref_len=6)
+
+寒 く な り さえ し な けれ ば い い の で す 。
+as long as it doesn &apos;t get cold , it &apos;s okay .
+i have to have a cold cold .
+i have to do cold cold .
+BLEU = 0.00, 14.3/0.0/0.0/0.0 (BP=0.490, ratio=0.583, hyp_len=7, ref_len=12)
+BLEU = 0.00, 16.7/0.0/0.0/0.0 (BP=0.368, ratio=0.500, hyp_len=6, ref_len=12)
+
+私 は その しきたり を よく 知 っ て い る 。
+i am acquainted with the custom .
+i know the big cat .
+i know the big big .
+BLEU = 0.00, 40.0/0.0/0.0/0.0 (BP=0.819, ratio=0.833, hyp_len=5, ref_len=6)
+BLEU = 0.00, 40.0/0.0/0.0/0.0 (BP=0.819, ratio=0.833, hyp_len=5, ref_len=6)
+
+その 少年 は 自分 の 名前 さえ 書 く こと が でき な かっ た 。
+the boy could not so much as write his own name .
+the boy could not write his name .
+the boy was too written to his name .
+BLEU = 28.70, 100.0/66.7/40.0/25.0 (BP=0.565, ratio=0.636, hyp_len=7, ref_len=11)
+BLEU = 0.00, 50.0/14.3/0.0/0.0 (BP=0.687, ratio=0.727, hyp_len=8, ref_len=11)
+
+今日 で は ７０ 歳 以上 まで 生き る 人 は 多 い 。
+nowadays many people live to be over seventy years old .
+there are many people to live in the evening today .
+we often have been to a lot of money today .
+BLEU = 0.00, 40.0/11.1/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=10, ref_len=10)
+BLEU = 0.00, 10.0/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=10, ref_len=10)
+
+彼女 の 美し い 服 が 私 の 注意 を 引 い た 。
+her beautiful dress drew my attention .
+her beautiful dress was a beautiful dress .
+her beauty of her beauty .
+BLEU = 0.00, 42.9/33.3/20.0/0.0 (BP=1.000, ratio=1.167, hyp_len=7, ref_len=6)
+BLEU = 0.00, 20.0/0.0/0.0/0.0 (BP=0.819, ratio=0.833, hyp_len=5, ref_len=6)
+
+朝食 後 、 出発 し ま しょ う 。
+we shall start after breakfast .
+i &apos;ll leave my breakfast after breakfast .
+i &apos;ll start after you .
+BLEU = 0.00, 28.6/16.7/0.0/0.0 (BP=1.000, ratio=1.400, hyp_len=7, ref_len=5)
+BLEU = 0.00, 40.0/25.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=5, ref_len=5)
+
+私 は ときどき 仕事 を やめ た い 気 が する 。
+at times i feel like quitting my job .
+i have a job to work .
+i have a good job .
+BLEU = 0.00, 33.3/0.0/0.0/0.0 (BP=0.717, ratio=0.750, hyp_len=6, ref_len=8)
+BLEU = 0.00, 40.0/0.0/0.0/0.0 (BP=0.549, ratio=0.625, hyp_len=5, ref_len=8)
+
+結果 は どう な り ま し た か 。
+how did it come out ?
+what did you do with the results ?
+what &apos;s the results of the results ?
+BLEU = 0.00, 14.3/0.0/0.0/0.0 (BP=1.000, ratio=1.400, hyp_len=7, ref_len=5)
+BLEU = 0.00, 0.0/0.0/0.0/0.0 (BP=1.000, ratio=1.400, hyp_len=7, ref_len=5)
+
+あなた は 私 たち の 誰 から も 信頼 さ れ て い る 。
+you are trusted by every one of us .
+you are all right .
+you are all right from our everyone .
+BLEU = 0.00, 50.0/33.3/0.0/0.0 (BP=0.368, ratio=0.500, hyp_len=4, ref_len=8)
+BLEU = 0.00, 28.6/16.7/0.0/0.0 (BP=0.867, ratio=0.875, hyp_len=7, ref_len=8)
+
+その 報告 書 から １０ 代 の 多く の 子供 が アルコール 中毒 に かか っ て い る こと が 分か っ た 。
+the report revealed that many teenagers are alcoholics .
+many of the river from the river from the river .
+the number of ten were knew the children .
+BLEU = 0.00, 20.0/0.0/0.0/0.0 (BP=1.000, ratio=1.250, hyp_len=10, ref_len=8)
+BLEU = 0.00, 12.5/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=8, ref_len=8)
+
+彼 は シカゴ に 飛 ん だ 。 そして そこ で たまたま あ る 友人 に 会 っ た 。
+he flew to chicago , where he happened to see a friend .
+he met that he was a bad person .
+he met a few friends that he had a few friends .
+BLEU = 0.00, 37.5/0.0/0.0/0.0 (BP=0.607, ratio=0.667, hyp_len=8, ref_len=12)
+BLEU = 0.00, 27.3/0.0/0.0/0.0 (BP=0.913, ratio=0.917, hyp_len=11, ref_len=12)
+
+私 を 一人 に し て お い て くださ い 。
+please leave me alone .
+please help me to work .
+please stay me alone .
+BLEU = 0.00, 40.0/0.0/0.0/0.0 (BP=1.000, ratio=1.250, hyp_len=5, ref_len=4)
+BLEU = 0.00, 75.0/33.3/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=4, ref_len=4)
+
+田森 は 、 １９４５ 年 すなわち 第 二 次 世界 大戦 が 終わ っ た 年 に 生まれ た 。
+tamori was born in 1945 , that is , when world war ii ended .
+
+the old man was born in the year of two years , and the world is born in the year .
+BLEU = 0, 0/0/0/0 (BP=0, ratio=0, hyp_len=0, ref_len=0)
+BLEU = 0.00, 30.0/10.5/5.6/0.0 (BP=1.000, ratio=1.429, hyp_len=20, ref_len=14)
+
+都会 で は 泥棒 に 気 を つけ な さ い 。
+beware of thefts in a big city .
+don &apos;t take the thief of the city .
+there is no one in the city .
+BLEU = 0.00, 25.0/0.0/0.0/0.0 (BP=1.000, ratio=1.143, hyp_len=8, ref_len=7)
+BLEU = 0.00, 28.6/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=7, ref_len=7)
+
+彼 は ちょっと し た こと で すぐ 怒 る 。
+he easily gets angry at trivial things .
+he is still angry with his little .
+he is a man of a few angry .
+BLEU = 0.00, 28.6/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=7, ref_len=7)
+BLEU = 0.00, 25.0/0.0/0.0/0.0 (BP=1.000, ratio=1.143, hyp_len=8, ref_len=7)
+
+彼 は 、 家 まで ずっと 歩 い た 。
+he walked all the way home .
+he walked in a house .
+he walked a walk by home .
+BLEU = 0.00, 40.0/25.0/0.0/0.0 (BP=0.819, ratio=0.833, hyp_len=5, ref_len=6)
+BLEU = 0.00, 50.0/20.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=6, ref_len=6)
+
+彼女 の 親切 な 行為 に 私 は 強 く 心 を 動か さ れ た 。
+her kind action strongly impressed me .
+her kindness was full of good .
+her kind action strongly strongly to her kind .
+BLEU = 0.00, 16.7/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=6, ref_len=6)
+BLEU = 34.57, 50.0/42.9/33.3/20.0 (BP=1.000, ratio=1.333, hyp_len=8, ref_len=6)
+
+女 は 女 で あ る こと を 、 男 が 男 で あ る こと を 喜 ぶ よう に 喜 ぶ べ き で あ る 。
+women ought to be as glad to be women as men are to be men .
+the sun is that the girl is so good as a man who is the same man .
+the woman should be glad to do as a man of man .
+BLEU = 0.00, 5.9/0.0/0.0/0.0 (BP=1.000, ratio=1.133, hyp_len=17, ref_len=15)
+BLEU = 0.00, 33.3/9.1/0.0/0.0 (BP=0.779, ratio=0.800, hyp_len=12, ref_len=15)
+
+すぐ に 出来 ま す 。
+it will be ready soon .
+i can &apos;t get up at once .
+i can get at once .
+BLEU = 0.00, 0.0/0.0/0.0/0.0 (BP=1.000, ratio=1.400, hyp_len=7, ref_len=5)
+BLEU = 0.00, 0.0/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=5, ref_len=5)
+
+きみ が もど っ て 来る ころ に は 、 ぼく は 出かけ て しま っ て い る よ 。
+by the time you come back , i &apos;ll be gone .
+i &apos;m going to go out at the street .
+when you &apos;re talking , i &apos;m leaving when you &apos;re here .
+BLEU = 0.00, 22.2/0.0/0.0/0.0 (BP=0.801, ratio=0.818, hyp_len=9, ref_len=11)
+BLEU = 0.00, 25.0/9.1/0.0/0.0 (BP=1.000, ratio=1.091, hyp_len=12, ref_len=11)
+
+この 前 中国 へ 行 っ た とき 、 上海 を 訪れ た 。
+the last time i went to china , i visited shanghai .
+when i went to the last last , i went to the hospital .
+i visited the matter when i go to this last .
+BLEU = 0.00, 53.8/33.3/9.1/0.0 (BP=1.000, ratio=1.182, hyp_len=13, ref_len=11)
+BLEU = 0.00, 60.0/11.1/0.0/0.0 (BP=0.905, ratio=0.909, hyp_len=10, ref_len=11)
+
+ライラック の 花 を 見 る に は ２、３ 週間 待 た ね ば な ら な い 。
+we must wait for a few weeks to see the lilacs .
+i have to see a few old days in the old days .
+you must have been to the few in the &apos;t of the flowers in the old flower .
+BLEU = 0.00, 41.7/18.2/0.0/0.0 (BP=1.000, ratio=1.091, hyp_len=12, ref_len=11)
+BLEU = 0.00, 23.5/0.0/0.0/0.0 (BP=1.000, ratio=1.545, hyp_len=17, ref_len=11)
+
+夜 が 明け 始め た 。
+it began to dawn .
+the night began to the long .
+the night began to the night .
+BLEU = 0.00, 33.3/20.0/0.0/0.0 (BP=1.000, ratio=1.500, hyp_len=6, ref_len=4)
+BLEU = 0.00, 33.3/20.0/0.0/0.0 (BP=1.000, ratio=1.500, hyp_len=6, ref_len=4)
+
+けっきょく 、 民主 主義 が 勝利 を 得 る だ ろ う 。
+democracy will be victorious in the long run .
+the more of the japanese will be done .
+the democratic of democratic democratic is too victory .
+BLEU = 0.00, 37.5/14.3/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=8, ref_len=8)
+BLEU = 0.00, 12.5/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=8, ref_len=8)
+
+両国 は 条約 を 取り決め た 。
+the two countries negotiated a treaty .
+the old man got down on the air .
+the old man was a big line .
+BLEU = 0.00, 12.5/0.0/0.0/0.0 (BP=1.000, ratio=1.333, hyp_len=8, ref_len=6)
+BLEU = 0.00, 28.6/0.0/0.0/0.0 (BP=1.000, ratio=1.167, hyp_len=7, ref_len=6)
+
+私 は 今 食べ る 気 に な ら な い 。
+i don &apos;t feel like eating now .
+i am not having lunch now .
+i don &apos;t have to eat now .
+BLEU = 0.00, 33.3/0.0/0.0/0.0 (BP=0.846, ratio=0.857, hyp_len=6, ref_len=7)
+BLEU = 0.00, 57.1/33.3/20.0/0.0 (BP=1.000, ratio=1.000, hyp_len=7, ref_len=7)
+
+何 か 他 に 僕 に し て 欲し い こと は な い で す か 。
+is there anything else you want me to do ?
+do you want to have something to do ?
+can i want to get to get to get to get to get to get ?
+BLEU = 0.00, 50.0/28.6/0.0/0.0 (BP=0.882, ratio=0.889, hyp_len=8, ref_len=9)
+BLEU = 0.00, 13.3/0.0/0.0/0.0 (BP=1.000, ratio=1.667, hyp_len=15, ref_len=9)
+
+彼 は 切手 を 私 の 二 倍 集め て い る 。
+he has collected twice as many stamps as i have .
+he is two years old .
+he is two old .
+BLEU = 0.00, 20.0/0.0/0.0/0.0 (BP=0.368, ratio=0.500, hyp_len=5, ref_len=10)
+BLEU = 0.00, 25.0/0.0/0.0/0.0 (BP=0.223, ratio=0.400, hyp_len=4, ref_len=10)
+
+後 に な っ て 、 クリス は 自分 の 行い を 恥ずかし く 思 い 、 彼女 に 謝 る と 、 ベス は 彼 を 許 し て くれ ま し た 。
+later , chris felt ashamed and apologized and beth forgave him .
+the letter was so kind , his and he was proud of him .
+i &apos;m sorry to do with him , and beth has gone to him .
+BLEU = 0.00, 23.1/0.0/0.0/0.0 (BP=1.000, ratio=1.182, hyp_len=13, ref_len=11)
+BLEU = 0.00, 28.6/7.7/0.0/0.0 (BP=1.000, ratio=1.273, hyp_len=14, ref_len=11)
+
+決して カンニング を し て は いけ ま せ ん 。
+you should on no account cheat in the exam .
+you must not keep your mind .
+you must not live on me .
+BLEU = 0.00, 16.7/0.0/0.0/0.0 (BP=0.607, ratio=0.667, hyp_len=6, ref_len=9)
+BLEU = 0.00, 33.3/0.0/0.0/0.0 (BP=0.607, ratio=0.667, hyp_len=6, ref_len=9)
+
+少年 は ラジオ を 聞き ながら 横 に な っ て い た 。
+the boy lay listening to the radio .
+the boy was full of radio .
+the boy was support with his radio .
+BLEU = 0.00, 50.0/20.0/0.0/0.0 (BP=0.846, ratio=0.857, hyp_len=6, ref_len=7)
+BLEU = 0.00, 42.9/16.7/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=7, ref_len=7)
+
+レインボウ ブリッジ の 長 さ は どの くらい で す か 。
+how long is the rainbow bridge ?
+how long is the long of the first party ?
+how long are you ?
+BLEU = 29.85, 44.4/37.5/28.6/16.7 (BP=1.000, ratio=1.500, hyp_len=9, ref_len=6)
+BLEU = 0.00, 50.0/33.3/0.0/0.0 (BP=0.607, ratio=0.667, hyp_len=4, ref_len=6)
+
+あいつ は 馬鹿 だ から 、 怖 い も の 知 ら ず だ 。
+he is too dumb to fear danger .
+he is a good know of a fool .
+he is a fool of a fool , but i am not to help him .
+BLEU = 0.00, 25.0/14.3/0.0/0.0 (BP=1.000, ratio=1.143, hyp_len=8, ref_len=7)
+BLEU = 0.00, 20.0/7.1/0.0/0.0 (BP=1.000, ratio=2.143, hyp_len=15, ref_len=7)
+
+彼女 は 強制 的 に 私 を 一緒 に 連れ出 し た 。
+she forced me to go out with her .
+she was at the same house .
+she left me to go to the back .
+BLEU = 0.00, 16.7/0.0/0.0/0.0 (BP=0.717, ratio=0.750, hyp_len=6, ref_len=8)
+BLEU = 0.00, 50.0/28.6/16.7/0.0 (BP=1.000, ratio=1.000, hyp_len=8, ref_len=8)
+
+私 は 誰 か が 彼女 の 代わり を する 人 を 探 し た 。
+i looked for someone to take her place .
+i ordered a man who who who did you .
+i &apos;m looking for her to her done .
+BLEU = 0.00, 11.1/0.0/0.0/0.0 (BP=1.000, ratio=1.125, hyp_len=9, ref_len=8)
+BLEU = 0.00, 50.0/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=8, ref_len=8)
+
+時間 通り に は 着け な い よ 。
+you will not get there on time .
+you can &apos;t get up at the street .
+it &apos;s no street in the street .
+BLEU = 0.00, 25.0/0.0/0.0/0.0 (BP=1.000, ratio=1.143, hyp_len=8, ref_len=7)
+BLEU = 0.00, 0.0/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=7, ref_len=7)
+
+ケネディ 氏 は 、 私 達 の ミス を 指摘 し ま し た 。
+mr kennedy pointed out our mistakes .
+mr jones was written in our evening .
+mr old time has been indicated of us .
+BLEU = 0.00, 28.6/0.0/0.0/0.0 (BP=1.000, ratio=1.167, hyp_len=7, ref_len=6)
+BLEU = 0.00, 12.5/0.0/0.0/0.0 (BP=1.000, ratio=1.333, hyp_len=8, ref_len=6)
+
+彼 は 庭 いじり を する よう に な っ た 。
+he has taken to gardening .
+he came to his garden to his garden .
+he became a garden in the garden .
+BLEU = 0.00, 25.0/0.0/0.0/0.0 (BP=1.000, ratio=1.600, hyp_len=8, ref_len=5)
+BLEU = 0.00, 14.3/0.0/0.0/0.0 (BP=1.000, ratio=1.400, hyp_len=7, ref_len=5)
+
+英語 を 勉強 し な けれ ば な ら な かっ た 。
+you had to study english .
+i had to study english .
+i had to study english english .
+BLEU = 66.87, 80.0/75.0/66.7/50.0 (BP=1.000, ratio=1.000, hyp_len=5, ref_len=5)
+BLEU = 50.81, 66.7/60.0/50.0/33.3 (BP=1.000, ratio=1.200, hyp_len=6, ref_len=5)
+
+そこ に は 消え る こと の な い 薄明かり が あ っ た 。
+there was eternal twilight in the place .
+there was a little time there were a view .
+there was no idea there .
+BLEU = 0.00, 22.2/12.5/0.0/0.0 (BP=1.000, ratio=1.286, hyp_len=9, ref_len=7)
+BLEU = 0.00, 40.0/25.0/0.0/0.0 (BP=0.670, ratio=0.714, hyp_len=5, ref_len=7)
+
+私 は あなた に あえ て うれし い 。
+i &apos;m glad to see you .
+i am glad to you .
+i &apos;m glad to you .
+BLEU = 0.00, 80.0/25.0/0.0/0.0 (BP=0.819, ratio=0.833, hyp_len=5, ref_len=6)
+BLEU = 57.89, 100.0/75.0/66.7/50.0 (BP=0.819, ratio=0.833, hyp_len=5, ref_len=6)
+
+漁師 は 釣り糸 を 水中 に 投げ た 。
+the fisherman cast his line into the water .
+the old man made a great deal of the table .
+the old man threw the window .
+BLEU = 0.00, 20.0/0.0/0.0/0.0 (BP=1.000, ratio=1.250, hyp_len=10, ref_len=8)
+BLEU = 0.00, 33.3/0.0/0.0/0.0 (BP=0.717, ratio=0.750, hyp_len=6, ref_len=8)
+
+今朝 は 昨日 の 朝 より も ずっと 涼し かっ た 。
+this morning it was much cooler than yesterday morning .
+this morning was too much than yesterday .
+this morning was so much than since this morning .
+BLEU = 0.00, 85.7/33.3/0.0/0.0 (BP=0.751, ratio=0.778, hyp_len=7, ref_len=9)
+BLEU = 0.00, 66.7/12.5/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=9, ref_len=9)
+
+ビル は 優秀 な 科学 者 に な る 素質 を 持 っ て い る 。
+bill has the makings of an excellent scientist .
+bill has a big idea .
+bill has a wonderful scientist to a customers scientist .
+BLEU = 0.00, 40.0/25.0/0.0/0.0 (BP=0.549, ratio=0.625, hyp_len=5, ref_len=8)
+BLEU = 0.00, 33.3/12.5/0.0/0.0 (BP=1.000, ratio=1.125, hyp_len=9, ref_len=8)
+
+彼女 は 日本 で 育 っ た に も かかわ ら ず 、 英語 を 自由 に 使 い こな す 。
+she has a good command of english though she was brought up in japan .
+she is a good idea of english , but she is to read english .
+she is very fond of speaking , but she is a good teacher .
+BLEU = 0.00, 42.9/15.4/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=14, ref_len=14)
+BLEU = 0.00, 38.5/8.3/0.0/0.0 (BP=0.926, ratio=0.929, hyp_len=13, ref_len=14)
+
+あの 人 は 顔 は 知 ら な い が 名前 は 知 っ て い る 。
+i know him by name , but not by sight .
+that man knows her name .
+that people know what to know .
+BLEU = 0.00, 20.0/0.0/0.0/0.0 (BP=0.368, ratio=0.500, hyp_len=5, ref_len=10)
+BLEU = 0.00, 16.7/0.0/0.0/0.0 (BP=0.513, ratio=0.600, hyp_len=6, ref_len=10)
+
+ジェーン は 私 たち の 決定 に 反対 し た 。
+jane kicked at our decision .
+jane was on us to our proposal .
+jane object to us in the decision .
+BLEU = 0.00, 28.6/0.0/0.0/0.0 (BP=1.000, ratio=1.400, hyp_len=7, ref_len=5)
+BLEU = 0.00, 28.6/0.0/0.0/0.0 (BP=1.000, ratio=1.400, hyp_len=7, ref_len=5)
+
+彼 は 小さな 鶏舎 を 持 っ て い る 。
+he keeps a small poultry yard .
+he has a good idea .
+he has a small time .
+BLEU = 0.00, 40.0/0.0/0.0/0.0 (BP=0.819, ratio=0.833, hyp_len=5, ref_len=6)
+BLEU = 0.00, 60.0/25.0/0.0/0.0 (BP=0.819, ratio=0.833, hyp_len=5, ref_len=6)
+
+結婚 前 は 両眼 を 大き く 見開 い て おれ 、 その 後 は 、 その 半ば を 閉じ よ 。
+keep your eyes wide open before marriage , half shut afterwards .
+the wedding years when she was a good idea .
+the wedding before the wedding , the fact is closed the time .
+BLEU = 0.00, 0.0/0.0/0.0/0.0 (BP=0.801, ratio=0.818, hyp_len=9, ref_len=11)
+BLEU = 0.00, 16.7/0.0/0.0/0.0 (BP=1.000, ratio=1.091, hyp_len=12, ref_len=11)
+
+電車 を 降り た とき に 帽子 を 忘れ た 。
+i left my hat as i got off the train .
+i had a hat when i got the train .
+i left my hat when i got a train .
+BLEU = 0.00, 66.7/25.0/0.0/0.0 (BP=0.895, ratio=0.900, hyp_len=9, ref_len=10)
+BLEU = 33.01, 77.8/50.0/28.6/16.7 (BP=0.895, ratio=0.900, hyp_len=9, ref_len=10)
+
+トム の 友達 は 彼 の こと を 「 マネー バッグ 」 と 呼 ん だ 。
+tom &apos;s friends called him mr money bags .
+tom &apos;s a good time that his friends is &quot; to his mind .
+tom is invited to his what to do .
+BLEU = 0.00, 23.1/8.3/0.0/0.0 (BP=1.000, ratio=1.625, hyp_len=13, ref_len=8)
+BLEU = 0.00, 12.5/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=8, ref_len=8)
+
+彼 は あまり に 子供 だ から 誘惑 に かて な かっ た 。
+he was so childish that he couldn &apos;t resist temptation .
+he was not so much as to be a child .
+he was too much to his children .
+BLEU = 0.00, 30.0/11.1/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=10, ref_len=10)
+BLEU = 0.00, 28.6/16.7/0.0/0.0 (BP=0.651, ratio=0.700, hyp_len=7, ref_len=10)
+
+何 か 割引 切符 は あ り ま す か 。
+are there any discount tickets for me ?
+what is the air for ?
+what is the ticket ?
+BLEU = 0.00, 20.0/0.0/0.0/0.0 (BP=0.670, ratio=0.714, hyp_len=5, ref_len=7)
+BLEU = 0.00, 0.0/0.0/0.0/0.0 (BP=0.472, ratio=0.571, hyp_len=4, ref_len=7)
+
+彼 は 我々 の 忠告 に 耳 を 貸 さ な かっ た 。
+he turned a deaf ear to my advice .
+he was not so much to help us .
+he had no ear of our advice .
+BLEU = 0.00, 25.0/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=8, ref_len=8)
+BLEU = 0.00, 42.9/0.0/0.0/0.0 (BP=0.867, ratio=0.875, hyp_len=7, ref_len=8)
+
+私 は 少な く とも 毎月 １ 冊 は 本 を 読 み ま す 。
+i read at least one book every month .
+i read books at the book .
+i read the book in the month .
+BLEU = 0.00, 66.7/20.0/0.0/0.0 (BP=0.717, ratio=0.750, hyp_len=6, ref_len=8)
+BLEU = 0.00, 57.1/16.7/0.0/0.0 (BP=0.867, ratio=0.875, hyp_len=7, ref_len=8)
+
+姉 は 若 い 力士 を 応援 し て い ま す 。
+my sister cheers young sumo wrestlers .
+my sister is young for a young sister .
+my sister is young in young .
+BLEU = 0.00, 37.5/14.3/0.0/0.0 (BP=1.000, ratio=1.333, hyp_len=8, ref_len=6)
+BLEU = 0.00, 50.0/20.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=6, ref_len=6)
+
+しかし 彼 の 友達 は 彼 を ケン と 呼 ぶ 。
+but his friends call him ken .
+his friends is , but he is a good .
+but his friends is that he is a good side .
+BLEU = 0.00, 33.3/12.5/0.0/0.0 (BP=1.000, ratio=1.500, hyp_len=9, ref_len=6)
+BLEU = 0.00, 30.0/22.2/12.5/0.0 (BP=1.000, ratio=1.667, hyp_len=10, ref_len=6)
+
+彼女 は 、 それ は あまり に 急 な 知ら せ だ と 彼 に ぐち を こぼ し た 。
+she complained to him that it was too short a notice .
+she made him a very little , don &apos;t she him him .
+she got him to hurry the way she was not in the other .
+BLEU = 0.00, 25.0/0.0/0.0/0.0 (BP=1.000, ratio=1.091, hyp_len=12, ref_len=11)
+BLEU = 0.00, 30.8/0.0/0.0/0.0 (BP=1.000, ratio=1.182, hyp_len=13, ref_len=11)
+
+気 が 散 る から テレビ を 消 し て く れ 。
+turn off the television . i can &apos;t concentrate .
+let &apos;s leave the tv in the middle of the .
+turn off the tv .
+BLEU = 0.00, 10.0/0.0/0.0/0.0 (BP=1.000, ratio=1.111, hyp_len=10, ref_len=9)
+BLEU = 0.00, 75.0/66.7/50.0/0.0 (BP=0.287, ratio=0.444, hyp_len=4, ref_len=9)
+
+誰 が 知 る もの か 。
+who knows ?
+who knows who know ?
+who is known ?
+BLEU = 0.00, 50.0/33.3/0.0/0.0 (BP=1.000, ratio=2.000, hyp_len=4, ref_len=2)
+BLEU = 0.00, 33.3/0.0/0.0/0.0 (BP=1.000, ratio=1.500, hyp_len=3, ref_len=2)
+
+弟 が お 金 を 頂戴 と 言 い ま し た 。
+my little brother asked for some money .
+my brother was told up the money .
+my brother told me some money .
+BLEU = 0.00, 42.9/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=7, ref_len=7)
+BLEU = 0.00, 66.7/20.0/0.0/0.0 (BP=0.846, ratio=0.857, hyp_len=6, ref_len=7)
+
+それ は 社会 に 寄与 する の だ 。
+it will make for the society .
+that &apos;s a good way of may .
+it &apos;s a good society to society .
+BLEU = 0.00, 0.0/0.0/0.0/0.0 (BP=1.000, ratio=1.167, hyp_len=7, ref_len=6)
+BLEU = 0.00, 28.6/0.0/0.0/0.0 (BP=1.000, ratio=1.167, hyp_len=7, ref_len=6)
+
+私 は 私 の 写真 を と っ て もら い ま し た 。
+i had my picture taken .
+i had my picture and i was done .
+i was given my picture .
+BLEU = 34.57, 50.0/42.9/33.3/20.0 (BP=1.000, ratio=1.600, hyp_len=8, ref_len=5)
+BLEU = 0.00, 60.0/25.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=5, ref_len=5)
+
+彼 は 私 に お 世辞 を 言 っ た 。
+he paid me a compliment .
+he told me to tell me .
+he told me the way to me .
+BLEU = 0.00, 33.3/0.0/0.0/0.0 (BP=1.000, ratio=1.200, hyp_len=6, ref_len=5)
+BLEU = 0.00, 28.6/0.0/0.0/0.0 (BP=1.000, ratio=1.400, hyp_len=7, ref_len=5)
+
+あの プロジェクト に つ い て 彼 を 本気 に さ せ な い と 。
+we have got to get him to take that project seriously .
+i don &apos;t want to take him about that point .
+i don &apos;t want to get him to that in that project .
+BLEU = 0.00, 40.0/11.1/0.0/0.0 (BP=0.905, ratio=0.909, hyp_len=10, ref_len=11)
+BLEU = 25.21, 50.0/36.4/20.0/11.1 (BP=1.000, ratio=1.091, hyp_len=12, ref_len=11)
+
+この 条件 に 該当 する 人 は 誰 も い な い 。
+there is nobody who fulfils these conditions .
+no one is not to the better .
+nobody is everyone to be a condition .
+BLEU = 0.00, 14.3/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=7, ref_len=7)
+BLEU = 0.00, 28.6/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=7, ref_len=7)
+
+あなた は 預言 者 で す か 。
+are you the prophet ?
+is you a big person ?
+what is you ?
+BLEU = 0.00, 20.0/0.0/0.0/0.0 (BP=1.000, ratio=1.250, hyp_len=5, ref_len=4)
+BLEU = 0.00, 33.3/0.0/0.0/0.0 (BP=0.717, ratio=0.750, hyp_len=3, ref_len=4)
+
+眠れ る 獅子 は 起こ す な 。
+let sleeping dogs lie .
+don &apos;t speak with our way to live .
+don &apos;t forget to sleep in the sleep .
+BLEU = 0.00, 0.0/0.0/0.0/0.0 (BP=1.000, ratio=2.000, hyp_len=8, ref_len=4)
+BLEU = 0.00, 0.0/0.0/0.0/0.0 (BP=1.000, ratio=2.000, hyp_len=8, ref_len=4)
+
+たいてい の 人 が 以前 より も 暮らし 向き が よ い と 思 う 。
+i think most people are better off now than they used to be .
+i think it &apos;s a man of people in fact .
+i think most people better than did .
+BLEU = 0.00, 30.0/11.1/0.0/0.0 (BP=0.741, ratio=0.769, hyp_len=10, ref_len=13)
+BLEU = 19.31, 85.7/50.0/40.0/25.0 (BP=0.424, ratio=0.538, hyp_len=7, ref_len=13)
+
+話 を つけ よう じゃ な い か 。
+let &apos;s talk it out .
+don &apos;t you tell what you speak ?
+don &apos;t you tell me to do ?
+BLEU = 0.00, 0.0/0.0/0.0/0.0 (BP=1.000, ratio=1.400, hyp_len=7, ref_len=5)
+BLEU = 0.00, 0.0/0.0/0.0/0.0 (BP=1.000, ratio=1.400, hyp_len=7, ref_len=5)
+
+今日 の 新聞 は 読 み ま し た か 。
+have you read today &apos;s paper ?
+have you read the newspaper today ?
+did you read today &apos;s paper ?
+BLEU = 0.00, 66.7/40.0/25.0/0.0 (BP=1.000, ratio=1.000, hyp_len=6, ref_len=6)
+BLEU = 75.98, 83.3/80.0/75.0/66.7 (BP=1.000, ratio=1.000, hyp_len=6, ref_len=6)
+
+私 は あなた に ぜひ 出席 し て もら い た い 。
+i insist on your being present .
+i want you to do you .
+i want you to attend your attended .
+BLEU = 0.00, 16.7/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=6, ref_len=6)
+BLEU = 0.00, 28.6/0.0/0.0/0.0 (BP=1.000, ratio=1.167, hyp_len=7, ref_len=6)
+
+心づくし の 品 を 頂き ありがとう ござ い ま す 。
+thank you very much for your thoughtful present .
+i &apos;m looking forward to the more .
+i appreciate the antiques in the middle .
+BLEU = 0.00, 0.0/0.0/0.0/0.0 (BP=0.867, ratio=0.875, hyp_len=7, ref_len=8)
+BLEU = 0.00, 0.0/0.0/0.0/0.0 (BP=0.867, ratio=0.875, hyp_len=7, ref_len=8)
+
+ベス は いつ も 途方 に くれ て い た 。
+beth was always up a tree .
+i always have made up my mind .
+my beth was always in the loss .
+BLEU = 0.00, 28.6/0.0/0.0/0.0 (BP=1.000, ratio=1.167, hyp_len=7, ref_len=6)
+BLEU = 0.00, 42.9/33.3/20.0/0.0 (BP=1.000, ratio=1.167, hyp_len=7, ref_len=6)
+
+ニューヨーク は 世界 で 最も にぎやか な 街 だ 。
+new york is the busiest city in the world .
+new york is a best of the world .
+new york is the most office in the world .
+BLEU = 0.00, 62.5/42.9/16.7/0.0 (BP=0.882, ratio=0.889, hyp_len=8, ref_len=9)
+BLEU = 43.17, 77.8/62.5/42.9/16.7 (BP=1.000, ratio=1.000, hyp_len=9, ref_len=9)
+
+この こと から 、 会社 に は 事故 の 責任 が 無 い こと に な る 。
+it follows from this that the company is not responsible for the accident .
+this company is not to be a great accident .
+this is the last responsibility in the company , a responsibility of accident .
+BLEU = 0.00, 55.6/25.0/14.3/0.0 (BP=0.641, ratio=0.692, hyp_len=9, ref_len=13)
+BLEU = 0.00, 46.2/8.3/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=13, ref_len=13)
+
+その 話 を 聞 い て 泣 か な い 人 は い な かっ た 。
+there was no one but wept to hear the story .
+no one didn &apos;t know what to say .
+there was no people to hear the story .
+BLEU = 0.00, 37.5/14.3/0.0/0.0 (BP=0.779, ratio=0.800, hyp_len=8, ref_len=10)
+BLEU = 38.94, 87.5/71.4/50.0/20.0 (BP=0.779, ratio=0.800, hyp_len=8, ref_len=10)
+
+メアリー は 母親 に 良く 似 て い る 。
+mary really takes after her mother .
+mary is a good mother .
+mary is familiar to her mother .
+BLEU = 0.00, 40.0/0.0/0.0/0.0 (BP=0.819, ratio=0.833, hyp_len=5, ref_len=6)
+BLEU = 0.00, 50.0/20.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=6, ref_len=6)
+
+私 は ゴルフ で 彼 を 負か し た 。
+i beat him at golf .
+i was on him in my age .
+i got him to golf in golf .
+BLEU = 0.00, 28.6/0.0/0.0/0.0 (BP=1.000, ratio=1.400, hyp_len=7, ref_len=5)
+BLEU = 0.00, 42.9/0.0/0.0/0.0 (BP=1.000, ratio=1.400, hyp_len=7, ref_len=5)
+
+最後 の 傷 が 致命 的 で あ る と わか っ た 。
+the last wound proved fatal .
+the cat was caught in the same mistake .
+the same of the last man found a selfish in the political .
+BLEU = 0.00, 12.5/0.0/0.0/0.0 (BP=1.000, ratio=1.600, hyp_len=8, ref_len=5)
+BLEU = 0.00, 16.7/9.1/0.0/0.0 (BP=1.000, ratio=2.400, hyp_len=12, ref_len=5)
+
+フロスト 氏 は その 地位 に つ く 資格 が あ る 。
+mr frost is eligible for the post .
+mr jones has a good idea of the dog .
+mr old man is a examination for the position .
+BLEU = 0.00, 22.2/0.0/0.0/0.0 (BP=1.000, ratio=1.286, hyp_len=9, ref_len=7)
+BLEU = 0.00, 44.4/12.5/0.0/0.0 (BP=1.000, ratio=1.286, hyp_len=9, ref_len=7)
+
+その 事故 で たくさん の 乗客 が けが し た 。
+a number of passengers were injured in the accident .
+the accident has many interest in the accident .
+the accident was a lot of passengers in the accident .
+BLEU = 0.00, 37.5/28.6/16.7/0.0 (BP=0.882, ratio=0.889, hyp_len=8, ref_len=9)
+BLEU = 0.00, 60.0/33.3/12.5/0.0 (BP=1.000, ratio=1.111, hyp_len=10, ref_len=9)
+
+僕 は ガール フレンド と 一緒 に スキー に 行 く 予定 で す 。
+i plan to go skiing with my girlfriend .
+i &apos;m going to the go with my way to the room .
+i &apos;m going to the foot of the girlfriend .
+BLEU = 0.00, 41.7/9.1/0.0/0.0 (BP=1.000, ratio=1.500, hyp_len=12, ref_len=8)
+BLEU = 0.00, 33.3/0.0/0.0/0.0 (BP=1.000, ratio=1.125, hyp_len=9, ref_len=8)
+
+自動 車 産業 は 日本 の 大きな 産業 の ひと つ で あ る 。
+the automobile industry is one of the main industries in japan .
+the car is a big man to japan .
+car is a large man of great industry in the japanese .
+BLEU = 0.00, 37.5/0.0/0.0/0.0 (BP=0.687, ratio=0.727, hyp_len=8, ref_len=11)
+BLEU = 0.00, 45.5/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=11, ref_len=11)
+
+相場 師 の 中 に は 老人 の 無知 と 寂し さ に 付け込 む 奴 が い る 。
+some speculators take advantage of the ignorance and helplessness of old people .
+the weather of the weather is beyond the better of the same &apos;s .
+in the beach , the old problem is a good time .
+BLEU = 0.00, 23.1/8.3/0.0/0.0 (BP=1.000, ratio=1.083, hyp_len=13, ref_len=12)
+BLEU = 0.00, 18.2/0.0/0.0/0.0 (BP=0.913, ratio=0.917, hyp_len=11, ref_len=12)
+
+彼 と 僕 は ツーカー の 仲 だ 。
+we can just about read each other &apos;s minds .
+he is a good idea .
+he is an old time .
+BLEU = 0.00, 0.0/0.0/0.0/0.0 (BP=0.449, ratio=0.556, hyp_len=5, ref_len=9)
+BLEU = 0.00, 0.0/0.0/0.0/0.0 (BP=0.449, ratio=0.556, hyp_len=5, ref_len=9)
+
+部隊 は 陣地 を 守 り 続け た 。
+the troops maintained their ground .
+the old man was caught in the evening .
+the old man was defend the big tree .
+BLEU = 0.00, 12.5/0.0/0.0/0.0 (BP=1.000, ratio=1.600, hyp_len=8, ref_len=5)
+BLEU = 0.00, 12.5/0.0/0.0/0.0 (BP=1.000, ratio=1.600, hyp_len=8, ref_len=5)
+
+まず 結婚 しろ 。 そう すれ ば 愛情 と は あと で 生まれ て くる 。
+marry first and love will follow .
+i &apos;m married and not .
+it is a wedding day to say , and you &apos;ll be born in the hospital .
+BLEU = 0.00, 20.0/0.0/0.0/0.0 (BP=0.819, ratio=0.833, hyp_len=5, ref_len=6)
+BLEU = 0.00, 6.2/0.0/0.0/0.0 (BP=1.000, ratio=2.667, hyp_len=16, ref_len=6)
+
+彼 は 無知 で あ る 上 に 、 傲慢 で も あ る 。
+besides being ignorant , he is too proud .
+he is a man of a good idea .
+he is a big view on the way to be a month .
+BLEU = 0.00, 25.0/14.3/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=8, ref_len=8)
+BLEU = 0.00, 16.7/9.1/0.0/0.0 (BP=1.000, ratio=1.500, hyp_len=12, ref_len=8)
+
+そこ に は 歩 い て 行 っ た 方 が い い よ 。
+you &apos;d better go there on foot .
+you had better go there in the there .
+i &apos;d like to go there .
+BLEU = 0.00, 50.0/28.6/16.7/0.0 (BP=1.000, ratio=1.143, hyp_len=8, ref_len=7)
+BLEU = 0.00, 50.0/20.0/0.0/0.0 (BP=0.846, ratio=0.857, hyp_len=6, ref_len=7)
+
+バス に 乗り 遅れ る なんて 君 は 不 注意 だっ た ね 。
+it was careless of you to miss the bus .
+you were not at the bus every bus .
+you look better , but you &apos;re better .
+BLEU = 0.00, 37.5/14.3/0.0/0.0 (BP=0.882, ratio=0.889, hyp_len=8, ref_len=9)
+BLEU = 0.00, 12.5/0.0/0.0/0.0 (BP=0.882, ratio=0.889, hyp_len=8, ref_len=9)
+
+分析 に お い て は 、 クルツ に よ っ て 最初 に 分析 さ れ た 権威 的 行動 の 類型 に 負 っ て い る 部分 が 大き い 。
+in my analysis i rely considerably on the types of authoritarian behaviour first analyzed by kurz .
+i &apos;m looking for a while , and i &apos;m going to the same mistake .
+the next and the other who is the best of the human action in the middle of the fire .
+BLEU = 0.00, 13.3/0.0/0.0/0.0 (BP=0.936, ratio=0.938, hyp_len=15, ref_len=16)
+BLEU = 0.00, 15.8/0.0/0.0/0.0 (BP=1.000, ratio=1.188, hyp_len=19, ref_len=16)
+
+君 は いつ 暇 に な り ま す か 。
+when will you be free ?
+do you have to come ?
+what &apos;s you free ?
+BLEU = 0.00, 20.0/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=5, ref_len=5)
+BLEU = 0.00, 50.0/0.0/0.0/0.0 (BP=0.779, ratio=0.800, hyp_len=4, ref_len=5)
+
+明日 集ま り ま しょ う 。
+let &apos;s get together tomorrow .
+i &apos;ll get it tomorrow .
+i will be able to see you tomorrow .
+BLEU = 0.00, 40.0/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=5, ref_len=5)
+BLEU = 0.00, 12.5/0.0/0.0/0.0 (BP=1.000, ratio=1.600, hyp_len=8, ref_len=5)
+
+そんな に 沢山 パン に 乗 る ん か？
+you really put that much in the sandwich ?
+i &apos;m sorry to hear such a thing .
+i &apos;m better to do such a thing .
+BLEU = 0.00, 0.0/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=8, ref_len=8)
+BLEU = 0.00, 0.0/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=8, ref_len=8)
+
+彼 は 熟練 の ピアニスト だ 。
+he is a proficient pianist .
+he is a pianist .
+he is a pianist .
+BLEU = 0.00, 100.0/66.7/50.0/0.0 (BP=0.779, ratio=0.800, hyp_len=4, ref_len=5)
+BLEU = 0.00, 100.0/66.7/50.0/0.0 (BP=0.779, ratio=0.800, hyp_len=4, ref_len=5)
+
+私 は あなた を 好き に な ら ず に は い られ な い 。
+i cannot help falling in love with you .
+i can &apos;t help you .
+i can &apos;t help you to like you .
+BLEU = 0.00, 60.0/0.0/0.0/0.0 (BP=0.549, ratio=0.625, hyp_len=5, ref_len=8)
+BLEU = 0.00, 37.5/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=8, ref_len=8)
+
+やはり 、 ここ の タイ 料理 の 味付け は 、 日本 人 好み に し て あ る ん だ ね 。
+i think the thai food at this place is seasoned so japanese will like it .
+the more of the two countries are dead .
+the food of here is a few country .
+BLEU = 0.00, 12.5/0.0/0.0/0.0 (BP=0.417, ratio=0.533, hyp_len=8, ref_len=15)
+BLEU = 0.00, 37.5/0.0/0.0/0.0 (BP=0.417, ratio=0.533, hyp_len=8, ref_len=15)
+
+彼 の 憂うつ は 彼女 が キス を する と 晴れ た 。
+his depression came to an end when she kissed him .
+his ambition was to take her .
+his condition went to a large looked .
+BLEU = 0.00, 33.3/0.0/0.0/0.0 (BP=0.513, ratio=0.600, hyp_len=6, ref_len=10)
+BLEU = 0.00, 28.6/0.0/0.0/0.0 (BP=0.651, ratio=0.700, hyp_len=7, ref_len=10)
+
+ジェーン は テニス を し ま せ ん で し た ね 。
+jane didn &apos;t play tennis , did she ?
+jane was not playing tennis .
+jane was not at tennis .
+BLEU = 0.00, 40.0/0.0/0.0/0.0 (BP=0.549, ratio=0.625, hyp_len=5, ref_len=8)
+BLEU = 0.00, 40.0/0.0/0.0/0.0 (BP=0.549, ratio=0.625, hyp_len=5, ref_len=8)
+
+私 に 何 か 食べ物 を 下さ い 。
+give me something to eat .
+something is wrong with me .
+please food for me to do .
+BLEU = 0.00, 40.0/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=5, ref_len=5)
+BLEU = 0.00, 33.3/0.0/0.0/0.0 (BP=1.000, ratio=1.200, hyp_len=6, ref_len=5)
+
+私 達 は 毎晩 テレビ を 見 る 。
+we watch television every evening .
+we look tv at the tv .
+we look watching tv .
+BLEU = 0.00, 16.7/0.0/0.0/0.0 (BP=1.000, ratio=1.200, hyp_len=6, ref_len=5)
+BLEU = 0.00, 25.0/0.0/0.0/0.0 (BP=0.779, ratio=0.800, hyp_len=4, ref_len=5)
+
+僕 たち に 答え が わか っ た ら すぐ に 君 に 電話 する よ 。
+as soon as we get the answer , we &apos;ll phone you .
+i &apos;ll give you a large for my mind to see us .
+we will call in the phone when we found it .
+BLEU = 0.00, 16.7/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=12, ref_len=12)
+BLEU = 0.00, 40.0/0.0/0.0/0.0 (BP=0.819, ratio=0.833, hyp_len=10, ref_len=12)
+
+今 私 たち に 必要 な の は 休息 で す 。
+what we need now is a rest .
+it is a necessary man now to our .
+we are going to our need now .
+BLEU = 0.00, 37.5/14.3/0.0/0.0 (BP=1.000, ratio=1.143, hyp_len=8, ref_len=7)
+BLEU = 0.00, 42.9/16.7/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=7, ref_len=7)
+
+そう する べ き で は な い と 思 う 。
+i don &apos;t think we should do that .
+i think you should not understand such a thing .
+i don &apos;t think you should be so .
+BLEU = 0.00, 33.3/0.0/0.0/0.0 (BP=1.000, ratio=1.125, hyp_len=9, ref_len=8)
+BLEU = 36.56, 62.5/42.9/33.3/20.0 (BP=1.000, ratio=1.000, hyp_len=8, ref_len=8)
+
+私 は だま さ れ て い た の だ と い う 結論 に 達 し た 。
+i came to the conclusion that i had been deceived .
+i was caught in a few idea that i was out of a man .
+i found the was a small time i was out of them .
+BLEU = 0.00, 21.4/7.7/0.0/0.0 (BP=1.000, ratio=1.400, hyp_len=14, ref_len=10)
+BLEU = 0.00, 25.0/0.0/0.0/0.0 (BP=1.000, ratio=1.200, hyp_len=12, ref_len=10)
+
+昨日 ケン に 会 っ た 。
+i met ken yesterday .
+i met the coffee yesterday .
+i met ken yesterday .
+BLEU = 0.00, 60.0/25.0/0.0/0.0 (BP=1.000, ratio=1.250, hyp_len=5, ref_len=4)
+BLEU = 100.00, 100.0/100.0/100.0/100.0 (BP=1.000, ratio=1.000, hyp_len=4, ref_len=4)
+
+保険 を かけ て 下さ い 。
+insure it , please .
+please put the mind .
+please put the value .
+BLEU = 0.00, 25.0/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=4, ref_len=4)
+BLEU = 0.00, 25.0/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=4, ref_len=4)
+
+良 い 休暇 を 。
+have a nice vacation .
+i have a good idea .
+i have a good vacation .
+BLEU = 0.00, 40.0/25.0/0.0/0.0 (BP=1.000, ratio=1.250, hyp_len=5, ref_len=4)
+BLEU = 0.00, 60.0/25.0/0.0/0.0 (BP=1.000, ratio=1.250, hyp_len=5, ref_len=4)
+
+この 山 に は 狐 が 住 ん で い る と い う こと が 最近 わか っ た 。
+we found out recently that some foxes live here on this mountain .
+the mountain took a lives person to live in this mountain .
+i found this mountain not lived by living .
+BLEU = 0.00, 27.3/10.0/0.0/0.0 (BP=0.913, ratio=0.917, hyp_len=11, ref_len=12)
+BLEU = 0.00, 37.5/14.3/0.0/0.0 (BP=0.607, ratio=0.667, hyp_len=8, ref_len=12)
+
+彼 は 疲れ すぎ て い て もう それ 以上 歩け な かっ た 。
+he was too tired to walk any more .
+he was too tired to walk any more .
+he had too tired to walk any more .
+BLEU = 100.00, 100.0/100.0/100.0/100.0 (BP=1.000, ratio=1.000, hyp_len=8, ref_len=8)
+BLEU = 70.71, 87.5/71.4/66.7/60.0 (BP=1.000, ratio=1.000, hyp_len=8, ref_len=8)
+
+植物 は 土壌 で 育 つ 。
+plants are nourished by earth .
+the ship is getting of the air .
+the all is absorbed with a moment .
+BLEU = 0.00, 0.0/0.0/0.0/0.0 (BP=1.000, ratio=1.400, hyp_len=7, ref_len=5)
+BLEU = 0.00, 0.0/0.0/0.0/0.0 (BP=1.000, ratio=1.400, hyp_len=7, ref_len=5)
+
+彼 は 神経 衰弱 に な っ て い た 。
+he suffered a nervous breakdown .
+he was in a old person .
+he was nervous nervous .
+BLEU = 0.00, 33.3/0.0/0.0/0.0 (BP=1.000, ratio=1.200, hyp_len=6, ref_len=5)
+BLEU = 0.00, 50.0/0.0/0.0/0.0 (BP=0.779, ratio=0.800, hyp_len=4, ref_len=5)
+
+ミホ は 私 が 一番 好き な 女の子 で す 。
+miho is the girl i like best .
+the old man is a best man .
+the old man is girls to have been the best girl .
+BLEU = 0.00, 42.9/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=7, ref_len=7)
+BLEU = 0.00, 36.4/0.0/0.0/0.0 (BP=1.000, ratio=1.571, hyp_len=11, ref_len=7)
+
+彼 は 金持ち で あ る よう に 思 わ れ る 。
+he seems to be rich .
+he seems to be a man .
+he is rich for rich .
+BLEU = 50.81, 66.7/60.0/50.0/33.3 (BP=1.000, ratio=1.200, hyp_len=6, ref_len=5)
+BLEU = 0.00, 40.0/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=5, ref_len=5)
+
+ジョン は 、 その 不 誠実 な セールスマン が 、 彼 を だま し て 無用 な 機械 を 買 わ せ た と 主張 し た 。
+john claimed that the dishonest salesman had tricked him into buying a useless piece of machinery .
+john tried to buy a little to buy his mind .
+john argued that john had been out of the city machine we had to buy him .
+BLEU = 0.00, 20.0/0.0/0.0/0.0 (BP=0.549, ratio=0.625, hyp_len=10, ref_len=16)
+BLEU = 0.00, 37.5/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=16, ref_len=16)
+
+それ を 考え る と ぞっと する 。
+i shudder to think of it .
+it is a that that i think it will be .
+it is a good idea that it makes it .
+BLEU = 0.00, 30.0/0.0/0.0/0.0 (BP=1.000, ratio=1.667, hyp_len=10, ref_len=6)
+BLEU = 0.00, 11.1/0.0/0.0/0.0 (BP=1.000, ratio=1.500, hyp_len=9, ref_len=6)
+
+彼 の 生活 は 心配 が な い 。
+his life is free from care .
+his life is not a life .
+his life is not worry .
+BLEU = 0.00, 50.0/40.0/25.0/0.0 (BP=1.000, ratio=1.000, hyp_len=6, ref_len=6)
+BLEU = 0.00, 60.0/50.0/33.3/0.0 (BP=0.819, ratio=0.833, hyp_len=5, ref_len=6)
+
+もっと 注意 深 く 運転 し な けれ ば 、 事故 に 巻き込 ま れ ま す よ 。
+drive more carefully , or you will run into trouble .
+if you can get up , you will be glad to get on the accident .
+i have a good driver , but i &apos;ll get accident with you .
+BLEU = 0.00, 20.0/7.1/0.0/0.0 (BP=1.000, ratio=1.500, hyp_len=15, ref_len=10)
+BLEU = 0.00, 15.4/0.0/0.0/0.0 (BP=1.000, ratio=1.300, hyp_len=13, ref_len=10)
+
+それ が 間違 っ て い る 可能 性 が 非常 に 強 い 。
+there is a strong presumption against its truth .
+it is very good to have a good idea that it is wrong .
+it is very strong that you are wrong .
+BLEU = 0.00, 15.4/0.0/0.0/0.0 (BP=1.000, ratio=1.625, hyp_len=13, ref_len=8)
+BLEU = 0.00, 25.0/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=8, ref_len=8)
+
+私 は あなた の 助け が とても 必要 で す 。
+i am badly in need of your help .
+i need your help .
+i need your help .
+BLEU = 0.00, 100.0/33.3/0.0/0.0 (BP=0.368, ratio=0.500, hyp_len=4, ref_len=8)
+BLEU = 0.00, 100.0/33.3/0.0/0.0 (BP=0.368, ratio=0.500, hyp_len=4, ref_len=8)
+
+彼女 は 先月 本社 から 支社 へ 転勤 さ せ られ た 。
+she was transferred from the head office to a branch office last month .
+she was put a got out of the last month .
+she was made to be a good way of month .
+BLEU = 0.00, 60.0/22.2/0.0/0.0 (BP=0.741, ratio=0.769, hyp_len=10, ref_len=13)
+BLEU = 0.00, 50.0/11.1/0.0/0.0 (BP=0.741, ratio=0.769, hyp_len=10, ref_len=13)
+
+私 は その 男 に 会 っ た 。 する と 彼 は 私 に 道 を 教え て くれ た 。
+i met the man , who showed me the way .
+i saw the man at the man .
+i met me the way to see the street .
+BLEU = 0.00, 57.1/16.7/0.0/0.0 (BP=0.651, ratio=0.700, hyp_len=7, ref_len=10)
+BLEU = 0.00, 66.7/37.5/14.3/0.0 (BP=0.895, ratio=0.900, hyp_len=9, ref_len=10)
+
+背後 に 見え隠れ する の は 近年 の 不 動産 不況 だ 。
+what slips in and out of view in the background is the real estate slump of recent years .
+the number of the weather is the must of the weather .
+the children who is the estate of the middle of the city .
+BLEU = 0.00, 45.5/10.0/0.0/0.0 (BP=0.529, ratio=0.611, hyp_len=11, ref_len=18)
+BLEU = 0.00, 50.0/9.1/0.0/0.0 (BP=0.607, ratio=0.667, hyp_len=12, ref_len=18)
+
+彼女 は その 塀 を 赤 く 塗 っ た 。
+she painted the wall red .
+she got the red red .
+she paint the wall .
+BLEU = 0.00, 60.0/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=5, ref_len=5)
+BLEU = 0.00, 75.0/33.3/0.0/0.0 (BP=0.779, ratio=0.800, hyp_len=4, ref_len=5)
+
+彼 ら は 年内 に 在庫 品 の かた を つけ な けれ ば な ら な かっ た 。
+they had to clean out the goods in stock within the year .
+they had to make an easy to get on the air of a week .
+they had to put a great look in the middle of the evening .
+BLEU = 0.00, 28.6/15.4/8.3/0.0 (BP=1.000, ratio=1.167, hyp_len=14, ref_len=12)
+BLEU = 0.00, 46.2/16.7/9.1/0.0 (BP=1.000, ratio=1.083, hyp_len=13, ref_len=12)
+
+カルロス は 山 を 登 っ た 。
+carlos climbed the mountain .
+the old man has a mountain .
+the old man was a mountain .
+BLEU = 0.00, 33.3/0.0/0.0/0.0 (BP=1.000, ratio=1.500, hyp_len=6, ref_len=4)
+BLEU = 0.00, 33.3/0.0/0.0/0.0 (BP=1.000, ratio=1.500, hyp_len=6, ref_len=4)
+
+私 は フランス 語 は 少し も 知 ら な い 。
+i don &apos;t know any french .
+i don &apos;t know anything .
+i don &apos;t know the french of french .
+BLEU = 54.75, 80.0/75.0/66.7/50.0 (BP=0.819, ratio=0.833, hyp_len=5, ref_len=6)
+BLEU = 36.56, 62.5/42.9/33.3/20.0 (BP=1.000, ratio=1.333, hyp_len=8, ref_len=6)
+
+彼 の 双子 の 妹 たち を 区別 する こと が でき な い 。
+i can &apos;t tell his twin sisters apart .
+his sister can &apos;t be a sister to his sister .
+i can &apos;t get up to our house .
+BLEU = 0.00, 30.0/11.1/0.0/0.0 (BP=1.000, ratio=1.250, hyp_len=10, ref_len=8)
+BLEU = 0.00, 37.5/28.6/16.7/0.0 (BP=1.000, ratio=1.000, hyp_len=8, ref_len=8)
+
+我々 は 読み書き を なら う 。
+we learn to read and write .
+we are to the back of a good future .
+we are at the same of our flight .
+BLEU = 0.00, 22.2/0.0/0.0/0.0 (BP=1.000, ratio=1.500, hyp_len=9, ref_len=6)
+BLEU = 0.00, 12.5/0.0/0.0/0.0 (BP=1.000, ratio=1.333, hyp_len=8, ref_len=6)
+
+英語 を 上達 さ せ た い なら 、 でき る だけ 英語 を 話 す よう に つとめ なさ い 。
+try to speak english as often as possible if you want to improve your english .
+tell me a english , but you can speak english .
+please take a speaking , please , please .
+BLEU = 0.00, 40.0/11.1/0.0/0.0 (BP=0.607, ratio=0.667, hyp_len=10, ref_len=15)
+BLEU = 0.00, 0.0/0.0/0.0/0.0 (BP=0.417, ratio=0.533, hyp_len=8, ref_len=15)
+
+人 は 不正 を 正 し た い とき は 法律 に 頼 る こと が 出来 る 。
+people can turn to the law if they want to correct an injustice .
+the man can be when the other are not at the law .
+the man can be depend when you play the law .
+BLEU = 0.00, 25.0/9.1/0.0/0.0 (BP=0.920, ratio=0.923, hyp_len=12, ref_len=13)
+BLEU = 0.00, 30.0/11.1/0.0/0.0 (BP=0.741, ratio=0.769, hyp_len=10, ref_len=13)
+
+あの 店 に は 私 に 合 う 帽子 は な かっ た 。
+there were no hats in that store that fit me .
+i didn &apos;t get me on that store .
+i wasn &apos;t have a hat to leave that the shop .
+BLEU = 0.00, 37.5/14.3/0.0/0.0 (BP=0.779, ratio=0.800, hyp_len=8, ref_len=10)
+BLEU = 0.00, 9.1/0.0/0.0/0.0 (BP=1.000, ratio=1.100, hyp_len=11, ref_len=10)
+
+たまたま その 日 は 私 の 誕生 日 で し た 。
+it happened that the day was my birthday .
+the day was next day .
+the day was many day .
+BLEU = 0.00, 60.0/50.0/33.3/0.0 (BP=0.549, ratio=0.625, hyp_len=5, ref_len=8)
+BLEU = 0.00, 60.0/50.0/33.3/0.0 (BP=0.549, ratio=0.625, hyp_len=5, ref_len=8)
+
+小切手 で 支払 い た い の で す が 。
+i &apos;d like to pay by check .
+i &apos;d like to have a lot of things in the .
+i want to pay in public .
+BLEU = 23.46, 36.4/30.0/22.2/12.5 (BP=1.000, ratio=1.571, hyp_len=11, ref_len=7)
+BLEU = 0.00, 50.0/20.0/0.0/0.0 (BP=0.846, ratio=0.857, hyp_len=6, ref_len=7)
+
+旅行 会社 の 収益 が 急増 し た 。
+travel agencies &apos; profits soared .
+the children were a the light of the trip .
+the trip was delayed in the trip .
+BLEU = 0.00, 0.0/0.0/0.0/0.0 (BP=1.000, ratio=1.800, hyp_len=9, ref_len=5)
+BLEU = 0.00, 0.0/0.0/0.0/0.0 (BP=1.000, ratio=1.400, hyp_len=7, ref_len=5)
+
+何 の こと を い っ て い る の か 私 に は ピン と き た 。
+the allusion was not lost on me .
+what what what do you have to do with a matter ?
+i came to the same time to do .
+BLEU = 0.00, 0.0/0.0/0.0/0.0 (BP=1.000, ratio=1.571, hyp_len=11, ref_len=7)
+BLEU = 0.00, 12.5/0.0/0.0/0.0 (BP=1.000, ratio=1.143, hyp_len=8, ref_len=7)
+
+テイト 氏 を つれ て き て いただけ ま せ ん か 。
+aren &apos;t you going to get mr tate ?
+can you put your answer ?
+can you please give me a mr coming ?
+BLEU = 0.00, 20.0/0.0/0.0/0.0 (BP=0.549, ratio=0.625, hyp_len=5, ref_len=8)
+BLEU = 0.00, 25.0/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=8, ref_len=8)
+
+銀河 系 に は 無数 の 星 が あ る 。
+there are innumerable stars in the galaxy .
+there are many times in the middle of the city .
+there is a stars in the middle of a good .
+BLEU = 0.00, 40.0/22.2/0.0/0.0 (BP=1.000, ratio=1.429, hyp_len=10, ref_len=7)
+BLEU = 0.00, 40.0/22.2/12.5/0.0 (BP=1.000, ratio=1.429, hyp_len=10, ref_len=7)
+
+以前 に その 寺 へ 行 っ た こと が あ る の で 、 私 は 道 を 知 っ て い る 。
+having been to the temple before , i know the way .
+i know that i have been to the station , but i know .
+i have been enough to go to the last before the last before the last train .
+BLEU = 0.00, 46.2/25.0/9.1/0.0 (BP=1.000, ratio=1.182, hyp_len=13, ref_len=11)
+BLEU = 0.00, 37.5/6.7/0.0/0.0 (BP=1.000, ratio=1.455, hyp_len=16, ref_len=11)
+
+「 あっぱれ ！ 」 天使 は そう い う と 、 稲妻 が 走 る もやもや の 煙 の 中 へ 消え て い っ た 。
+&quot; done ! &quot; says the angel , and disappears in a cloud of smoke and a bolt of lightning .
+
+&quot; ! &quot; ! &quot; &quot; ! &quot; &quot; i was going to the ran of the running . &quot;
+BLEU = 0, 0/0/0/0 (BP=0, ratio=0, hyp_len=0, ref_len=0)
+BLEU = 0.00, 25.0/5.3/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=20, ref_len=20)
+
+悪 い ところ は あ り ま せ ん 。
+no need to worry .
+i don &apos;t have a bad on the right .
+there is no fault but a bad idea .
+BLEU = 0.00, 0.0/0.0/0.0/0.0 (BP=1.000, ratio=2.250, hyp_len=9, ref_len=4)
+BLEU = 0.00, 12.5/0.0/0.0/0.0 (BP=1.000, ratio=2.000, hyp_len=8, ref_len=4)
+
+最近 私 は よく 眠れ な い 。
+i can not get enough sleep any more .
+i have no idea .
+i don &apos;t want to study up recently .
+BLEU = 0.00, 25.0/0.0/0.0/0.0 (BP=0.368, ratio=0.500, hyp_len=4, ref_len=8)
+BLEU = 0.00, 12.5/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=8, ref_len=8)
+
+それ を 私 の ところ に 持 っ て 来 なさ い 。
+bring it to me .
+come it to me .
+bring me to me .
+BLEU = 0.00, 75.0/66.7/50.0/0.0 (BP=1.000, ratio=1.000, hyp_len=4, ref_len=4)
+BLEU = 0.00, 75.0/33.3/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=4, ref_len=4)
+
+野鳥 観察 は すばらし い 趣味 で す 。
+bird watching is a nice hobby .
+the old man is a good idea .
+the old man is a wonderful hobby .
+BLEU = 0.00, 28.6/16.7/0.0/0.0 (BP=1.000, ratio=1.167, hyp_len=7, ref_len=6)
+BLEU = 0.00, 42.9/16.7/0.0/0.0 (BP=1.000, ratio=1.167, hyp_len=7, ref_len=6)
+
+雪 は 月曜 から 金曜 まで 降 っ た 。
+it snowed from monday to friday .
+the snow came to the full of a monday .
+the snow went from monday from monday .
+BLEU = 0.00, 22.2/0.0/0.0/0.0 (BP=1.000, ratio=1.500, hyp_len=9, ref_len=6)
+BLEU = 0.00, 28.6/16.7/0.0/0.0 (BP=1.000, ratio=1.167, hyp_len=7, ref_len=6)
+
+彼 は 彼女 に 自分 の 計画 を 知 ら せ た 。
+he acquainted her with his plan .
+he made her plan to know her plan .
+he made her plan to her plan .
+BLEU = 0.00, 37.5/0.0/0.0/0.0 (BP=1.000, ratio=1.333, hyp_len=8, ref_len=6)
+BLEU = 0.00, 42.9/0.0/0.0/0.0 (BP=1.000, ratio=1.167, hyp_len=7, ref_len=6)
+
+彼 は 数 週間 東京 に 滞在 する だ ろ う 。
+he will stay in tokyo for several weeks .
+he will often be caught in tokyo next week .
+he will stay a stay in the week .
+BLEU = 0.00, 44.4/25.0/0.0/0.0 (BP=1.000, ratio=1.125, hyp_len=9, ref_len=8)
+BLEU = 0.00, 50.0/42.9/16.7/0.0 (BP=1.000, ratio=1.000, hyp_len=8, ref_len=8)
+
+あなた は 彼女 が 帰 っ て くる の を 待ち さえ すれ ば よ い 。
+you have only to wait for her return .
+you should not go back for her to come back .
+you have to do it when she &apos;ll come back .
+BLEU = 0.00, 40.0/11.1/0.0/0.0 (BP=1.000, ratio=1.250, hyp_len=10, ref_len=8)
+BLEU = 0.00, 30.0/11.1/0.0/0.0 (BP=1.000, ratio=1.250, hyp_len=10, ref_len=8)
+
+彼 は 大胆 な こと を 言 う 。
+he says daring things .
+he is a good person .
+he is bold of bold his bold .
+BLEU = 0.00, 20.0/0.0/0.0/0.0 (BP=1.000, ratio=1.250, hyp_len=5, ref_len=4)
+BLEU = 0.00, 14.3/0.0/0.0/0.0 (BP=1.000, ratio=1.750, hyp_len=7, ref_len=4)
+
+ポール は 学校 で 飛び抜け て 魅力 の あ る 生徒 だ 。
+paul is by far the most charming boy in our school .
+paul is a man of a school school .
+paul is a student of school in school .
+BLEU = 0.00, 37.5/14.3/0.0/0.0 (BP=0.687, ratio=0.727, hyp_len=8, ref_len=11)
+BLEU = 0.00, 50.0/14.3/0.0/0.0 (BP=0.687, ratio=0.727, hyp_len=8, ref_len=11)
+
+それ で は 契約 と 違 う 。
+that &apos;s against the contract .
+it &apos;s a different person .
+it &apos;s a contract in the street .
+BLEU = 0.00, 20.0/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=5, ref_len=5)
+BLEU = 0.00, 42.9/0.0/0.0/0.0 (BP=1.000, ratio=1.400, hyp_len=7, ref_len=5)
+
+貴方 を 愛 する こと に 変わり は な い から 。
+i &apos;ll always love you , no matter what happens .
+you don &apos;t have to ask your own way .
+i don &apos;t like to loves your own .
+BLEU = 0.00, 11.1/0.0/0.0/0.0 (BP=0.895, ratio=0.900, hyp_len=9, ref_len=10)
+BLEU = 0.00, 12.5/0.0/0.0/0.0 (BP=0.779, ratio=0.800, hyp_len=8, ref_len=10)
+
+彼 の 食事 に は カルシウム が 欠け て い る 。
+calcium is absent from his diet .
+his is is ready .
+his dinner is generally correct .
+BLEU = 0.00, 50.0/0.0/0.0/0.0 (BP=0.607, ratio=0.667, hyp_len=4, ref_len=6)
+BLEU = 0.00, 40.0/0.0/0.0/0.0 (BP=0.819, ratio=0.833, hyp_len=5, ref_len=6)
+
+彼 が どう な っ た か だれ が し っ て い よう か 。
+who knows what has become of him ?
+what do you have to do what he is ?
+who has no idea what he has gone ?
+BLEU = 0.00, 11.1/0.0/0.0/0.0 (BP=1.000, ratio=1.286, hyp_len=9, ref_len=7)
+BLEU = 0.00, 37.5/0.0/0.0/0.0 (BP=1.000, ratio=1.143, hyp_len=8, ref_len=7)
+
+君 達 が お しゃべり を し て い て は 、 授業 が でき ま せ ん 。
+i cannot continue my class with you chattering to one another .
+you can &apos;t help you at your help .
+you can &apos;t be class with you .
+BLEU = 0.00, 12.5/0.0/0.0/0.0 (BP=0.687, ratio=0.727, hyp_len=8, ref_len=11)
+BLEU = 0.00, 42.9/33.3/20.0/0.0 (BP=0.565, ratio=0.636, hyp_len=7, ref_len=11)
+
+ジャネット が 昇進 する みたい よ 。
+it looks like janet &apos;s going to be kicked upstairs .
+it &apos;s a good idea .
+it seems that the same is beyond .
+BLEU = 0.00, 40.0/0.0/0.0/0.0 (BP=0.368, ratio=0.500, hyp_len=5, ref_len=10)
+BLEU = 0.00, 14.3/0.0/0.0/0.0 (BP=0.651, ratio=0.700, hyp_len=7, ref_len=10)
+
+固 い 便 が 出 ま す 。
+i have hard stools .
+i have a few @-@ old days .
+i &apos;m going to play a party .
+BLEU = 0.00, 28.6/16.7/0.0/0.0 (BP=1.000, ratio=1.750, hyp_len=7, ref_len=4)
+BLEU = 0.00, 14.3/0.0/0.0/0.0 (BP=1.000, ratio=1.750, hyp_len=7, ref_len=4)
+
+彼女 が き た と 、 き い た 。
+i heard that she came here .
+i was sorry to come .
+i &apos;ve got her .
+BLEU = 0.00, 20.0/0.0/0.0/0.0 (BP=0.819, ratio=0.833, hyp_len=5, ref_len=6)
+BLEU = 0.00, 25.0/0.0/0.0/0.0 (BP=0.607, ratio=0.667, hyp_len=4, ref_len=6)
+
+州 政府 は 彼 から 市民 権 を 剥奪 し た 。
+the state government deprived the civil rights of their citizen .
+the government took him up from him .
+the market was a good examination of his eyes .
+BLEU = 0.00, 28.6/0.0/0.0/0.0 (BP=0.651, ratio=0.700, hyp_len=7, ref_len=10)
+BLEU = 0.00, 22.2/0.0/0.0/0.0 (BP=0.895, ratio=0.900, hyp_len=9, ref_len=10)
+
+クモ は 網 を 張 る 。
+spiders spin webs .
+the old man is on the air .
+the old man got up with the same .
+BLEU = 0.00, 0.0/0.0/0.0/0.0 (BP=1.000, ratio=2.333, hyp_len=7, ref_len=3)
+BLEU = 0.00, 0.0/0.0/0.0/0.0 (BP=1.000, ratio=2.667, hyp_len=8, ref_len=3)
+
+彼 ら は いつ も けんか ばかり し て い た 。
+they are always quarreling .
+they were always finding fault with him .
+they were always up with their fight .
+BLEU = 0.00, 28.6/0.0/0.0/0.0 (BP=1.000, ratio=1.750, hyp_len=7, ref_len=4)
+BLEU = 0.00, 28.6/0.0/0.0/0.0 (BP=1.000, ratio=1.750, hyp_len=7, ref_len=4)
+
+じろじろ 見 る の は 無 作法 で あ る 。
+it is rude to stare at strangers .
+it is not that that you look out of the weather .
+it is a rude manners to watch .
+BLEU = 0.00, 18.2/10.0/0.0/0.0 (BP=1.000, ratio=1.571, hyp_len=11, ref_len=7)
+BLEU = 0.00, 57.1/16.7/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=7, ref_len=7)
+
+彼女 は 生き て い る ！ おぼれ かけ て い た ん だ が 、 父親 が 助け た ん だ 。
+she &apos;s alive ! she was drowning , but her father saved her .
+she was a writer , but she help me .
+i was helped to live in the alive .
+BLEU = 0.00, 55.6/25.0/0.0/0.0 (BP=0.641, ratio=0.692, hyp_len=9, ref_len=13)
+BLEU = 0.00, 25.0/0.0/0.0/0.0 (BP=0.535, ratio=0.615, hyp_len=8, ref_len=13)
+
+彼 は ドア が すべて 安全 に 閉ま っ て い る か どう か 確かめ た 。
+he checked that all the doors were safely shut .
+he asked a door .
+he was having to have been to all for the way .
+BLEU = 0.00, 25.0/0.0/0.0/0.0 (BP=0.287, ratio=0.444, hyp_len=4, ref_len=9)
+BLEU = 0.00, 27.3/0.0/0.0/0.0 (BP=1.000, ratio=1.222, hyp_len=11, ref_len=9)
+
+学生 たち は その 演説 を 聞 く ため に ここ に 集ま っ た 。
+the students met here to hear the speech .
+the students were here to the speech .
+the students were absent here to hear the speech .
+BLEU = 0.00, 85.7/50.0/0.0/0.0 (BP=0.867, ratio=0.875, hyp_len=7, ref_len=8)
+BLEU = 51.33, 77.8/62.5/42.9/33.3 (BP=1.000, ratio=1.125, hyp_len=9, ref_len=8)
+
+彼 は その 絵 に 目 を 向け た 。
+he turned his attention to the picture .
+he took the picture of the picture .
+he turned up his eyes to the picture .
+BLEU = 0.00, 42.9/16.7/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=7, ref_len=7)
+BLEU = 0.00, 75.0/42.9/16.7/0.0 (BP=1.000, ratio=1.143, hyp_len=8, ref_len=7)
+
+あなた は 毎朝 何 時 に 起き ま す か 。
+what time do you get up every morning ?
+what time do you get up ?
+what time do you get up at every morning ?
+BLEU = 71.65, 100.0/100.0/100.0/100.0 (BP=0.717, ratio=0.750, hyp_len=6, ref_len=8)
+BLEU = 66.06, 88.9/75.0/57.1/50.0 (BP=1.000, ratio=1.125, hyp_len=9, ref_len=8)
+
+私 は 疑い 深 い 性格 で す 。
+i have a suspicious nature .
+i am a good beautiful .
+i &apos;m going to be a new idea .
+BLEU = 0.00, 40.0/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=5, ref_len=5)
+BLEU = 0.00, 25.0/0.0/0.0/0.0 (BP=1.000, ratio=1.600, hyp_len=8, ref_len=5)
+
+ジム は 白 い 帽子 を かぶ っ て い る 。
+jim has a white hat on his head .
+jim has a white hat .
+jim wears white hat .
+BLEU = 54.88, 100.0/100.0/100.0/100.0 (BP=0.549, ratio=0.625, hyp_len=5, ref_len=8)
+BLEU = 0.00, 75.0/33.3/0.0/0.0 (BP=0.368, ratio=0.500, hyp_len=4, ref_len=8)
+
+２人 の 女性 は お 互い 微笑み あ っ た 。
+the two ladies smiled at each other .
+two women were gone to have been .
+two women was each each each other .
+BLEU = 0.00, 14.3/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=7, ref_len=7)
+BLEU = 0.00, 42.9/16.7/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=7, ref_len=7)
+
+準備 は まだ 出来 て い ま せ ん か 。
+aren &apos;t you ready ?
+do you have any ready of your opinion ?
+do you have to do as ready ?
+BLEU = 0.00, 25.0/0.0/0.0/0.0 (BP=1.000, ratio=2.000, hyp_len=8, ref_len=4)
+BLEU = 0.00, 28.6/0.0/0.0/0.0 (BP=1.000, ratio=1.750, hyp_len=7, ref_len=4)
+
+彼 は 勇気 の かけら も な かっ た 。
+he didn &apos;t have a grain of courage .
+he was not a used of a great .
+he was not in courage .
+BLEU = 0.00, 37.5/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=8, ref_len=8)
+BLEU = 0.00, 40.0/0.0/0.0/0.0 (BP=0.549, ratio=0.625, hyp_len=5, ref_len=8)
+
+この 天気 に 外出 する など 想像 も でき な い 。
+i can &apos;t fancy going out in this weather .
+i can &apos;t get out this weather .
+i can &apos;t imagine so much the weather .
+BLEU = 0.00, 85.7/50.0/20.0/0.0 (BP=0.751, ratio=0.778, hyp_len=7, ref_len=9)
+BLEU = 0.00, 50.0/28.6/16.7/0.0 (BP=0.882, ratio=0.889, hyp_len=8, ref_len=9)
+
+石油 会社 は 再び ガソリン の 価格 を 上げ た 。
+the oil companies increased the price of gas again .
+the company has been taken to their own .
+the oil of the oil were yelled of the world .
+BLEU = 0.00, 12.5/0.0/0.0/0.0 (BP=0.882, ratio=0.889, hyp_len=8, ref_len=9)
+BLEU = 0.00, 40.0/11.1/0.0/0.0 (BP=1.000, ratio=1.111, hyp_len=10, ref_len=9)
+
+彼 は 世界 を 知 ら な い 。
+he is ignorant of the world .
+he doesn &apos;t know the world .
+he doesn &apos;t know the world .
+BLEU = 0.00, 50.0/20.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=6, ref_len=6)
+BLEU = 0.00, 50.0/20.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=6, ref_len=6)
+
+「 もちろん 、 捨て て く れ 」 と 農家 が 答え ま し た 。
+&quot; get rid of it , of course ! &quot; answered the farmer .
+&quot; &quot; a little , &quot; i was sorry . &quot;
+&quot; the course that was abandoned , &quot; i answer with a &quot; .
+BLEU = 0.00, 27.3/0.0/0.0/0.0 (BP=0.834, ratio=0.846, hyp_len=11, ref_len=13)
+BLEU = 0.00, 38.5/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=13, ref_len=13)
+
+あなた は もう 昼食 を おえ ま し た か 。
+have you finished your lunch yet ?
+did you have a lunch for lunch ?
+did you have any lunch ?
+BLEU = 0.00, 42.9/0.0/0.0/0.0 (BP=1.000, ratio=1.167, hyp_len=7, ref_len=6)
+BLEU = 0.00, 60.0/0.0/0.0/0.0 (BP=0.819, ratio=0.833, hyp_len=5, ref_len=6)
+
+演奏 会 の 切符 は 当 事務 所 で 販売 し て い ま す 。
+concert tickets are on sale at this office .
+the road to the party is at the office in the world .
+the party that the party is sales in the office .
+BLEU = 0.00, 16.7/0.0/0.0/0.0 (BP=1.000, ratio=1.500, hyp_len=12, ref_len=8)
+BLEU = 0.00, 10.0/0.0/0.0/0.0 (BP=1.000, ratio=1.250, hyp_len=10, ref_len=8)
+
+皆 さん 間違い な く ９ 時 に 着 く よう に し て くださ い 。
+make sure that all of you arrive at nine .
+please come to the at at once .
+please help yourself to the better .
+BLEU = 0.00, 14.3/0.0/0.0/0.0 (BP=0.751, ratio=0.778, hyp_len=7, ref_len=9)
+BLEU = 0.00, 0.0/0.0/0.0/0.0 (BP=0.607, ratio=0.667, hyp_len=6, ref_len=9)
+
+君 は 神 の 存在 を 信 じ ま す か 。
+do you believe in god ?
+what do you believe in god ?
+what do you believe your work ?
+BLEU = 75.98, 83.3/80.0/75.0/66.7 (BP=1.000, ratio=1.200, hyp_len=6, ref_len=5)
+BLEU = 0.00, 50.0/40.0/25.0/0.0 (BP=1.000, ratio=1.200, hyp_len=6, ref_len=5)
+
+彼 ら は 二人 とも 親切 で 正直 で す 。
+both of them are kind and honest .
+they are very kind of them .
+they are honest .
+BLEU = 0.00, 66.7/20.0/0.0/0.0 (BP=0.846, ratio=0.857, hyp_len=6, ref_len=7)
+BLEU = 0.00, 66.7/0.0/0.0/0.0 (BP=0.264, ratio=0.429, hyp_len=3, ref_len=7)
+
+いつ お い で くださ っ て も 歓迎 いた し ま す 。
+you have a standing invitation to join us .
+i &apos;ll leave you to come at all .
+i &apos;m sorry to help you .
+BLEU = 0.00, 25.0/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=8, ref_len=8)
+BLEU = 0.00, 33.3/0.0/0.0/0.0 (BP=0.717, ratio=0.750, hyp_len=6, ref_len=8)
+
+上空 を ジェット 機 が キーン と い う 音 を 立て て 飛 ん で い っ た 。
+the jet made a whining sound as it soared overhead .
+the cat was standing by the same mistake .
+the old man was flown to the noise .
+BLEU = 0.00, 12.5/0.0/0.0/0.0 (BP=0.779, ratio=0.800, hyp_len=8, ref_len=10)
+BLEU = 0.00, 12.5/0.0/0.0/0.0 (BP=0.779, ratio=0.800, hyp_len=8, ref_len=10)
+
+どこ に 行 っ た ら 助け て もらえ ま す か 。
+where can i get some help ?
+can you go to the hospital ?
+can you help me ?
+BLEU = 0.00, 16.7/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=6, ref_len=6)
+BLEU = 0.00, 50.0/0.0/0.0/0.0 (BP=0.607, ratio=0.667, hyp_len=4, ref_len=6)
+
+しかし 君 は あまり 膝 を 曲げ た く な い で しょ う 。
+but you don &apos;t want to bend the knees too much .
+but you can &apos;t want to have a lot of money .
+but you should do well too much .
+BLEU = 0.00, 45.5/30.0/11.1/0.0 (BP=1.000, ratio=1.000, hyp_len=11, ref_len=11)
+BLEU = 0.00, 57.1/33.3/0.0/0.0 (BP=0.565, ratio=0.636, hyp_len=7, ref_len=11)
+
+彼 の 成功 は 大いに 私 の 励み に な っ た 。
+his success encouraged me very much .
+his success was gone to me .
+his success was a small of life .
+BLEU = 0.00, 50.0/20.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=6, ref_len=6)
+BLEU = 0.00, 28.6/16.7/0.0/0.0 (BP=1.000, ratio=1.167, hyp_len=7, ref_len=6)
+
+リンゴ を 食べ る 前 に 皮 を む き なさ い 。
+take the skin off before you eat the apple .
+take care to eat .
+keep your skin before i eat .
+BLEU = 0.00, 50.0/0.0/0.0/0.0 (BP=0.287, ratio=0.444, hyp_len=4, ref_len=9)
+BLEU = 0.00, 50.0/0.0/0.0/0.0 (BP=0.607, ratio=0.667, hyp_len=6, ref_len=9)
+
+途中 で 乗り換え が 必要 で す か 。
+is it necessary to change trains along the way ?
+do you need to be in the way ?
+need is your father ?
+BLEU = 0.00, 37.5/14.3/0.0/0.0 (BP=0.882, ratio=0.889, hyp_len=8, ref_len=9)
+BLEU = 0.00, 25.0/0.0/0.0/0.0 (BP=0.287, ratio=0.444, hyp_len=4, ref_len=9)
+
+幸い 大過 な く 仕事 を 終わ ら せ る こと が でき た 。
+fortunately i was able to finish my work without any serious errors .
+i could not get through the work .
+i could not have a work to the end of the man .
+BLEU = 0.00, 28.6/0.0/0.0/0.0 (BP=0.490, ratio=0.583, hyp_len=7, ref_len=12)
+BLEU = 0.00, 25.0/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=12, ref_len=12)
+
+バラ が 咲 い て い る 。
+the roses are in bloom .
+i have a rose .
+i &apos;m roses in the roses .
+BLEU = 0.00, 0.0/0.0/0.0/0.0 (BP=0.779, ratio=0.800, hyp_len=4, ref_len=5)
+BLEU = 0.00, 50.0/20.0/0.0/0.0 (BP=1.000, ratio=1.200, hyp_len=6, ref_len=5)
+
+私 は 昨日 見 た 試合 ほど おもしろ い ラグビー の 試合 を 見 た こと が な かっ た 。
+i had never seen such an exciting rugby match as one i saw yesterday .
+i didn &apos;t want to see the game yesterday .
+i couldn &apos;t have seen the trouble &apos;s game .
+BLEU = 0.00, 22.2/0.0/0.0/0.0 (BP=0.574, ratio=0.643, hyp_len=9, ref_len=14)
+BLEU = 0.00, 22.2/0.0/0.0/0.0 (BP=0.574, ratio=0.643, hyp_len=9, ref_len=14)
+
+その 家 は 警察 の 手入れ を うけ た 。
+the house was raided by the police .
+the house gave the police to the police .
+the house was a police of the police .
+BLEU = 0.00, 50.0/28.6/0.0/0.0 (BP=1.000, ratio=1.143, hyp_len=8, ref_len=7)
+BLEU = 0.00, 62.5/42.9/16.7/0.0 (BP=1.000, ratio=1.143, hyp_len=8, ref_len=7)
+
+彼 は 衝動 に 駆 ら れ た 。
+he was borne away by an impulse .
+he was born in a moment .
+he was born on the original .
+BLEU = 0.00, 33.3/20.0/0.0/0.0 (BP=0.846, ratio=0.857, hyp_len=6, ref_len=7)
+BLEU = 0.00, 33.3/20.0/0.0/0.0 (BP=0.846, ratio=0.857, hyp_len=6, ref_len=7)
+
+昨日 メアリー は 表紙 が 青 い 本 を くれ た 。
+yesterday mary gave me a book the cover of which was blue .
+mary made a good book yesterday .
+mary made a blue book yesterday .
+BLEU = 0.00, 66.7/0.0/0.0/0.0 (BP=0.368, ratio=0.500, hyp_len=6, ref_len=12)
+BLEU = 0.00, 83.3/0.0/0.0/0.0 (BP=0.368, ratio=0.500, hyp_len=6, ref_len=12)
+
+彼女 に 御 行儀 よ く し なさ い と いつ も 言 っ て い る 。
+i &apos;m constantly telling her to behave herself .
+she is always finding fault with her .
+she always tell her mind to her .
+BLEU = 0.00, 14.3/0.0/0.0/0.0 (BP=0.867, ratio=0.875, hyp_len=7, ref_len=8)
+BLEU = 0.00, 28.6/0.0/0.0/0.0 (BP=0.867, ratio=0.875, hyp_len=7, ref_len=8)
+
+少し 待 っ て くれ た ら 、 ジェーン を 電話 に 出 さ せ ま す 。
+if you hold on a moment , i will get jane on the phone .
+if you have a little , please .
+i have been out of jane , and you &apos;ll get jane for a jane .
+BLEU = 0.00, 57.1/16.7/0.0/0.0 (BP=0.368, ratio=0.500, hyp_len=7, ref_len=14)
+BLEU = 0.00, 40.0/7.1/0.0/0.0 (BP=1.000, ratio=1.071, hyp_len=15, ref_len=14)
+
+彼女 と は ときおり 美容 院 で 会 い ま す 。
+i meet her on occasion at a beauty shop .
+she is met with a word .
+she has been see her eyes .
+BLEU = 0.00, 16.7/0.0/0.0/0.0 (BP=0.607, ratio=0.667, hyp_len=6, ref_len=9)
+BLEU = 0.00, 16.7/0.0/0.0/0.0 (BP=0.607, ratio=0.667, hyp_len=6, ref_len=9)
+
+しかし 、 主人 公 は 自ら の 誤り に 気づ い て い る 。
+however the protagonist is aware of his own mistakes .
+but the begin is in the best of the examination .
+but the world is noticed at the mistakes of the end .
+BLEU = 0.00, 30.0/0.0/0.0/0.0 (BP=1.000, ratio=1.111, hyp_len=10, ref_len=9)
+BLEU = 0.00, 36.4/0.0/0.0/0.0 (BP=1.000, ratio=1.222, hyp_len=11, ref_len=9)
+
+私 は 彼 の 態度 に 我慢 でき な い 。
+i cannot abide his manner .
+i can &apos;t stand his advice .
+i can &apos;t put him in the manner .
+BLEU = 0.00, 33.3/0.0/0.0/0.0 (BP=1.000, ratio=1.200, hyp_len=6, ref_len=5)
+BLEU = 0.00, 25.0/0.0/0.0/0.0 (BP=1.000, ratio=1.600, hyp_len=8, ref_len=5)
+
+彼 は 何事 も 程々 と い う 事 を 知 ら ず 、 いつ も 極端 に 走 っ て しま う 。
+he is the kind of man who cannot do anything in moderation , but always goes to extremes .
+he is always at home without mind .
+he is always over the best of the best .
+BLEU = 0.00, 42.9/16.7/0.0/0.0 (BP=0.208, ratio=0.389, hyp_len=7, ref_len=18)
+BLEU = 0.00, 55.6/12.5/0.0/0.0 (BP=0.368, ratio=0.500, hyp_len=9, ref_len=18)
+
+道路 を 横断 する とき に は 注意 し なさ い 。
+you must be careful in crossing the road .
+take care to the street .
+take care to the road .
+BLEU = 0.00, 20.0/0.0/0.0/0.0 (BP=0.549, ratio=0.625, hyp_len=5, ref_len=8)
+BLEU = 0.00, 40.0/25.0/0.0/0.0 (BP=0.549, ratio=0.625, hyp_len=5, ref_len=8)
+
+自分 の こと だけ 気 に かけ ろ ！
+mind your own business !
+i &apos;ll be back on account of my mind .
+what &apos;s your own way !
+BLEU = 0.00, 11.1/0.0/0.0/0.0 (BP=1.000, ratio=2.250, hyp_len=9, ref_len=4)
+BLEU = 0.00, 40.0/25.0/0.0/0.0 (BP=1.000, ratio=1.250, hyp_len=5, ref_len=4)
+
+友人 は マイ カー を 欲し が っ て い る 。
+my friend wants a car of his own .
+the friend of a good friends have a good idea .
+the friends want a good car .
+BLEU = 0.00, 30.0/0.0/0.0/0.0 (BP=1.000, ratio=1.250, hyp_len=10, ref_len=8)
+BLEU = 0.00, 33.3/0.0/0.0/0.0 (BP=0.717, ratio=0.750, hyp_len=6, ref_len=8)
+
+彼女 は 私 の ひじ を 引っ張 っ た 。
+she gave a pluck at my elbow .
+she has my my mother .
+she lost me .
+BLEU = 0.00, 40.0/0.0/0.0/0.0 (BP=0.670, ratio=0.714, hyp_len=5, ref_len=7)
+BLEU = 0.00, 33.3/0.0/0.0/0.0 (BP=0.264, ratio=0.429, hyp_len=3, ref_len=7)
+
+何 が 起こ ろ う と も 、 私 は あなた の 味方 を する 。
+i will stand by you whatever happens .
+what to do , i am your advice .
+to anything , i have a lot of work .
+BLEU = 0.00, 12.5/0.0/0.0/0.0 (BP=1.000, ratio=1.143, hyp_len=8, ref_len=7)
+BLEU = 0.00, 11.1/0.0/0.0/0.0 (BP=1.000, ratio=1.286, hyp_len=9, ref_len=7)
+
+コーヒー を 飲 み ま す か 。
+will you have some coffee ?
+do you have any coffee ?
+do you have a coffee ?
+BLEU = 0.00, 60.0/25.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=5, ref_len=5)
+BLEU = 0.00, 60.0/25.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=5, ref_len=5)
+
+気持ち を 御 察し し ま す 。
+i understand how you feel .
+i &apos;ll give up the feelings .
+i &apos;m sorry to feelings .
+BLEU = 0.00, 16.7/0.0/0.0/0.0 (BP=1.000, ratio=1.200, hyp_len=6, ref_len=5)
+BLEU = 0.00, 20.0/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=5, ref_len=5)
+
+にわか 雨 に な る らし い で す よ 。
+they say we &apos;re going to get some showers .
+it &apos;s a time we &apos;ll get the rain .
+you can see a shower to the shower .
+BLEU = 0.00, 22.2/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=9, ref_len=9)
+BLEU = 0.00, 12.5/0.0/0.0/0.0 (BP=0.882, ratio=0.889, hyp_len=8, ref_len=9)
+
+何事 も 最初 が 肝心 だ よ な 。
+whatever you &apos;re doing , starting off on the right foot is essential .
+a first time is a good time .
+the first first first first first .
+BLEU = 0.00, 14.3/0.0/0.0/0.0 (BP=0.424, ratio=0.538, hyp_len=7, ref_len=13)
+BLEU = 0.00, 16.7/0.0/0.0/0.0 (BP=0.311, ratio=0.462, hyp_len=6, ref_len=13)
+
+その 語 は 誤用 さ れ やす い 。
+the word lends itself to misuse by beginners .
+the word is too small .
+the word is easy to be easy .
+BLEU = 0.00, 40.0/25.0/0.0/0.0 (BP=0.549, ratio=0.625, hyp_len=5, ref_len=8)
+BLEU = 0.00, 42.9/16.7/0.0/0.0 (BP=0.867, ratio=0.875, hyp_len=7, ref_len=8)
+
+彼 ら は 設計 図 どおり に 船 を 作 っ た 。
+they built the ship in accordance with the plans .
+they made a ship in the town .
+they made a ship to the end of the night .
+BLEU = 0.00, 57.1/16.7/0.0/0.0 (BP=0.751, ratio=0.778, hyp_len=7, ref_len=9)
+BLEU = 0.00, 40.0/0.0/0.0/0.0 (BP=1.000, ratio=1.111, hyp_len=10, ref_len=9)
+
+ほんの ２、３ 日 前 に 彼女 に 会 っ た 。
+i saw her just the other day .
+i met her before three years ago .
+the few met her before the few days .
+BLEU = 0.00, 28.6/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=7, ref_len=7)
+BLEU = 0.00, 25.0/0.0/0.0/0.0 (BP=1.000, ratio=1.143, hyp_len=8, ref_len=7)
+
+それ は どの ゲート で す か 。
+which gate is that ?
+what is it to do ?
+what is it ?
+BLEU = 0.00, 20.0/0.0/0.0/0.0 (BP=1.000, ratio=1.250, hyp_len=5, ref_len=4)
+BLEU = 0.00, 33.3/0.0/0.0/0.0 (BP=0.717, ratio=0.750, hyp_len=3, ref_len=4)
+
+私 は 何 と し て も 酒 を 止め る つもり で す 。
+i will give up drinking at any cost .
+i will have something to drink .
+i am going to do your alcohol to do .
+BLEU = 0.00, 33.3/20.0/0.0/0.0 (BP=0.717, ratio=0.750, hyp_len=6, ref_len=8)
+BLEU = 0.00, 11.1/0.0/0.0/0.0 (BP=1.000, ratio=1.125, hyp_len=9, ref_len=8)
+
+夜 の ツアー は あ り ま す か 。
+do you offer any night tours ?
+do you have a few left ?
+is there a lot of night ?
+BLEU = 0.00, 33.3/20.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=6, ref_len=6)
+BLEU = 0.00, 16.7/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=6, ref_len=6)
+
+もっと 分別 が あ っ て も い い 年頃 だ よ 。
+you &apos;re old enough to know better .
+you may as well have any more than you are .
+it &apos;s good to be more days .
+BLEU = 0.00, 10.0/0.0/0.0/0.0 (BP=1.000, ratio=1.429, hyp_len=10, ref_len=7)
+BLEU = 0.00, 14.3/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=7, ref_len=7)
+
+この 停留 所 から ５ 番 目 の バス に 乗り なさ い 。
+take a no . 5 bus at this bus stop .
+look at this bus in this morning .
+get on this matter , please .
+BLEU = 0.00, 42.9/33.3/20.0/0.0 (BP=0.651, ratio=0.700, hyp_len=7, ref_len=10)
+BLEU = 0.00, 16.7/0.0/0.0/0.0 (BP=0.513, ratio=0.600, hyp_len=6, ref_len=10)
+
+彼 に は お 金 が 足り な い よう だっ た 。
+it seemed that he was short of money .
+he was too much to be done .
+he tried to get gold .
+BLEU = 0.00, 28.6/16.7/0.0/0.0 (BP=0.867, ratio=0.875, hyp_len=7, ref_len=8)
+BLEU = 0.00, 20.0/0.0/0.0/0.0 (BP=0.549, ratio=0.625, hyp_len=5, ref_len=8)
+
+彼 は 彼女 を 援助 し て や る 必要 が あ り ま す か 。
+does he need to help her ?
+do he have to help her ?
+what is he ?
+BLEU = 0.00, 66.7/40.0/25.0/0.0 (BP=1.000, ratio=1.000, hyp_len=6, ref_len=6)
+BLEU = 0.00, 33.3/0.0/0.0/0.0 (BP=0.368, ratio=0.500, hyp_len=3, ref_len=6)
+
+軽 い 風邪 で す 。
+it &apos;s only a slight cold .
+it is the cold cold .
+i have a light cold .
+BLEU = 0.00, 40.0/0.0/0.0/0.0 (BP=0.819, ratio=0.833, hyp_len=5, ref_len=6)
+BLEU = 0.00, 40.0/0.0/0.0/0.0 (BP=0.819, ratio=0.833, hyp_len=5, ref_len=6)
+
+サッカー チーム 全体 が 優勝 し て 浮き浮き し て た 。
+the whole soccer team was on cloud nine after winning the championship .
+the team were made up of the team .
+the soccer team was a good old .
+BLEU = 0.00, 37.5/0.0/0.0/0.0 (BP=0.607, ratio=0.667, hyp_len=8, ref_len=12)
+BLEU = 0.00, 57.1/33.3/20.0/0.0 (BP=0.490, ratio=0.583, hyp_len=7, ref_len=12)
+
+この 町 は 気 に 入 り ま し た か 。
+how do you like this town ?
+did this town the town ?
+did this city pleased to his own city ?
+BLEU = 0.00, 40.0/25.0/0.0/0.0 (BP=0.819, ratio=0.833, hyp_len=5, ref_len=6)
+BLEU = 0.00, 12.5/0.0/0.0/0.0 (BP=1.000, ratio=1.333, hyp_len=8, ref_len=6)
+
+冬 は 過ぎ去 っ た 。
+winter is gone .
+we were lost in the winter .
+the winter has gone through .
+BLEU = 0.00, 16.7/0.0/0.0/0.0 (BP=1.000, ratio=2.000, hyp_len=6, ref_len=3)
+BLEU = 0.00, 40.0/0.0/0.0/0.0 (BP=1.000, ratio=1.667, hyp_len=5, ref_len=3)
+
+彼 の 助け 無し に は 、 や っ て いけ な い 。
+i cannot manage without his support .
+you must not have any help to help him .
+there is no help in his help .
+BLEU = 0.00, 0.0/0.0/0.0/0.0 (BP=1.000, ratio=1.500, hyp_len=9, ref_len=6)
+BLEU = 0.00, 14.3/0.0/0.0/0.0 (BP=1.000, ratio=1.167, hyp_len=7, ref_len=6)
+
+この ホール は 最大 で １０００ 人 収容 でき る 。
+this hall holds a maximum of 1,000 people .
+this is a man in the middle of the water .
+this city can get the room of largest .
+BLEU = 0.00, 30.0/0.0/0.0/0.0 (BP=1.000, ratio=1.250, hyp_len=10, ref_len=8)
+BLEU = 0.00, 25.0/0.0/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=8, ref_len=8)
+
+天気 予報 は どう で し た か 。
+what was the weather report ?
+what did you like to have the weather ?
+what was the weather on ?
+BLEU = 0.00, 37.5/14.3/0.0/0.0 (BP=1.000, ratio=1.600, hyp_len=8, ref_len=5)
+BLEU = 66.87, 80.0/75.0/66.7/50.0 (BP=1.000, ratio=1.000, hyp_len=5, ref_len=5)
+
+再三 彼 ら を 招待 し た が 決して こ な かっ た 。
+time after time i &apos;ve invited them to come over and visit us but time and time again they &apos;ve never come .
+i didn &apos;t want to put them from him .
+i had never seen them .
+BLEU = 0.00, 33.3/0.0/0.0/0.0 (BP=0.236, ratio=0.409, hyp_len=9, ref_len=22)
+BLEU = 0.00, 60.0/0.0/0.0/0.0 (BP=0.033, ratio=0.227, hyp_len=5, ref_len=22)
+
+誰 も が 彼 の 技術 を 認め た 。
+everyone recognized his skill .
+everyone has his own car .
+everyone admitted his skill .
+BLEU = 0.00, 40.0/0.0/0.0/0.0 (BP=1.000, ratio=1.250, hyp_len=5, ref_len=4)
+BLEU = 0.00, 75.0/33.3/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=4, ref_len=4)
+
+貴方 は 、 明日 学校 に 行 く だ ろ う 。
+you &apos;ll go to school tomorrow .
+you will go to school tomorrow .
+you will go to school tomorrow .
+BLEU = 53.73, 83.3/60.0/50.0/33.3 (BP=1.000, ratio=1.000, hyp_len=6, ref_len=6)
+BLEU = 53.73, 83.3/60.0/50.0/33.3 (BP=1.000, ratio=1.000, hyp_len=6, ref_len=6)
+
+この データ は その 議論 に と っ て 重要 だ 。
+this data is immaterial to the argument .
+this picture is a great deal of the plan .
+this data is important to the argument .
+BLEU = 0.00, 33.3/0.0/0.0/0.0 (BP=1.000, ratio=1.286, hyp_len=9, ref_len=7)
+BLEU = 0.00, 85.7/66.7/40.0/0.0 (BP=1.000, ratio=1.000, hyp_len=7, ref_len=7)
+
+彼女 と は よく 会 い ま す か 。
+do you see her often ?
+do you see her to see her ?
+what time do you see her ?
+BLEU = 41.11, 57.1/50.0/40.0/25.0 (BP=1.000, ratio=1.400, hyp_len=7, ref_len=5)
+BLEU = 50.81, 66.7/60.0/50.0/33.3 (BP=1.000, ratio=1.200, hyp_len=6, ref_len=5)
+
+彼 ら は 容易 な ら ぬ 事態 に 直面 し て い る 。
+they are faced with a serious situation .
+they are in the face of air .
+they are kids to the most .
+BLEU = 0.00, 28.6/16.7/0.0/0.0 (BP=1.000, ratio=1.000, hyp_len=7, ref_len=7)
+BLEU = 0.00, 33.3/20.0/0.0/0.0 (BP=0.846, ratio=0.857, hyp_len=6, ref_len=7)
+
+多く の 時間 が 無駄 に な っ た 。
+much time was wasted .
+many hours were getting up .
+many time came to his own time .
+BLEU = 0.00, 0.0/0.0/0.0/0.0 (BP=1.000, ratio=1.250, hyp_len=5, ref_len=4)
+BLEU = 0.00, 14.3/0.0/0.0/0.0 (BP=1.000, ratio=1.750, hyp_len=7, ref_len=4)
+
+僕 の もの は 全て 君 の 物 だ 。
+whatever i have is yours .
+my mind is your .
+my things is made of your everything .
+BLEU = 0.00, 25.0/0.0/0.0/0.0 (BP=0.779, ratio=0.800, hyp_len=4, ref_len=5)
+BLEU = 0.00, 14.3/0.0/0.0/0.0 (BP=1.000, ratio=1.400, hyp_len=7, ref_len=5)
+
+ステーキ は 中位 で 焼 い て くださ い 。
+i like my steak medium .
+i &apos;m like my steak medium .
+i like my steak medium .
+BLEU = 53.73, 83.3/60.0/50.0/33.3 (BP=1.000, ratio=1.200, hyp_len=6, ref_len=5)
+BLEU = 100.00, 100.0/100.0/100.0/100.0 (BP=1.000, ratio=1.000, hyp_len=5, ref_len=5)
+
