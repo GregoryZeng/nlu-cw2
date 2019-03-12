@@ -134,7 +134,7 @@ class LSTMEncoder(Seq2SeqEncoder):
         
         When self.bidirectional is true, the LSTM is bidirectional and the original final_hidden_states 
         and final_cell_states are of shape (num_layers * num_directions, batch, hidden_size), where num_directions 
-        is exactly 2. What the if-block here does is to, for each layer of LSTM (if several LSTMs are stacked), 
+        here is exactly 2. What the if-block here does is to, for each layer of LSTM (if several LSTMs are stacked), 
         concatenate the vectors of the two directions into one vector. In other words, the new final_cell_states and 
         final_hidden_states will be of shape (num_layers, batch, num_directions * hidden_size).
         
@@ -349,7 +349,7 @@ class LSTMDecoder(Seq2SeqDecoder):
             '''
             ___QUESTION-1-DESCRIBE-E-START___
             How is attention integrated into the decoder? 
-            Why is the attention function given the previous target state as one of its inputs? 
+            Why is the attention function given the current target state as one of its inputs? 
             What is the purpose of the dropout layer?
             
             
@@ -404,9 +404,11 @@ class LSTMDecoder(Seq2SeqDecoder):
             # (batch, timesteps, hidden)
             # logging.info(len(lexical_contexts))
             weighted_embeddings = torch.cat(lexical_contexts,1)
+            activated_weighted_embeddings = F.tanh(weighted_embeddings)
+
             # logging.info(weighted_embeddings.size())
             # (batch, timesteps, embed)
-            lexical_hidden = self.W_lexical_embed(weighted_embeddings)+weighted_embeddings
+            lexical_hidden = F.tanh(self.W_lexical_embed(activated_weighted_embeddings))+activated_weighted_embeddings
             decoder_output += self.W_lexical_output(lexical_hidden)
             # TODO: --------------------------------------------------------------------- /CUT
 
