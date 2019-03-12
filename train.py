@@ -89,8 +89,8 @@ def main(args):
     logging.info('Built a model with {:d} parameters'.format(sum(p.numel() for p in model.parameters())))
     criterion = nn.CrossEntropyLoss(ignore_index=src_dict.pad_idx, reduction='sum')
     if args.cuda:
-        model = model.cuda(cuda_device)
-        criterion = criterion.cuda(cuda_device)
+        model = model.to(cuda_device)
+        criterion = criterion.to(cuda_device)
 
     # Instantiate optimizer and learning rate scheduler
     optimizer = torch.optim.Adam(model.parameters(), args.lr)

@@ -30,7 +30,7 @@ def load_embedding(embed_path, dictionary):
 
 def move_to_cuda(sample,device):
     if torch.is_tensor(sample):
-        return sample.cuda(device)
+        return sample.to(device)
     elif isinstance(sample, list):
         return [move_to_cuda(x,device) for x in sample]
     elif isinstance(sample, dict):
