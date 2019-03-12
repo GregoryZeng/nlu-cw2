@@ -18,6 +18,7 @@ def get_args():
     """ Defines training-specific hyper-parameters. """
     parser = argparse.ArgumentParser('Sequence to Sequence Model')
     parser.add_argument('--cuda', default=False, help='Use a GPU')
+    parser.add_argument('--cuda_id',default=0,type=int)
 
     # Add data arguments
     parser.add_argument('--data', default='prepared_data', help='path to data directory')
@@ -45,6 +46,7 @@ def get_args():
     parser.add_argument('--no-save', action='store_true', help='don\'t save models or checkpoints')
     parser.add_argument('--epoch-checkpoints', action='store_true', help='store all epoch checkpoints')
 
+
     # Parse twice as model arguments are not known the first time
     args, _ = parser.parse_known_args()
     model_parser = parser.add_argument_group(argument_default=argparse.SUPPRESS)
@@ -62,6 +64,9 @@ def main(args):
     torch.manual_seed(42)
 
     utils.init_logging(args)
+
+    # set up cuda device
+    cuda_device = torch.device(f'cuda:{args.cuda_id}')
 
     # Load dictionaries
     src_dict = Dictionary.load(os.path.join(args.data, 'dict.{:s}'.format(args.source_lang)))
@@ -84,8 +89,8 @@ def main(args):
     logging.info('Built a model with {:d} parameters'.format(sum(p.numel() for p in model.parameters())))
     criterion = nn.CrossEntropyLoss(ignore_index=src_dict.pad_idx, reduction='sum')
     if args.cuda:
-        model = model.cuda()
-        criterion = criterion.cuda()
+        model = model.cuda(cuda_device)
+        criterion = criterion.cuda(cuda_device)
 
     # Instantiate optimizer and learning rate scheduler
     optimizer = torch.optim.Adam(model.parameters(), args.lr)
@@ -117,7 +122,7 @@ def main(args):
         # Iterate over the training set
         for i, sample in enumerate(progress_bar):
             if args.cuda:
-                sample = utils.move_to_cuda(sample)
+                sample = utils.move_to_cuda(sample,cuda_device)
             if len(sample) == 0:
                 continue
             model.train()
