@@ -28,13 +28,13 @@ def load_embedding(embed_path, dictionary):
     return embedding
 
 
-def move_to_cuda(sample,device):
+def move_to_cuda(sample):
     if torch.is_tensor(sample):
-        return sample.to(device)
+        return sample.cuda()
     elif isinstance(sample, list):
-        return [move_to_cuda(x,device) for x in sample]
+        return [move_to_cuda(x) for x in sample]
     elif isinstance(sample, dict):
-        return {key: move_to_cuda(value,device) for key, value in sample.items()}
+        return {key: move_to_cuda(value) for key, value in sample.items()}
     else:
         return sample
 
