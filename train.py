@@ -1,4 +1,5 @@
 import os
+os.environ["CUDA_VISIBLE_DEVICES"] = "2"
 import logging
 import argparse
 import numpy as np
@@ -59,6 +60,7 @@ def get_args():
 def main(args):
     """ Main training function. Trains the translation model over the course of several epochs, including dynamic
     learning rate adjustment and gradient clipping. """
+    os.environ["CUDA_VISIBLE_DEVICES"] = str(args.cuda_id)
 
     logging.info('Commencing training!')
     torch.manual_seed(42)
