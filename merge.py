@@ -4,7 +4,7 @@ with open('./raw_data/test.en') as f:
     ref = f.readlines()
 with open('./translate_baseline.txt') as f:
     base = f.readlines()
-with open('./translate_lexical.txt') as f:
+with open('./new_lexical_model_translations.txt') as f:
     lex = f.readlines()
 
 

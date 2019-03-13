@@ -36,6 +36,7 @@ def main(args):
     torch.manual_seed(42)
     state_dict = torch.load(args.checkpoint_path, map_location=lambda s, l: default_restore_location(s, 'cpu'))
     args = argparse.Namespace(**{**vars(args), **vars(state_dict['args'])})
+    args.cuda = False
     utils.init_logging(args)
 
     # Load dictionaries
